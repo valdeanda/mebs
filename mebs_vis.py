@@ -22,6 +22,7 @@
 
 # Import libraries
 import argparse
+from pathlib import Path
 from argparse import RawDescriptionHelpFormatter
 # import numpy as np
 import matplotlib.pylab as plt
@@ -39,6 +40,9 @@ parser = argparse.ArgumentParser(description=__doc__, epilog=epilog,
                                  formatter_class=RawDescriptionHelpFormatter)
 parser.add_argument('filename',
                     help="Input file derived from mebs.pl using -comp option.")
+parser.add_argument('-o', '--outdir', type=str, default='mebs_vis_out',
+                    help=('''Output folder [mebs_vis_out]'''))
+                    
 parser.add_argument('-im_format', '-f', default='png', type=str,
                     choices=['png', 'pdf', 'ps', 'eps', 'svg', 'tif', 'jpg'],
                     help='''Output format for images [png].''')
@@ -51,18 +55,23 @@ parser.add_argument('--im_res', '-r', default=300, type=int,
 args = parser.parse_args()
 # END options #
 
+outpath = Path(args.outdir)
+if not outpath.exists():
+    print('[OUTPUT]', str(outpath), '-> does not exists: creating')
+    outpath.mkdir()
+    
 
 ############################################
 # Remove asterisks from original mebs file #
 ############################################
-noast_fname = args.filename + '.noa'
+noast_fname = outpath/( args.filename + '.noa')
 cmd = "sed s/\*//g {} > {}".format(args.filename,
                                    noast_fname)
 run(cmd, shell=True)
 
 # END remove asterisks #
 
-df = pd.read_table(noast_fname, index_col=0)
+df = pd.read_csv(noast_fname, index_col=0, sep='\t')
 
 # Values obtained  by summing positive and negative entropies of each cycle
 sval = [16.018, -6.527000000000001]
@@ -129,7 +138,7 @@ df['N'] = df.nitrogen.apply(nitrogen_per)
 
 df_new = df[['S', 'C', 'O', 'Fe', 'N']]
 
-outfilename = args.filename + '_itol_mebs.txt'
+outfilename = outpath/(args.filename + '_itol_mebs.txt')
 infile = 'data2vis/dataset_heatmap_template.txt'
 outfile = open(outfilename, 'w')
 
@@ -156,7 +165,7 @@ outfile.close()
 
 # Create file to be input of   F_MEBS_cluster.py  using -s none option
 
-outfilename = args.filename + '_2_cluster_mebs.txt'
+outfilename = outpath/(args.filename + '_2_cluster_mebs.txt')
 infile = 'data2vis/mebs.gen.nr.norm.tab'
 outfile = open(outfilename, 'w')
 
@@ -253,10 +262,10 @@ df_comp.rename(columns={'sulfur_1': 'aprAB(Marker_gene)',
                         }, inplace=True)
 
 # Create a file with the completeness
-df_comp.to_csv(args.filename + "_completenes.tab", sep="\t")
+df_comp.to_csv(outpath/(args.filename + "_completenes.tab"), sep="\t")
 
 # outfilename_comp = 'itol_mebs_comp.txt'
-outfilename_comp = args.filename + "_itol_mebs_comp.txt"
+outfilename_comp = outpath/(args.filename + "_itol_mebs_comp.txt")
 infile = "data2vis/dataset_heatmap_template.txt"
 outfile2 = open(outfilename_comp, 'w')
 
@@ -290,7 +299,7 @@ axs = sns.clustermap(df_comp.T, col_cluster=True, linewidths=0.1,
                      figsize=(15, 12))
 # plt.tight_layout()
 # plt.title("Metabolic completeness of S and C pathways", )
-plt.savefig(args.filename + "_comp_heatmap." + args.im_format,
+plt.savefig(outpath/(args.filename + "_comp_heatmap." + args.im_format),
             dpi=args.im_res, bbox_inches='tight')
 
 # Barplot figure
@@ -307,7 +316,7 @@ else:
     ax1.legend(lines[:20], labels[:12], bbox_to_anchor=(
         1, 1), loc=2, borderaxespad=0.05, labelspacing=0.3)
 
-    plt.savefig(args.filename + "_barplot." + args.im_format,
+    plt.savefig(outpath/(args.filename + "_barplot." + args.im_format),
                 dpi=args.im_res, bbox_inches='tight')
 
 
@@ -324,7 +333,7 @@ plt.legend(bbox_to_anchor=(1, 1), loc=2, borderaxespad=0.05, labelspacing=0.25)
 lines, labels = ax1.get_legend_handles_labels()
 ax1.legend(lines[:20], labels[:12], bbox_to_anchor=(
     1, 1), loc=2, borderaxespad=0.05, labelspacing=0.3)
-plt.savefig(args.filename + "_mebs_heatmap." + args.im_format,
+plt.savefig(outpath/(args.filename + "_mebs_heatmap." + args.im_format),
             dpi=args.im_res, bbox_inches='tight')
 
 # Pairplot
@@ -353,11 +362,11 @@ for ax, title in zip(g.axes.flat, titles):
 
 sns.despine(left=True, bottom=True)
 plt.tight_layout()
-plt.savefig(args.filename + "_mebs_dotplot." + args.im_format,
+plt.savefig(outpath/(args.filename + "_mebs_dotplot." + args.im_format),
             dpi=args.im_res, bbox_inches='tight')
 
 print("Done........................\n"
-      "Please check the following files:\n",
+      "Please check the following files in folder '{}'  :\n".format(str(outpath)),
       "0. Original data without asteriks:", noast_fname, '\n',
       "1. Heatmap displaying the metabolic completeness of N,Fe,S and CH4 pathways:",
       args.filename + "comp_heatmap.png\n",

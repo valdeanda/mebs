@@ -1,6 +1,14 @@
 ![MEBS](./images/MEBS.png) 
 
 
+# Dependencies
+
+- python >= 3.4
+- python modules:
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
 
 
 # Basic usage
