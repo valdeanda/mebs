@@ -1,0 +1,128 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Candidatus_Nitrosopumilus_sp_AR2.faa.nitrogen.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/nitrogen/entropies.tab -minentropy -9 -random 0 -keggmap cycles/nitrogen/pfam2kegg.tab -pathway 
+
+# total HMMs with assigned entropy in cycles/nitrogen/entropies.tab : 96
+
+# Pfam	entropy	#matched_peptides
+PF12838	0.122	7
+PF07732	0.412	7
+PF07992	0.000	6
+PF00890	0.000	5
+PF00696	0.002	5
+PF13237	0.107	5
+PF00355	0.493	4
+PF13183	0.124	4
+PF13500	0.271	4
+PF00202	0.124	4
+PF01266	0.028	4
+PF13806	0.496	3
+PF00175	0.213	3
+PF00361	0.253	3
+PF00208	0.054	2
+PF00120	0.093	2
+PF00970	0.285	2
+PF02775	0.033	2
+PF00795	0.134	2
+PF03951	0.128	2
+PF01058	0.249	1
+PF00662	0.320	1
+PF02239	0.359	1
+PF12680	0.410	1
+PF00499	0.371	1
+PF00115	0.389	1
+PF01077	0.480	1
+PF00346	0.235	1
+PF03060	0.092	1
+PF02812	-0.001	1
+PF00329	0.253	1
+PF02776	0.142	1
+PF04744	0.421	1
+PF00146	0.236	1
+PF00142	0.094	1
+PF00507	0.355	1
+PF04896	0.431	1
+PF01035	0.083	1
+PF00205	0.180	1
+PF00420	0.281	1
+PF00116	0.460	1
+PF03460	0.475	1
+PF12942	0.120	1
+
+# Pfam entropy score: 9.807
+
+# Pathway report
+# path_number	path_name	total_domains	matched	%completeness	matched_Pfam_domains
+1	ammonia assimilation cycle I	8	3	37.5	PF07992,PF00120,PF03951
+2	ammonia assimilation cycle II	9	2	22.2	PF00120,PF03951
+3	L-glutamine biosynthesis I	5	2	40.0	PF00120,PF03951
+4	superpathway of ammonia assimilation (plants)	2	2	100.0	PF00120,PF03951
+5	ammonia oxidation I (aerobic)	5	2	40.0	PF04744,PF04896
+6	ammonia oxidation II (anaerobic)	2	1	50.0	PF07732
+7	ammonia oxidation IV (autotrophic ammonia oxidizers)	5	2	40.0	PF04744,PF04896
+8	nitrifier denitrification	11	5	45.5	PF07732,PF00115,PF04744,PF04896,PF00116
+9	nitrate reduction I (denitrification)	9	1	11.1	PF00115
+10	nitrate reduction III (dissimilatory)	19	0	0.0	
+11	nitrate reduction IV (dissimilatory)	5	0	0.0	
+12	nitrate reduction V (assimilatory)	14	10	71.4	PF07992,PF00355,PF00175,PF00208,PF00120,PF00970,PF03951,PF01077,PF02812,PF03460
+13	nitrate reduction VI (assimilatory)	7	4	57.1	PF00120,PF03951,PF01077,PF03460
+14	nitrate reduction VIII (dissimilatory)	26	11	42.3	PF12838,PF00361,PF01058,PF00662,PF00499,PF00115,PF00346,PF00329,PF00146,PF00507,PF00420
+15	nitrate reduction VIIIb (dissimilatory)	7	1	14.3	PF07992
+16	nitrate reduction IX (dissimilatory)	11	3	27.3	PF00890,PF13183,PF01266
+17	nitrate reduction X (dissimilatory periplasmic)	11	3	27.3	PF12838,PF13237,PF01266
+18	nitrogen fixation I (ferredoxin)  	5	1	20.0	PF00142
+19	nitrogen fixation II (flavodoxin)	4	1	25.0	PF00142
+20	Urea degradation II	4	0	0.0	
+21	caffeine degradation V (bacteria via trimethylurate)	1	0	0.0	
+22	4-aminobutanoate degradation I	3	1	33.3	PF00202
+23	4-aminobutanoate degradation II	3	1	33.3	PF00202
+24	4-aminobutanoate degradation V	4	0	0.0	
+25	allantoin degradation IV (anaerobic)	4	0	0.0	
+26	Ammonia monoxygenase Archaea AmoABC	3	3	100.0	PF04744,PF04896,PF12942
+27	nirBD	5	4	80.0	PF07992,PF13806,PF01077,PF03460
+28	GABA biosynthesis prokaryotes putrescine => GABA	4	2	50.0	PF01266,PF00120
+
+# mean pathway completeness: 34.6
+
+
+# Script to map these Pfam domains in KEGG->User Data Mapping.
+# Colors are proportional to the number of Pfam matches and normalized with respect to the max.
+# Note that a reference map must be selected first. For instance, Sulphur metabolism is:
+# http://www.genome.jp/kegg-bin/show_pathway?map00920
+# WARNING: note that several K numbers might map to the same protein.
+# These cases are coloured in KEGG with the color of the last given K number.
+# You might want to manually adjust the colors to correct this.
+K00111 #ffffbf,black
+K00112 #ffffbf,black
+K00113 #ffffbf,black
+K00262 #abd9e9,black
+K00264 #fdae61,black
+K00330 #2c7bb6,black
+K00331 #2c7bb6,black
+K00337 #2c7bb6,black
+K00338 #d7191c,black
+K00339 #2c7bb6,black
+K00340 #2c7bb6,black
+K00341 #abd9e9,black
+K00342 #abd9e9,black
+K00343 #abd9e9,black
+K00362 #fdae61,black
+K00363 #abd9e9,black
+K00366 #2c7bb6,black
+K00823 #ffffbf,black
+K01915 #abd9e9,black
+K02274 #2c7bb6,black
+K02275 #2c7bb6,black
+K02573 #d7191c,black
+K02574 #ffffbf,black
+K03885 #fdae61,black
+K04561 #2c7bb6,black
+K07250 #ffffbf,black
+K09470 #abd9e9,black
+K09471 #ffffbf,black
+K10534 #abd9e9,black
+K10945 #2c7bb6,black
+K10946 #2c7bb6,black
+K13378 #2c7bb6,black
+K14268 #ffffbf,black
+K17877 #fdae61,black
+nirK #d7191c,black

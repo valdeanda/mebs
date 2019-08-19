@@ -1,0 +1,35 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_052294188.1       -          AMP-binding          PF00501.27  2.2e-112  372.5   0.0  2.6e-112  372.2   0.0   1.0   1   0   0   1   1   1   1 hypothetical protein [Archaeoglobus profundus]
+WP_048084686.1       -          AMP-binding          PF00501.27    2e-104  346.3   0.0  2.4e-104  346.0   0.0   1.1   1   0   0   1   1   1   1 acetyl-coenzyme A synthetase [Archaeoglobus profundus]
+WP_012940104.1       -          AMP-binding          PF00501.27   9.6e-94  311.1   0.0   1.2e-93  310.8   0.0   1.1   1   0   0   1   1   1   1 acetyl-coenzyme A synthetase [Archaeoglobus profundus]
+WP_012940436.1       -          AMP-binding          PF00501.27   4.7e-63  209.9   0.0   6.2e-63  209.6   0.0   1.1   1   0   0   1   1   1   1 acetyl-CoA synthetase [Archaeoglobus profundus]
+WP_012940433.1       -          AMP-binding          PF00501.27   8.2e-23   77.4   0.0   1.7e-21   73.0   0.0   2.0   1   1   0   1   1   1   1 phenylacetate--CoA ligase [Archaeoglobus profundus]
+WP_012941006.1       -          AMP-binding          PF00501.27   1.2e-21   73.6   1.3   4.1e-20   68.5   1.3   2.1   1   1   0   1   1   1   1 phenylacetate--CoA ligase [Archaeoglobus profundus]
+WP_012939779.1       -          AMP-binding          PF00501.27   4.5e-11   38.7   0.2   8.4e-11   37.8   0.0   1.5   2   0   0   2   2   1   1 coenzyme F390 synthetase [Archaeoglobus profundus]
+WP_012939782.1       -          Fe-ADH               PF00465.18     3e-77  256.6   0.0   3.8e-77  256.3   0.0   1.0   1   0   0   1   1   1   1 alcohol dehydrogenase [Archaeoglobus profundus]
+WP_012939559.1       -          FeoB_C               PF07664.11   9.6e-17   57.2   1.0   9.6e-17   57.2   1.0   3.6   4   0   0   4   4   1   1 ferrous iron transporter B [Archaeoglobus profundus]
+WP_012939559.1       -          FeoB_N               PF02421.17   2.6e-66  218.7   1.1   4.1e-66  218.1   0.2   1.8   2   0   0   2   2   1   1 ferrous iron transporter B [Archaeoglobus profundus]
+WP_012939569.1       -          FeoB_N               PF02421.17     3e-16   56.1   0.1   4.3e-15   52.3   0.0   2.3   2   1   0   2   2   1   1 small GTP-binding protein [Archaeoglobus profundus]
+WP_012940954.1       -          FeoB_N               PF02421.17   3.1e-13   46.3   0.0   5.4e-13   45.5   0.0   1.4   1   0   0   1   1   1   1 small GTP-binding protein [Archaeoglobus profundus]
+WP_012939997.1       -          FeoB_N               PF02421.17   3.4e-13   46.2   0.1   1.3e-12   44.2   0.1   1.9   1   1   0   1   1   1   1 GTP-binding protein [Archaeoglobus profundus]
+WP_012940337.1       -          FeoB_N               PF02421.17   1.6e-11   40.7   0.0   3.1e-06   23.5   0.0   2.1   2   0   0   2   2   1   1 GTP-binding protein [Archaeoglobus profundus]
+WP_012939757.1       -          FeoB_N               PF02421.17   8.1e-09   31.9   0.2   3.9e-07   26.5   0.0   2.6   3   0   0   3   3   1   1 hypothetical protein [Archaeoglobus profundus]
+WP_012939559.1       -          Gate                 PF07670.13   4.4e-39  130.0  24.8   4.7e-28   94.5   6.1   3.1   3   0   0   3   3   2   2 ferrous iron transporter B [Archaeoglobus profundus]
+WP_012940463.1       -          Gate                 PF07670.13   2.2e-09   34.3  11.9   2.6e-06   24.5   0.2   2.5   2   1   0   2   2   0   0 nucleoside recognition domain-containing protein [Archaeoglobus profundus]
+WP_012939552.1       -          HMG_CoA_synt_C       PF08540.9    4.5e-07   26.5   0.1   1.7e-06   24.6   0.1   1.8   1   1   0   1   1   0   0 hydroxymethylglutaryl-CoA synthase [Archaeoglobus profundus]
+WP_012939552.1       -          HMG_CoA_synt_N       PF01154.16   2.6e-05   20.9   0.1   3.8e-05   20.4   0.1   1.2   1   0   0   1   1   0   0 hydroxymethylglutaryl-CoA synthase [Archaeoglobus profundus]
+WP_012940647.1       -          K_oxygenase          PF13434.5    3.1e-08   29.8   0.2   0.00045   16.2   0.1   3.1   3   0   0   3   3   0   0 heterodisulfide reductase subunit A [Archaeoglobus profundus]
+WP_012939759.1       -          K_oxygenase          PF13434.5    9.2e-08   28.3   0.1    0.0062   12.4   0.1   3.6   2   1   1   3   3   0   0 thioredoxin-disulfide reductase [Archaeoglobus profundus]
+WP_012940490.1       -          NifU                 PF01106.16   4.7e-28   93.9   0.6   5.3e-28   93.8   0.6   1.0   1   0   0   1   1   1   1 iron-sulfur cluster biogenesis protein NfuA [Archaeoglobus profundus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      cycles/iron/my_Pfam.iron.hmm
+# Target file:     gen_test//Archaeoglobus_profundus_DSM_5631.faa
+# Option settings: hmmsearch -o /dev/null --tblout gen_test//Archaeoglobus_profundus_DSM_5631.faa.iron.hmmsearch.tab --cut_ga cycles/iron/my_Pfam.iron.hmm gen_test//Archaeoglobus_profundus_DSM_5631.faa 
+# Current dir:     /home/hawking/src/mebs
+# Date:            Fri Aug 16 18:37:18 2019
+# [ok]

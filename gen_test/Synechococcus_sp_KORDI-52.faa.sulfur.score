@@ -1,0 +1,160 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Synechococcus_sp_KORDI-52.faa.sulfur.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/sulfur/entropies.tab -minentropy -9 -random 0 -keggmap cycles/sulfur/pfam2kegg.tab -pathway 
+
+# total HMMs with assigned entropy in cycles/sulfur/entropies.tab : 112
+
+# Pfam	entropy	#matched_peptides
+PF00005	-0.001	38
+PF00890	0.000	17
+PF01370	0.041	16
+PF07992	0.000	15
+PF00106	0.043	13
+PF00534	0.063	12
+PF00528	0.035	12
+PF00009	-0.001	8
+PF00111	-0.023	8
+PF13439	0.103	7
+PF12831	0.017	7
+PF12838	0.123	7
+PF00037	0.088	6
+PF02826	0.072	6
+PF02775	0.033	5
+PF00291	0.079	5
+PF00124	-0.010	4
+PF00581	-0.178	4
+PF00355	-0.143	4
+PF13442	-0.122	4
+PF00034	-0.119	4
+PF01613	-0.050	3
+PF00459	0.027	3
+PF01553	-0.279	3
+PF02776	0.075	3
+PF00501	-0.035	3
+PF00202	0.114	3
+PF00171	-0.111	2
+PF13531	0.165	2
+PF00557	0.000	2
+PF03460	-0.002	2
+PF01070	0.025	2
+PF01077	0.002	2
+PF13183	0.124	2
+PF01583	0.005	2
+PF00389	0.050	2
+PF13187	0.166	2
+PF02910	0.097	2
+PF09084	-0.062	2
+PF01571	-0.087	2
+PF00205	-0.043	2
+PF05239	-0.114	2
+PF01747	1.033	1
+PF04879	0.436	1
+PF00378	-0.261	1
+PF00384	0.272	1
+PF01568	0.414	1
+PF00258	-0.082	1
+PF08669	-0.097	1
+PF04069	-0.249	1
+PF12800	0.363	1
+PF00970	-0.190	1
+PF04173	-0.126	1
+PF03358	-0.123	1
+PF14306	1.074	1
+PF13193	-0.018	1
+PF01058	0.447	1
+PF00484	-0.261	1
+PF01208	-0.252	1
+PF01507	-0.030	1
+PF00175	-0.092	1
+
+# Pfam entropy score: 2.425
+
+# Pathway report
+# path_number	path_name	total_domains	matched	%completeness	matched_Pfam_domains
+1	aprAB	4	3	75.0	PF00890,PF12838,PF02910
+2	apt/sat	3	2	66.7	PF01747,PF14306
+3	dsrABC	5	3	60.0	PF00037,PF03460,PF01077
+4	Sox system	8	3	37.5	PF00581,PF13442,PF00034
+5	Sor system	3	0	0.0	
+6	fccB	3	1	33.3	PF07992
+7	doxAD	2	1	50.0	PF04173
+8	DsrEFH	4	0	0.0	
+9	dsrKMJOP	4	1	25.0	PF13183
+10	QmoABC	3	2	66.7	PF12831,PF13187
+11	Puf reaction center	8	2	25.0	PF00124,PF05239
+12	cysACDJNPQU	15	8	53.3	PF00005,PF00528,PF00009,PF00459,PF13531,PF01583,PF00258,PF01507
+13	asrABC	6	3	50.0	PF03460,PF01077,PF00175
+14	ttrABC	5	3	60.0	PF04879,PF00384,PF01568
+15	phsABC	6	4	66.7	PF04879,PF00384,PF01568,PF12800
+16	Rhodanase	1	1	100.0	PF00581
+17	Elemental sulfur reduction 	5	3	60.0	PF00970,PF01058,PF00175
+18	Elemental sulfur reduction 	6	3	50.0	PF04879,PF00384,PF01568
+19	ddhABC	4	2	50.0	PF00384,PF01568
+20	dsoABCDEF	9	2	22.2	PF00111,PF00970
+21	dmoAB	4	1	25.0	PF01613
+22	Saulfoacetaldehyde degradation 	2	2	100.0	PF00106,PF00202
+23	Sulfatoacetaldehyde degradation (Xsc) 	3	3	100.0	PF02775,PF02776,PF00205
+24	Sulfatoacetaldehyde degradation (SafD)	1	1	100.0	PF00171
+25	methanesulfonate degradation	7	4	57.1	PF00111,PF00355,PF00970,PF00175
+26	Sulfolactate degradation	12	7	58.3	PF02826,PF02775,PF00291,PF02776,PF01070,PF00389,PF00205
+27	Taurine degradation	6	4	66.7	PF00005,PF00528,PF00202,PF04069
+
+# mean pathway completeness: 54.0
+
+
+# Script to map these Pfam domains in KEGG->User Data Mapping.
+# Colors are proportional to the number of Pfam matches and normalized with respect to the max.
+# Note that a reference map must be selected first. For instance, Sulphur metabolism is:
+# http://www.genome.jp/kegg-bin/show_pathway?map00920
+# WARNING: note that several K numbers might map to the same protein.
+# These cases are coloured in KEGG with the color of the last given K number.
+# You might want to manually adjust the colors to correct this.
+0 #2c7bb6,black
+K00380 #2c7bb6,black
+K00385 #2c7bb6,black
+K00390 #2c7bb6,black
+K00394 #abd9e9,black
+K00860 #2c7bb6,black
+K00956 #2c7bb6,black
+K00957 #2c7bb6,black
+K01082 #2c7bb6,black
+K02045 #d7191c,black
+K02046 #abd9e9,black
+K02047 #abd9e9,black
+K02048 #2c7bb6,black
+K02439 #2c7bb6,black
+K0382 #2c7bb6,black
+K03851  #2c7bb6,black
+K06034 #2c7bb6,black
+K08352 #2c7bb6,black
+K08353 #2c7bb6,black
+K08357 #2c7bb6,black
+K08928 #2c7bb6,black
+K08929 #2c7bb6,black
+K10831 #d7191c,black
+K11180 #2c7bb6,black
+K11181 #2c7bb6,black
+K13039 #2c7bb6,black
+K13991 #2c7bb6,black
+K15372  #2c7bb6,black
+K15373 #abd9e9,black
+K15551 #2c7bb6,black
+K15552 #abd9e9,black
+K15762 #2c7bb6,black
+K15765 #2c7bb6,black
+K16843 #2c7bb6,black
+K16885 #2c7bb6,black
+K16887 #2c7bb6,black
+K16937 #2c7bb6,black
+K16951 #2c7bb6,black
+K16964 #2c7bb6,black
+K16967 #2c7bb6,black
+K16968 #2c7bb6,black
+K17220 #2c7bb6,black
+K17221 #2c7bb6,black
+K17222 #2c7bb6,black
+K17223   #2c7bb6,black
+K17229 #abd9e9,black
+K17950 #2c7bb6,black
+K17994  #2c7bb6,black
+K17995 #2c7bb6,black
+K17995   #2c7bb6,black

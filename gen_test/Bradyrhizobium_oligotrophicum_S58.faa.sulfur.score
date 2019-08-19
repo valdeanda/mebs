@@ -1,0 +1,209 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Bradyrhizobium_oligotrophicum_S58.faa.sulfur.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/sulfur/entropies.tab -minentropy -9 -random 0 -keggmap cycles/sulfur/pfam2kegg.tab -pathway 
+
+# total HMMs with assigned entropy in cycles/sulfur/entropies.tab : 112
+
+# Pfam	entropy	#matched_peptides
+PF00005	-0.001	196
+PF00528	0.035	124
+PF00106	0.043	84
+PF00501	-0.035	51
+PF01370	0.041	49
+PF07992	0.000	48
+PF00890	0.000	46
+PF13193	-0.018	40
+PF00111	-0.023	35
+PF09084	-0.062	32
+PF00441	-0.274	31
+PF00034	-0.119	31
+PF02771	-0.272	30
+PF02770	-0.280	29
+PF00378	-0.261	27
+PF13442	-0.122	22
+PF02775	0.033	20
+PF02826	0.072	20
+PF00171	-0.111	18
+PF02776	0.075	16
+PF00534	0.063	16
+PF02515	-0.177	14
+PF00355	-0.143	14
+PF13531	0.165	14
+PF12831	0.017	14
+PF00581	-0.178	12
+PF00037	0.088	12
+PF00296	-0.293	11
+PF00175	-0.092	11
+PF00009	-0.001	11
+PF00291	0.079	11
+PF00970	-0.190	11
+PF12838	0.123	11
+PF00205	-0.043	10
+PF13439	0.103	10
+PF00202	0.114	10
+PF00389	0.050	10
+PF13183	0.124	9
+PF13187	0.166	9
+PF01292	0.161	9
+PF13360	-0.112	9
+PF03358	-0.123	8
+PF01011	-0.156	8
+PF01070	0.025	6
+PF01613	-0.050	6
+PF00384	0.272	6
+PF05239	-0.114	6
+PF12800	0.363	5
+PF01568	0.414	5
+PF00459	0.027	5
+PF00174	-0.005	5
+PF02332	-0.023	4
+PF02668	-0.154	4
+PF00374	1.137	4
+PF04879	0.436	4
+PF13501	0.562	4
+PF02910	0.097	4
+PF08770	0.344	4
+PF02872	-0.189	3
+PF00557	0.000	3
+PF03404	-0.014	3
+PF04069	-0.249	3
+PF01077	0.002	3
+PF03460	-0.002	3
+PF01507	-0.030	3
+PF01058	0.447	3
+PF01583	0.005	3
+PF01515	-0.332	2
+PF02635	0.353	2
+PF04295	-0.091	2
+PF01571	-0.087	2
+PF14697	0.345	2
+PF00556	0.053	2
+PF01553	-0.279	2
+PF00124	-0.010	2
+PF08669	-0.097	2
+PF02406	-0.022	2
+PF01208	-0.252	2
+PF10518	0.178	2
+PF12806	-0.161	2
+PF09242	0.412	1
+PF13577	-0.158	1
+PF09459	0.349	1
+PF04945	0.048	1
+PF00258	-0.082	1
+PF00484	-0.261	1
+PF12857	-0.114	1
+PF01384	0.021	1
+PF04173	-0.126	1
+PF03967	0.028	1
+PF00667	-0.127	1
+PF02615	-0.144	1
+
+# Pfam entropy score: 1.211
+
+# Pathway report
+# path_number	path_name	total_domains	matched	%completeness	matched_Pfam_domains
+1	aprAB	4	3	75.0	PF00890,PF12838,PF02910
+2	apt/sat	3	0	0.0	
+3	dsrABC	5	3	60.0	PF00037,PF01077,PF03460
+4	Sox system	8	6	75.0	PF00034,PF13442,PF00581,PF13501,PF08770,PF02872
+5	Sor system	3	2	66.7	PF00174,PF03404
+6	fccB	3	3	100.0	PF07992,PF10518,PF09242
+7	doxAD	2	1	50.0	PF04173
+8	DsrEFH	4	1	25.0	PF02635
+9	dsrKMJOP	4	1	25.0	PF13183
+10	QmoABC	3	2	66.7	PF12831,PF13187
+11	Puf reaction center	8	4	50.0	PF05239,PF00556,PF00124,PF03967
+12	cysACDJNPQU	15	11	73.3	PF00005,PF00528,PF13531,PF00009,PF00459,PF01507,PF01583,PF00258,PF12857,PF01384,PF00667
+13	asrABC	6	4	66.7	PF00175,PF01077,PF03460,PF14697
+14	ttrABC	5	3	60.0	PF00384,PF01568,PF04879
+15	phsABC	6	5	83.3	PF01292,PF00384,PF12800,PF01568,PF04879
+16	Rhodanase	1	1	100.0	PF00581
+17	Elemental sulfur reduction 	5	4	80.0	PF00175,PF00970,PF00374,PF01058
+18	Elemental sulfur reduction 	6	4	66.7	PF00384,PF01568,PF04879,PF10518
+19	ddhABC	4	3	75.0	PF00384,PF01568,PF09459
+20	dsoABCDEF	9	5	55.6	PF00111,PF00970,PF02332,PF02406,PF04945
+21	dmoAB	4	2	50.0	PF00296,PF01613
+22	Saulfoacetaldehyde degradation 	2	2	100.0	PF00106,PF00202
+23	Sulfatoacetaldehyde degradation (Xsc) 	3	3	100.0	PF02775,PF02776,PF00205
+24	Sulfatoacetaldehyde degradation (SafD)	1	1	100.0	PF00171
+25	methanesulfonate degradation	7	5	71.4	PF00111,PF00355,PF00175,PF00970,PF13577
+26	Sulfolactate degradation	12	9	75.0	PF02775,PF02826,PF02776,PF00291,PF00205,PF00389,PF01070,PF01515,PF02615
+27	Taurine degradation	6	5	83.3	PF00005,PF00528,PF00202,PF02668,PF04069
+
+# mean pathway completeness: 67.9
+
+
+# Script to map these Pfam domains in KEGG->User Data Mapping.
+# Colors are proportional to the number of Pfam matches and normalized with respect to the max.
+# Note that a reference map must be selected first. For instance, Sulphur metabolism is:
+# http://www.genome.jp/kegg-bin/show_pathway?map00920
+# WARNING: note that several K numbers might map to the same protein.
+# These cases are coloured in KEGG with the color of the last given K number.
+# You might want to manually adjust the colors to correct this.
+0 #2c7bb6,black
+K00380 #2c7bb6,black
+K00385 #2c7bb6,black
+K00390 #2c7bb6,black
+K00394 #2c7bb6,black
+K00860 #2c7bb6,black
+K00956 #2c7bb6,black
+K00957 #2c7bb6,black
+K01082 #2c7bb6,black
+K02045 #d7191c,black
+K02046 #ffffbf,black
+K02047 #ffffbf,black
+K02048 #2c7bb6,black
+K02439 #2c7bb6,black
+K03119 #2c7bb6,black
+K0382 #2c7bb6,black
+K03851  #2c7bb6,black
+K04091 #2c7bb6,black
+K05884 #2c7bb6,black
+K06034 #2c7bb6,black
+K06250 #2c7bb6,black
+K07147 #2c7bb6,black
+K07235 #2c7bb6,black
+K07236 #2c7bb6,black
+K08352 #2c7bb6,black
+K08353 #2c7bb6,black
+K08354 #2c7bb6,black
+K08357 #2c7bb6,black
+K08926 #2c7bb6,black
+K08927 #2c7bb6,black
+K08928 #2c7bb6,black
+K08929 #2c7bb6,black
+K10831 #d7191c,black
+K11180 #2c7bb6,black
+K11181 #2c7bb6,black
+K13039 #2c7bb6,black
+K13991 #2c7bb6,black
+K15372  #2c7bb6,black
+K15373 #abd9e9,black
+K15551 #2c7bb6,black
+K15552 #ffffbf,black
+K15762 #2c7bb6,black
+K15765 #2c7bb6,black
+K16843 #2c7bb6,black
+K16844 #2c7bb6,black
+K16885 #2c7bb6,black
+K16887 #2c7bb6,black
+K16937 #2c7bb6,black
+K16951 #2c7bb6,black
+K16964 #2c7bb6,black
+K16966 #2c7bb6,black
+K16967 #2c7bb6,black
+K16968 #2c7bb6,black
+K16969 #2c7bb6,black
+K17220 #2c7bb6,black
+K17221 #2c7bb6,black
+K17222 #2c7bb6,black
+K17223   #2c7bb6,black
+K17224 #2c7bb6,black
+K17226  #2c7bb6,black
+K17227  #2c7bb6,black
+K17228 #2c7bb6,black
+K17229 #2c7bb6,black
+K17950 #2c7bb6,black
+K17993 #2c7bb6,black
+K17994  #2c7bb6,black
+K17995 #2c7bb6,black
+K17995   #2c7bb6,black

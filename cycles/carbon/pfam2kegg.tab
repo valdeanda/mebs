@@ -1,0 +1,110 @@
+PFAM	KO 	PATHWAY 	PATHWAY NAME 
+PF12838	K22164	1	coB/coM regeneration
+PF00329	K22160	1	coB/coM regeneration
+PF00346	K22161	1	coB/coM regeneration
+PF00374	K22161	1	coB/coM regeneration
+PF01058	K22159	1	coB/coM regeneration
+PF04422	K22162	1	coB/coM regeneration
+PF04432	K22162	1	coB/coM regeneration
+PF10621	K22170	1	coB/coM regeneration
+PF13447		2	methane oxidation 
+PF03069		2	methane oxidation 
+PF09723		2	methane oxidation 
+PF02461	K10944	2	methane oxidation 
+PF00970	K16161	2	methane oxidation 
+PF00175	K16161	2	methane oxidation 
+PF01011	K14028	2	methane oxidation 
+PF13360	K14029	2	methane oxidation 
+PF02315	K14029	2	methane oxidation 
+PF02315	K14029	2	methane oxidation 
+PF01011		2	methane oxidation 
+PF13360		2	methane oxidation 
+PF00146	K22163	3	methanogenesis
+PF00361	K22167	3	methanogenesis
+PF00420	K22166	3	methanogenesis
+PF00499	K22165	3	methanogenesis
+PF00507	K22158	3	methanogenesis
+PF00662	K22167	3	methanogenesis
+PF02007	K00584	3	methanogenesis
+PF03599	K00194	3	methanogenesis
+PF04060	K00197	3	methanogenesis
+PF09472	K00577	3	methanogenesis
+PF09472	K00582	3	methanogenesis
+PF04206	K00581	3	methanogenesis
+PF04207	K00580	3	methanogenesis
+PF04208	K00577	3	methanogenesis
+PF04210	K00583	3	methanogenesis
+PF04211	K00579	3	methanogenesis
+PF05440	K00578	3	methanogenesis
+PF05369		3	methanogenesis
+PF01208		3	methanogenesis
+PF09505	K16178	3	methanogenesis
+PF06253	K14083	3	methanogenesis
+PF01208		3	methanogenesis
+PF01208		3	methanogenesis
+PF01493	K00202	3	methanogenesis
+PF12838	K00205	3	methanogenesis
+PF00037	K00205	3	methanogenesis
+PF00296	K00320	3	methanogenesis
+PF01568	K00202	3	methanogenesis
+PF01913	K00672	3	methanogenesis
+PF02289	K01499	3	methanogenesis
+PF02663	K11261	3	methanogenesis
+PF02741	K00672	3	methanogenesis
+PF03201	K13942	3	methanogenesis
+PF07969	K00200	3	methanogenesis
+PF12800	K00205	3	methanogenesis
+PF13187	K00205	3	methanogenesis
+PF13484	K00205	3	methanogenesis
+PF02552		3	methanogenesis
+PF03063		3	methanogenesis
+PF03598		3	methanogenesis
+PF01208	K14080	4	methanogenesis(methanol) 
+PF02240	K00402	4	methanogenesis(methanol) 
+PF02241	K00401	4	methanogenesis(methanol) 
+PF02249	K00399	4	methanogenesis(methanol) 
+PF02745	K00399	4	methanogenesis(methanol) 
+PF02783	K00401	4	methanogenesis(methanol) 
+PF12176	K04480	4	methanogenesis(methanol) 
+PF02975		5	methylamine degradation
+PF06433	K15229	5	methylamine degradation
+PF01493		5	methylamine degradation
+PF00120	K01949	5	methylamine degradation
+PF01266		5	methylamine degradation
+PF01571		5	methylamine degradation
+PF01645		5	methylamine degradation
+PF04267		5	methylamine degradation
+PF04268		5	methylamine degradation
+PF07992		5	methylamine degradation
+PF08669		5	methylamine degradation
+PF13510		5	methylamine degradation
+PF13522		5	methylamine degradation
+PF03069	fmdA	3	methanogenesis
+PF09723	fmdB	3	methanogenesis
+PF01568 	fmdC	3	methanogenesis
+PF02663 	fmdE	3	methanogenesis
+PF00037 	fmdF	3	methanogenesis
+PF12838	fmdF	3	methanogenesis
+PF13187 	fmdF	3	methanogenesis
+PF12800 	fmdF	3	methanogenesis
+PF02240	mrtG	3	methanogenesis
+PF02249	mrtA	3	methanogenesis
+PF02241	mrtB	3	methanogenesis
+PF02783	mrtB	3	methanogenesis
+PF03069	fmdA	2	methane oxidation 
+PF09723	fmdB	2	methane oxidation 
+PF01568 	fmdC	2	methane oxidation 
+PF02663 	fmdE	2	methane oxidation 
+PF00037 	fmdF	2	methane oxidation 
+PF12838	fmdF	2	methane oxidation 
+PF13187 	fmdF	2	methane oxidation 
+PF12800 	fmdF	2	methane oxidation 
+PF02240	mrtG	2	methane oxidation 
+PF02249	mrtA	2	methane oxidation 
+PF02241	mrtB	2	methane oxidation 
+PF02783	mrtB	2	methane oxidation 
+PF02745		6	mcrABC
+PF02249		6	mcrABC
+PF02783		6	mcrABC
+PF02241		6	mcrABC
+PF02240		6	mcrABC

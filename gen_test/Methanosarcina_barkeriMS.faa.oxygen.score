@@ -1,0 +1,42 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Methanosarcina_barkeriMS.faa.oxygen.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/oxygen/entropies.tab -minentropy -9 -random 0 -keggmap  -pathway 
+
+# total HMMs with assigned entropy in cycles/oxygen/entropies.tab : 55
+
+# Pfam	entropy	#matched_peptides
+PF07992	0.000	17
+PF00117	0.008	11
+PF00148	2.282	11
+PF02239	0.162	11
+PF00142	0.094	10
+PF00696	0.002	6
+PF00384	-0.033	5
+PF03063	-0.072	4
+PF02786	0.044	4
+PF01568	0.051	4
+PF03460	0.533	3
+PF00795	0.134	3
+PF01493	0.433	3
+PF00173	-0.036	3
+PF01077	0.539	3
+PF14691	-0.358	2
+PF03060	0.007	2
+PF00120	0.093	2
+PF00175	0.290	2
+PF02142	0.116	2
+PF03951	0.134	2
+PF13247	-0.080	2
+PF00208	-0.040	1
+PF04879	0.085	1
+PF03139	-0.005	1
+PF00310	0.407	1
+PF01645	0.184	1
+PF02812	-0.105	1
+PF00174	-0.081	1
+PF02787	0.128	1
+PF02665	-0.062	1
+PF00988	0.159	1
+PF04898	0.456	1
+
+# Pfam entropy score: 5.469
+

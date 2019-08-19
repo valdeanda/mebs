@@ -1,0 +1,178 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Bradyrhizobium_oligotrophicum_S58.faa.nitrogen.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/nitrogen/entropies.tab -minentropy -9 -random 0 -keggmap cycles/nitrogen/pfam2kegg.tab -pathway 
+
+# total HMMs with assigned entropy in cycles/nitrogen/entropies.tab : 96
+
+# Pfam	entropy	#matched_peptides
+PF07992	0.000	48
+PF00890	0.000	46
+PF01266	0.028	45
+PF00034	0.424	31
+PF00441	0.139	31
+PF02771	0.208	30
+PF13442	0.508	22
+PF02775	0.033	20
+PF00067	0.567	17
+PF02776	0.142	16
+PF12680	0.410	16
+PF00355	0.493	14
+PF00970	0.285	11
+PF00795	0.134	11
+PF00175	0.213	11
+PF12838	0.122	11
+PF00202	0.124	10
+PF00205	0.180	10
+PF03060	0.092	9
+PF13183	0.124	9
+PF13237	0.107	9
+PF01292	0.353	9
+PF00148	0.954	8
+PF00142	0.094	8
+PF04324	0.325	7
+PF13510	0.136	7
+PF02239	0.359	6
+PF03069	0.425	6
+PF00115	0.389	6
+PF00384	0.243	6
+PF00696	0.002	6
+PF01568	0.254	5
+PF13806	0.496	5
+PF12800	0.240	5
+PF12801	0.077	5
+PF00174	0.523	5
+PF13500	0.271	4
+PF00361	0.253	4
+PF02668	0.275	4
+PF04879	0.301	4
+PF01058	0.249	3
+PF03460	0.475	3
+PF10531	-0.062	3
+PF00116	0.460	3
+PF01035	0.083	3
+PF01077	0.480	3
+PF01645	0.124	3
+PF16901	0.073	3
+PF03404	0.333	3
+PF00120	0.093	3
+PF01257	0.338	2
+PF14691	0.106	2
+PF01512	0.041	2
+PF07732	0.412	2
+PF16694	0.434	2
+PF00662	0.320	2
+PF10588	0.145	2
+PF10589	0.147	2
+PF01515	-0.306	2
+PF03951	0.128	2
+PF13435	0.133	1
+PF00484	0.182	1
+PF02812	-0.001	1
+PF02560	0.181	1
+PF00208	0.054	1
+PF00420	0.281	1
+PF00507	0.355	1
+PF00329	0.253	1
+PF00346	0.235	1
+PF01493	0.289	1
+PF00310	0.252	1
+PF03892	0.178	1
+PF00258	0.126	1
+PF00499	0.371	1
+PF11844	1.455	1
+PF04898	0.297	1
+PF00146	0.236	1
+PF02754	0.407	1
+PF03264	0.310	1
+
+# Pfam entropy score: 19.97
+
+# Pathway report
+# path_number	path_name	total_domains	matched	%completeness	matched_Pfam_domains
+1	ammonia assimilation cycle I	8	8	100.0	PF07992,PF01645,PF00120,PF14691,PF03951,PF01493,PF00310,PF04898
+2	ammonia assimilation cycle II	9	6	66.7	PF01645,PF00120,PF03951,PF01493,PF00310,PF04898
+3	L-glutamine biosynthesis I	5	2	40.0	PF00120,PF03951
+4	superpathway of ammonia assimilation (plants)	2	2	100.0	PF00120,PF03951
+5	ammonia oxidation I (aerobic)	5	1	20.0	PF16694
+6	ammonia oxidation II (anaerobic)	2	2	100.0	PF13442,PF07732
+7	ammonia oxidation IV (autotrophic ammonia oxidizers)	5	2	40.0	PF13435,PF03264
+8	nitrifier denitrification	11	6	54.5	PF00034,PF13442,PF00115,PF00116,PF07732,PF16694
+9	nitrate reduction I (denitrification)	9	5	55.6	PF00034,PF13442,PF00115,PF00384,PF01568
+10	nitrate reduction III (dissimilatory)	19	5	26.3	PF01292,PF00384,PF01568,PF12800,PF04879
+11	nitrate reduction IV (dissimilatory)	5	4	80.0	PF00384,PF01568,PF04879,PF03892
+12	nitrate reduction V (assimilatory)	14	13	92.9	PF07992,PF00355,PF00970,PF00175,PF04324,PF00174,PF03460,PF01077,PF03404,PF00120,PF03951,PF02812,PF00208
+13	nitrate reduction VI (assimilatory)	7	7	100.0	PF00384,PF01568,PF04879,PF03460,PF01077,PF00120,PF03951
+14	nitrate reduction VIII (dissimilatory)	26	18	69.2	PF12838,PF00115,PF00384,PF01568,PF00361,PF04879,PF01058,PF10531,PF01512,PF00662,PF10588,PF10589,PF00420,PF00507,PF00329,PF00346,PF00499,PF00146
+15	nitrate reduction VIIIb (dissimilatory)	7	3	42.9	PF07992,PF00384,PF01568
+16	nitrate reduction IX (dissimilatory)	11	7	63.6	PF00890,PF01266,PF13183,PF04324,PF00384,PF01568,PF02754
+17	nitrate reduction X (dissimilatory periplasmic)	11	11	100.0	PF01266,PF12838,PF13237,PF00384,PF01568,PF12800,PF12801,PF04879,PF16901,PF03892,PF03264
+18	nitrogen fixation I (ferredoxin)  	5	3	60.0	PF00148,PF00142,PF11844
+19	nitrogen fixation II (flavodoxin)	4	3	75.0	PF00148,PF00142,PF11844
+20	Urea degradation II	4	0	0.0	
+21	caffeine degradation V (bacteria via trimethylurate)	1	0	0.0	
+22	4-aminobutanoate degradation I	3	1	33.3	PF00202
+23	4-aminobutanoate degradation II	3	1	33.3	PF00202
+24	4-aminobutanoate degradation V	4	0	0.0	
+25	allantoin degradation IV (anaerobic)	4	0	0.0	
+26	Ammonia monoxygenase Archaea AmoABC	3	0	0.0	
+27	nirBD	5	5	100.0	PF07992,PF04324,PF13806,PF03460,PF01077
+28	GABA biosynthesis prokaryotes putrescine => GABA	4	2	50.0	PF01266,PF00120
+
+# mean pathway completeness: 53.7
+
+
+# Script to map these Pfam domains in KEGG->User Data Mapping.
+# Colors are proportional to the number of Pfam matches and normalized with respect to the max.
+# Note that a reference map must be selected first. For instance, Sulphur metabolism is:
+# http://www.genome.jp/kegg-bin/show_pathway?map00920
+# WARNING: note that several K numbers might map to the same protein.
+# These cases are coloured in KEGG with the color of the last given K number.
+# You might want to manually adjust the colors to correct this.
+K00111 #fdae61,black
+K00112 #fdae61,black
+K00113 #2c7bb6,black
+K00123 #2c7bb6,black
+K00127 #2c7bb6,black
+K00262 #2c7bb6,black
+K00264 #d7191c,black
+K00284 #2c7bb6,black
+K00330 #2c7bb6,black
+K00331 #2c7bb6,black
+K00335 #2c7bb6,black
+K00336 #2c7bb6,black
+K00337 #2c7bb6,black
+K00338 #2c7bb6,black
+K00339 #2c7bb6,black
+K00340 #2c7bb6,black
+K00341 #2c7bb6,black
+K00342 #2c7bb6,black
+K00343 #2c7bb6,black
+K00362 #d7191c,black
+K00363 #2c7bb6,black
+K00366 #2c7bb6,black
+K00367 #2c7bb6,black
+K00370 #2c7bb6,black
+K00823 #2c7bb6,black
+K01915 #2c7bb6,black
+K02274 #2c7bb6,black
+K02275 #2c7bb6,black
+K02305 #ffffbf,black
+K02567 #2c7bb6,black
+K02568 #2c7bb6,black
+K02569 #2c7bb6,black
+K02573 #2c7bb6,black
+K02574 #2c7bb6,black
+K03885 #d7191c,black
+K04561 #2c7bb6,black
+K07250 #2c7bb6,black
+K08348 #2c7bb6,black
+K08349 #2c7bb6,black
+K08350 #2c7bb6,black
+K09470 #2c7bb6,black
+K09471 #fdae61,black
+K10534 #2c7bb6,black
+K13378 #2c7bb6,black
+K14268 #2c7bb6,black
+K15864 #abd9e9,black
+K17877 #d7191c,black
+K22897 #2c7bb6,black
+nirK #2c7bb6,black

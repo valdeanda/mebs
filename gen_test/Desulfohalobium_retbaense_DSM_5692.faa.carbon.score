@@ -1,0 +1,96 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Desulfohalobium_retbaense_DSM_5692.faa.carbon.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/carbon/entropies.tab -minentropy -9 -random 0 -keggmap cycles/carbon/pfam2kegg.tab -pathway 
+
+# total HMMs with assigned entropy in cycles/carbon/entropies.tab : 119
+
+# Pfam	entropy	#matched_peptides
+PF00037	0.088	46
+PF12838	0.122	45
+PF13187	0.166	38
+PF07992	0.000	24
+PF13484	0.160	17
+PF01266	0.028	17
+PF12800	0.345	12
+PF13247	0.222	9
+PF02786	0.044	7
+PF00142	0.094	6
+PF00384	0.302	6
+PF01568	0.431	6
+PF00117	0.008	5
+PF00696	0.002	5
+PF04879	0.226	5
+PF01077	0.328	4
+PF01645	0.166	4
+PF02665	-0.040	4
+PF00795	-0.150	4
+PF03460	0.323	3
+PF09723	-0.079	3
+PF03060	0.058	3
+PF14691	-0.178	3
+PF00361	0.285	3
+PF04060	0.958	2
+PF02663	1.642	2
+PF03063	0.937	2
+PF01493	0.447	2
+PF07969	0.101	2
+PF00175	0.124	2
+PF02142	0.099	2
+PF13522	0.064	2
+PF00374	1.037	2
+PF01058	0.483	2
+PF13447	0.040	2
+PF00988	0.159	1
+PF04324	-0.306	1
+PF00310	0.186	1
+PF04432	1.580	1
+PF00871	-0.344	1
+PF13442	-0.295	1
+PF02787	0.141	1
+PF01571	-0.408	1
+PF00208	-0.155	1
+PF08669	-0.390	1
+PF00420	0.152	1
+PF03951	0.189	1
+PF04898	0.429	1
+PF05088	-0.157	1
+PF00662	-0.074	1
+PF01515	-0.261	1
+PF00120	0.093	1
+PF07732	-0.252	1
+
+# Pfam entropy score: 9.17
+
+# Pathway report
+# path_number	path_name	total_domains	matched	%completeness	matched_Pfam_domains
+1	coB/coM regeneration	8	4	50.0	PF12838,PF00374,PF01058,PF04432
+2	methane oxidation 	24	4	16.7	PF12838,PF09723,PF00175,PF13447
+3	methanogenesis	52	15	28.8	PF00037,PF12838,PF13187,PF13484,PF12800,PF01568,PF09723,PF00361,PF04060,PF02663,PF03063,PF01493,PF07969,PF00420,PF00662
+4	methanogenesis(methanol) 	7	0	0.0	
+5	methylamine degradation	13	8	61.5	PF07992,PF01266,PF01645,PF01493,PF13522,PF01571,PF08669,PF00120
+6	mcrABC	5	0	0.0	
+
+# mean pathway completeness: 26.2
+
+
+# Script to map these Pfam domains in KEGG->User Data Mapping.
+# Colors are proportional to the number of Pfam matches and normalized with respect to the max.
+# Note that a reference map must be selected first. For instance, Sulphur metabolism is:
+# http://www.genome.jp/kegg-bin/show_pathway?map00920
+# WARNING: note that several K numbers might map to the same protein.
+# These cases are coloured in KEGG with the color of the last given K number.
+# You might want to manually adjust the colors to correct this.
+K00197 #2c7bb6,black
+K00200 #2c7bb6,black
+K00202 #2c7bb6,black
+K00205 #d7191c,black
+K01949 #2c7bb6,black
+K11261 #2c7bb6,black
+K16161 #2c7bb6,black
+K22159 #2c7bb6,black
+K22161 #2c7bb6,black
+K22162 #2c7bb6,black
+K22164 #fdae61,black
+K22166 #2c7bb6,black
+K22167 #2c7bb6,black
+fmdB #2c7bb6,black
+fmdF #fdae61,black

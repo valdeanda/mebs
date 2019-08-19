@@ -1,0 +1,39 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Desulfohalobium_retbaense_DSM_5692.faa.iron.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/iron/entropies.tab -minentropy -9 -random 0 -keggmap cycles/iron/pfam2kegg.tab -pathway 
+
+# total HMMs with assigned entropy in cycles/iron/entropies.tab : 33
+
+# Pfam	entropy	#matched_peptides
+PF00501	0.141	12
+PF02421	-0.001	8
+PF14522	1.005	7
+PF09699	1.013	6
+PF00465	-0.042	4
+PF13434	-0.118	2
+PF01592	0.220	2
+PF07670	0.339	2
+PF01106	0.249	2
+PF07664	0.492	1
+PF00034	0.449	1
+PF00550	0.025	1
+PF03264	1.166	1
+PF02535	-0.189	1
+
+# Pfam entropy score: 4.749
+
+# Pathway report
+# path_number	path_name	total_domains	matched	%completeness	matched_Pfam_domains
+1	Fe(II)oxidation	9	1	11.1	PF00034
+2	Fe_reduction_absorption 	9	1	11.1	PF02535
+
+# mean pathway completeness: 11.1
+
+
+# Script to map these Pfam domains in KEGG->User Data Mapping.
+# Colors are proportional to the number of Pfam matches and normalized with respect to the max.
+# Note that a reference map must be selected first. For instance, Sulphur metabolism is:
+# http://www.genome.jp/kegg-bin/show_pathway?map00920
+# WARNING: note that several K numbers might map to the same protein.
+# These cases are coloured in KEGG with the color of the last given K number.
+# You might want to manually adjust the colors to correct this.
+

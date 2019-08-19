@@ -1,0 +1,40 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Synechococcus_sp_KORDI-52.faa.oxygen.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/oxygen/entropies.tab -minentropy -9 -random 0 -keggmap  -pathway 
+
+# total HMMs with assigned entropy in cycles/oxygen/entropies.tab : 55
+
+# Pfam	entropy	#matched_peptides
+PF07992	0.000	15
+PF00117	0.008	6
+PF02786	0.044	5
+PF00696	0.002	4
+PF13442	0.623	4
+PF00067	0.625	4
+PF00795	0.134	4
+PF02142	0.116	2
+PF01077	0.539	2
+PF00148	2.282	2
+PF00120	0.093	2
+PF00115	0.489	2
+PF00142	0.094	2
+PF03460	0.533	2
+PF00116	0.659	2
+PF01645	0.184	2
+PF00384	-0.033	1
+PF02560	0.934	1
+PF01493	0.433	1
+PF00484	-0.104	1
+PF00175	0.290	1
+PF04879	0.085	1
+PF04898	0.456	1
+PF02787	0.128	1
+PF00970	0.169	1
+PF00988	0.159	1
+PF03060	0.007	1
+PF00310	0.407	1
+PF03951	0.134	1
+PF01568	0.051	1
+PF03069	0.205	1
+
+# Pfam entropy score: 9.746
+

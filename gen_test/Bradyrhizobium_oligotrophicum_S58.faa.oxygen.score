@@ -1,0 +1,53 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Bradyrhizobium_oligotrophicum_S58.faa.oxygen.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/oxygen/entropies.tab -minentropy -9 -random 0 -keggmap  -pathway 
+
+# total HMMs with assigned entropy in cycles/oxygen/entropies.tab : 55
+
+# Pfam	entropy	#matched_peptides
+PF07992	0.000	48
+PF00441	-0.350	31
+PF02771	-0.302	30
+PF13442	0.623	22
+PF00067	0.625	17
+PF00970	0.169	11
+PF00175	0.290	11
+PF00795	0.134	11
+PF03060	0.007	9
+PF02786	0.044	8
+PF00142	0.094	8
+PF00117	0.008	8
+PF00148	2.282	8
+PF04324	-0.223	7
+PF00696	0.002	6
+PF02239	0.162	6
+PF00384	-0.033	6
+PF00115	0.489	6
+PF03069	0.205	6
+PF01568	0.051	5
+PF00174	-0.081	5
+PF13806	-0.099	5
+PF04879	0.085	4
+PF00120	0.093	3
+PF00116	0.659	3
+PF03460	0.533	3
+PF01077	0.539	3
+PF03404	-0.086	3
+PF01645	0.184	3
+PF03951	0.134	2
+PF07732	-0.043	2
+PF02142	0.116	2
+PF14691	-0.358	2
+PF02787	0.128	1
+PF00484	-0.104	1
+PF11844	0.574	1
+PF01493	0.433	1
+PF00310	0.407	1
+PF04898	0.456	1
+PF02812	-0.105	1
+PF00194	0.076	1
+PF00988	0.159	1
+PF00208	-0.040	1
+PF02560	0.934	1
+
+# Pfam entropy score: 8.871
+

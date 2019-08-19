@@ -1,0 +1,67 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_012940108.1       -          AA_kinase            PF00696.27   1.4e-54  182.0   2.6   2.3e-54  181.3   0.2   2.0   2   0   0   2   2   1   1 aspartate kinase [Archaeoglobus profundus]
+WP_012940654.1       -          AA_kinase            PF00696.27   6.3e-50  166.7   2.9   7.2e-50  166.6   2.9   1.0   1   0   0   1   1   1   1 acetylglutamate kinase [Archaeoglobus profundus]
+WP_012940946.1       -          AA_kinase            PF00696.27   2.1e-35  119.2   0.1   2.4e-35  119.0   0.1   1.0   1   0   0   1   1   1   1 aspartate/glutamate/uridylate kinase [Archaeoglobus profundus]
+WP_012940357.1       -          AA_kinase            PF00696.27   3.8e-32  108.5   1.6   2.1e-31  106.1   1.6   1.8   1   1   0   1   1   1   1 uridylate kinase [Archaeoglobus profundus]
+WP_012940325.1       -          Acyl-CoA_dh_1        PF00441.23   5.4e-28   94.8   0.0   8.1e-28   94.3   0.0   1.2   1   0   0   1   1   1   1 acyl-CoA dehydrogenase [Archaeoglobus profundus]
+WP_012940176.1       -          CN_hydrolase         PF00795.21     6e-44  147.1   0.0   6.7e-44  146.9   0.0   1.0   1   0   0   1   1   1   1 nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase [Archaeoglobus profundus]
+WP_012940061.1       -          CPSase_L_D2          PF02786.16  7.9e-114  375.1   0.4   5.7e-74  244.9   0.1   2.4   2   0   0   2   2   2   2 carbamoyl phosphate synthase large subunit [Archaeoglobus profundus]
+WP_012939450.1       -          CPSase_L_D2          PF02786.16   1.9e-74  246.4   0.0   2.9e-74  245.9   0.0   1.2   1   0   0   1   1   1   1 biotin carboxylase [Archaeoglobus profundus]
+WP_012940061.1       -          CPSase_L_D3          PF02787.18   4.7e-46  152.9   4.2   1.3e-45  151.4   4.2   1.8   1   0   0   1   1   1   1 carbamoyl phosphate synthase large subunit [Archaeoglobus profundus]
+WP_012940062.1       -          CPSase_sm_chain      PF00988.21   4.6e-53  175.2   0.0   6.9e-53  174.6   0.0   1.3   1   0   0   1   1   1   1 carbamoyl phosphate synthase small subunit [Archaeoglobus profundus]
+WP_012939682.1       -          ELFV_dehydrog        PF00208.20   3.9e-08   30.1   0.2   6.5e-08   29.3   0.2   1.6   1   1   0   1   1   1   1 homoserine dehydrogenase [Archaeoglobus profundus]
+WP_012941107.1       -          Fer4_11              PF13247.5    5.2e-18   61.8  15.2   8.8e-13   45.0   5.0   3.2   3   0   0   3   3   1   1 Hdr menaquinol oxidoreductase iron-sulfur subunit 1 [Archaeoglobus profundus]
+WP_012940075.1       -          Fer4_11              PF13247.5    9.5e-15   51.3  18.0   1.9e-14   50.3  10.7   2.6   2   1   0   2   2   1   1 formate dehydrogenase [Archaeoglobus profundus]
+WP_012939491.1       -          Fer4_11              PF13247.5    6.5e-08   29.4  10.6   6.5e-08   29.4  10.6   2.1   2   1   0   2   2   1   1 iron-sulfur-binding protein [Archaeoglobus profundus]
+WP_012940836.1       -          Fer4_NifH            PF00142.17   1.1e-07   28.4   0.1   3.4e-05   20.1   0.2   2.4   2   0   0   2   2   0   0 ATP-binding protein [Archaeoglobus profundus]
+WP_012940432.1       -          Fer4_NifH            PF00142.17   9.3e-07   25.3   0.2   3.4e-06   23.4   0.1   1.9   1   1   1   2   2   0   0 ATP-binding protein [Archaeoglobus profundus]
+WP_012940171.1       -          GATase               PF00117.27   1.2e-58  194.8   0.0   2.1e-58  194.0   0.0   1.4   1   0   0   1   1   1   1 CTP synthetase [Archaeoglobus profundus]
+WP_012940062.1       -          GATase               PF00117.27   1.7e-52  174.7   0.0   2.2e-52  174.3   0.0   1.2   1   0   0   1   1   1   1 carbamoyl phosphate synthase small subunit [Archaeoglobus profundus]
+WP_012939617.1       -          GATase               PF00117.27   4.3e-46  153.8   0.0   5.1e-46  153.6   0.0   1.0   1   0   0   1   1   1   1 aminodeoxychorismate/anthranilate synthase component II [Archaeoglobus profundus]
+WP_012940330.1       -          GATase               PF00117.27     9e-43  143.0   0.0     1e-42  142.8   0.0   1.0   1   0   0   1   1   1   1 GMP synthase [Archaeoglobus profundus]
+WP_012940223.1       -          GATase               PF00117.27   3.4e-22   75.9   0.0   3.8e-22   75.7   0.0   1.0   1   0   0   1   1   1   1 imidazole glycerol phosphate synthase subunit HisH [Archaeoglobus profundus]
+WP_012940219.1       -          GATase               PF00117.27   1.6e-08   31.3   0.0     2e-07   27.7   0.0   2.2   1   1   0   1   1   1   1 phosphoribosylformylglycinamidine synthase subunit PurQ [Archaeoglobus profundus]
+WP_012940079.1       -          GATase               PF00117.27   5.5e-08   29.5   0.0   7.2e-08   29.2   0.0   1.0   1   0   0   1   1   1   1 hypothetical protein [Archaeoglobus profundus]
+WP_012940081.1       -          GATase               PF00117.27   3.9e-07   26.7   0.0   8.4e-07   25.7   0.0   1.5   1   1   0   1   1   1   1 pyridoxal 5'-phosphate synthase glutaminase subunit PdxT [Archaeoglobus profundus]
+WP_012939787.1       -          Gln-synt_C           PF00120.23  1.3e-125  415.7   0.0  1.5e-125  415.4   0.0   1.1   1   0   0   1   1   1   1 type I glutamate--ammonia ligase [Archaeoglobus profundus]
+WP_012939787.1       -          Gln-synt_N           PF03951.18   7.6e-24   80.0   0.0   2.5e-23   78.4   0.0   1.9   2   0   0   2   2   1   1 type I glutamate--ammonia ligase [Archaeoglobus profundus]
+WP_012939786.1       -          Glu_synthase         PF01645.16   4.8e-12   42.4   0.1   4.6e-09   32.6   0.0   2.1   2   0   0   2   2   1   1 glutamate synthase [Archaeoglobus profundus]
+WP_012940061.1       -          MGS                  PF02142.21   4.5e-26   87.7   0.1   8.4e-25   83.6   0.0   3.0   3   0   0   3   3   1   1 carbamoyl phosphate synthase large subunit [Archaeoglobus profundus]
+WP_012939631.1       -          MGS                  PF02142.21   2.5e-16   56.4   0.0   3.2e-16   56.1   0.0   1.2   1   0   0   1   1   1   1 MGS domain-containing protein [Archaeoglobus profundus]
+WP_012940074.1       -          Molybdopterin        PF00384.21   2.7e-74  247.4   0.0   3.4e-74  247.0   0.0   1.1   1   0   0   1   1   1   1 molybdopterin oxidoreductase [Archaeoglobus profundus]
+WP_012940074.1       -          Molybdop_Fe4S4       PF04879.15   9.8e-18   60.7   0.5   2.4e-17   59.5   0.5   1.7   1   0   0   1   1   1   1 molybdopterin oxidoreductase [Archaeoglobus profundus]
+WP_012940074.1       -          Molydop_binding      PF01568.20   1.1e-18   64.0   0.0   2.2e-18   63.1   0.0   1.5   1   0   0   1   1   1   1 molybdopterin oxidoreductase [Archaeoglobus profundus]
+WP_012940172.1       -          NAD_binding_1        PF00175.20   1.7e-10   38.3   0.0   2.7e-09   34.4   0.0   2.2   1   1   0   1   1   1   1 dihydroorotate dehydrogenase electron transfer subunit [Archaeoglobus profundus]
+WP_012939547.1       -          NIR_SIR              PF01077.21   8.1e-48  158.7   0.1   1.7e-47  157.7   0.1   1.5   2   0   0   2   2   1   1 sulfite reductase, dissimilatory-type subunit alpha [Archaeoglobus profundus]
+WP_012939548.1       -          NIR_SIR              PF01077.21   3.5e-41  137.1   0.0   4.9e-41  136.6   0.0   1.1   1   0   0   1   1   1   1 sulfite reductase, dissimilatory-type beta subunit [Archaeoglobus profundus]
+WP_012939548.1       -          NIR_SIR_ferr         PF03460.16   1.1e-12   44.3   0.0   2.6e-12   43.2   0.0   1.7   1   0   0   1   1   1   1 sulfite reductase, dissimilatory-type beta subunit [Archaeoglobus profundus]
+WP_012939547.1       -          NIR_SIR_ferr         PF03460.16   8.3e-10   35.2   0.0   2.6e-09   33.6   0.0   1.7   2   0   0   2   2   1   1 sulfite reductase, dissimilatory-type subunit alpha [Archaeoglobus profundus]
+WP_012941109.1       -          Nitrate_red_gam      PF02665.13   1.7e-19   67.0  20.3   6.8e-17   58.5  12.4   2.1   2   0   0   2   2   1   1 Hdr menaquinol oxidoreductase cytochrome b subunit [Archaeoglobus profundus]
+WP_012940385.1       -          NMO                  PF03060.14   6.5e-09   32.3   1.2   2.9e-06   23.6   0.1   2.3   2   0   0   2   2   0   0 geranylgeranylglyceryl/heptaprenylglyceryl phosphate synthase [Archaeoglobus profundus]
+WP_012939824.1       -          NMO                  PF03060.14   1.1e-08   31.6   0.3   6.4e-07   25.8   0.0   2.1   1   1   1   2   2   0   0 dihydroorotate dehydrogenase [Archaeoglobus profundus]
+WP_012939434.1       -          NMO                  PF03060.14   1.3e-07   28.0   0.2     0.001   15.2   0.0   2.2   2   0   0   2   2   0   0 imidazole glycerol phosphate synthase cyclase subunit [Archaeoglobus profundus]
+WP_012939759.1       -          Pyr_redox_2          PF07992.13   1.4e-63  211.6   4.2   1.6e-63  211.4   4.2   1.0   1   0   0   1   1   1   1 thioredoxin-disulfide reductase [Archaeoglobus profundus]
+WP_012940022.1       -          Pyr_redox_2          PF07992.13   1.6e-63  211.4   0.6   2.3e-63  210.9   0.6   1.2   1   0   0   1   1   1   1 pyridine nucleotide-disulfide oxidoreductase [Archaeoglobus profundus]
+WP_012939515.1       -          Pyr_redox_2          PF07992.13   3.5e-45  151.2   4.2   4.2e-45  151.0   4.2   1.1   1   0   0   1   1   1   1 FAD-dependent oxidoreductase [Archaeoglobus profundus]
+WP_012939765.1       -          Pyr_redox_2          PF07992.13   4.1e-18   62.3   1.9   2.6e-08   30.2   0.0   3.4   3   1   0   3   3   1   1 pyridine nucleotide-disulfide oxidoreductase [Archaeoglobus profundus]
+WP_012940456.1       -          Pyr_redox_2          PF07992.13   5.4e-17   58.7   0.5   1.3e-15   54.2   0.5   2.8   1   1   0   1   1   1   1 disulfide reductase [Archaeoglobus profundus]
+WP_012940647.1       -          Pyr_redox_2          PF07992.13   1.7e-16   57.0   4.9   1.7e-15   53.8   4.8   2.7   1   1   0   1   1   1   1 heterodisulfide reductase subunit A [Archaeoglobus profundus]
+WP_012940937.1       -          Pyr_redox_2          PF07992.13     3e-16   56.3   0.1   1.2e-10   37.9   0.0   2.9   3   0   0   3   3   1   1 disulfide reductase [Archaeoglobus profundus]
+WP_012940173.1       -          Pyr_redox_2          PF07992.13     2e-15   53.5   0.1   2.8e-13   46.5   0.1   3.0   1   1   0   1   1   1   1 methyl-viologen-reducing hydrogenase subunit delta [Archaeoglobus profundus]
+WP_012940648.1       -          Pyr_redox_2          PF07992.13   5.3e-13   45.6   4.5   2.3e-06   23.8   1.1   3.2   2   1   0   2   2   0   0 heterodisulfide reductase subunit A [Archaeoglobus profundus]
+WP_012941221.1       -          Pyr_redox_2          PF07992.13   6.2e-12   42.1   0.3     2e-06   24.0   0.4   2.9   2   1   0   2   2   0   0 fumarate reductase flavoprotein subunit [Archaeoglobus profundus]
+WP_012940113.1       -          Pyr_redox_2          PF07992.13   5.3e-08   29.2   1.7   5.3e-08   29.2   1.7   2.1   2   1   0   2   2   1   1 digeranylgeranylglycerophospholipid reductase [Archaeoglobus profundus]
+WP_012940807.1       -          Pyr_redox_2          PF07992.13   2.1e-07   27.2   0.3   3.5e-07   26.5   0.2   1.5   1   1   1   2   2   1   1 ribose 1,5-bisphosphate isomerase [Archaeoglobus profundus]
+WP_012940649.1       -          Pyr_redox_2          PF07992.13   2.9e-07   26.8   0.9   6.1e-05   19.1   0.5   2.9   2   1   0   2   2   0   0 adenylylsulfate reductase subunit alpha [Archaeoglobus profundus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      cycles/oxygen/my_Pfam.oxygen.hmm
+# Target file:     gen_test//Archaeoglobus_profundus_DSM_5631.faa
+# Option settings: hmmsearch -o /dev/null --tblout gen_test//Archaeoglobus_profundus_DSM_5631.faa.oxygen.hmmsearch.tab --cut_ga cycles/oxygen/my_Pfam.oxygen.hmm gen_test//Archaeoglobus_profundus_DSM_5631.faa 
+# Current dir:     /home/hawking/src/mebs
+# Date:            Fri Aug 16 18:37:18 2019
+# [ok]

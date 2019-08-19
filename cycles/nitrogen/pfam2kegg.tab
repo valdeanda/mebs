@@ -1,0 +1,197 @@
+PFAM	KO	PATHWAY	PATHWAY NAME
+PF00120	K01915	1	ammonia assimilation cycle I
+PF03951	K01915	1	ammonia assimilation cycle I
+PF00310	K00264	1	ammonia assimilation cycle I
+PF01493	K00264	1	ammonia assimilation cycle I
+PF01645	K00264	1	ammonia assimilation cycle I
+PF04898	K00264	1	ammonia assimilation cycle I
+PF07992	K00264	1	ammonia assimilation cycle I
+PF14691	K00264	1	ammonia assimilation cycle I
+PF00120	K01915	2	ammonia assimilation cycle II
+PF03951	K01915	2	ammonia assimilation cycle II
+PF00120		2	ammonia assimilation cycle II
+PF03951		2	ammonia assimilation cycle II
+PF00310	K00284	2	ammonia assimilation cycle II
+PF01493	K00284	2	ammonia assimilation cycle II
+PF01645	K00284	2	ammonia assimilation cycle II
+PF04898	K00284	2	ammonia assimilation cycle II
+PF12437	K01915	2	ammonia assimilation cycle II
+PF00120	K01915	3	L-glutamine biosynthesis I
+PF03951	K01915	3	L-glutamine biosynthesis I
+PF00120		3	L-glutamine biosynthesis I
+PF03951		3	L-glutamine biosynthesis I
+PF12437		3	L-glutamine biosynthesis I
+PF00120	K01915	4	superpathway of ammonia assimilation (plants)
+PF03951	K01915	4	superpathway of ammonia assimilation (plants)
+PF16694		5	ammonia oxidation I (aerobic)
+PF04896		5	ammonia oxidation I (aerobic)
+PF04744	K10945	5	ammonia oxidation I (aerobic)
+PF02461	K10944	5	ammonia oxidation I (aerobic)
+PF04896	K10946	5	ammonia oxidation I (aerobic)
+PF13442	K15864	6	ammonia oxidation II (anaerobic)
+PF07732	nirK	6	ammonia oxidation II (anaerobic)
+PF02461	K10944	7	ammonia oxidation IV (autotrophic ammonia oxidizers)
+PF04744	K10945	7	ammonia oxidation IV (autotrophic ammonia oxidizers)
+PF04896	K10946	7	ammonia oxidation IV (autotrophic ammonia oxidizers)
+PF03264		7	ammonia oxidation IV (autotrophic ammonia oxidizers)
+PF13435		7	ammonia oxidation IV (autotrophic ammonia oxidizers)
+PF04744	K10945	8	nitrifier denitrification
+PF02461	K10944	8	nitrifier denitrification
+PF04896	K10946	8	nitrifier denitrification
+PF00116	K02275	8	nitrifier denitrification
+PF00115	K02274	8	nitrifier denitrification
+PF00115	K04561	8	nitrifier denitrification
+PF00034	K02305	8	nitrifier denitrification
+PF07732		8	nitrifier denitrification
+PF13442		8	nitrifier denitrification
+PF16694		8	nitrifier denitrification
+PF04744	K10945	8	nitrifier denitrification
+PF00384	K00370	9	nitrate reduction I (denitrification)
+PF01568	K00370	9	nitrate reduction I (denitrification)
+PF14710	K00370	9	nitrate reduction I (denitrification)
+PF13247	K00371	9	nitrate reduction I (denitrification)
+PF14711	K00371	9	nitrate reduction I (denitrification)
+PF02665	K00374	9	nitrate reduction I (denitrification)
+PF13442		9	nitrate reduction I (denitrification)
+PF00115		9	nitrate reduction I (denitrification)
+PF00034		9	nitrate reduction I (denitrification)
+PF00384	K00370	10	nitrate reduction III (dissimilatory)
+PF01568	K00370	10	nitrate reduction III (dissimilatory)
+PF14710	K00370	10	nitrate reduction III (dissimilatory)
+PF13247	K00371	10	nitrate reduction III (dissimilatory)
+PF14711	K00371	10	nitrate reduction III (dissimilatory)
+PF02665	K00374	10	nitrate reduction III (dissimilatory)
+PF09163	K08349	10	nitrate reduction III (dissimilatory)
+PF12800	K08349	10	nitrate reduction III (dissimilatory)
+PF13247	K08349	10	nitrate reduction III (dissimilatory)
+PF09163	K00124	10	nitrate reduction III (dissimilatory)
+PF13247	K00124	10	nitrate reduction III (dissimilatory)
+PF01292	K08350	10	nitrate reduction III (dissimilatory)
+PF01292	K00127	10	nitrate reduction III (dissimilatory)
+PF00384	K08348	10	nitrate reduction III (dissimilatory)
+PF01568	K08348	10	nitrate reduction III (dissimilatory)
+PF04879	K08348	10	nitrate reduction III (dissimilatory)
+PF00384	K00123	10	nitrate reduction III (dissimilatory)
+PF01568	K00123	10	nitrate reduction III (dissimilatory)
+PF04879	K00123	10	nitrate reduction III (dissimilatory)
+PF00384	K02567	11	nitrate reduction IV (dissimilatory)
+PF01568	K02567	11	nitrate reduction IV (dissimilatory)
+PF04879	K02567	11	nitrate reduction IV (dissimilatory)
+PF03892	K02568	11	nitrate reduction IV (dissimilatory)
+PF02335	K03385	11	nitrate reduction IV (dissimilatory)
+PF00173	K10534	12	nitrate reduction V (assimilatory)
+PF00174	K10534	12	nitrate reduction V (assimilatory)
+PF00175	K10534	12	nitrate reduction V (assimilatory)
+PF00970	K10534	12	nitrate reduction V (assimilatory)
+PF03404	K10534	12	nitrate reduction V (assimilatory)
+PF00355	K17877	12	nitrate reduction V (assimilatory)
+PF01077	K17877	12	nitrate reduction V (assimilatory)
+PF03460	K17877	12	nitrate reduction V (assimilatory)
+PF04324	K17877	12	nitrate reduction V (assimilatory)
+PF07992	K17877	12	nitrate reduction V (assimilatory)
+PF00208	K00262	12	nitrate reduction V (assimilatory)
+PF02812	K00262	12	nitrate reduction V (assimilatory)
+PF00120	K01915	12	nitrate reduction V (assimilatory)
+PF03951	K01915	12	nitrate reduction V (assimilatory)
+PF00120		13	nitrate reduction VI (assimilatory)
+PF03951		13	nitrate reduction VI (assimilatory)
+PF00384	K00367	13	nitrate reduction VI (assimilatory)
+PF01568	K00367	13	nitrate reduction VI (assimilatory)
+PF04879	K00367	13	nitrate reduction VI (assimilatory)
+PF01077	K00366	13	nitrate reduction VI (assimilatory)
+PF03460	K00366	13	nitrate reduction VI (assimilatory)
+PF00115	K04561	14	nitrate reduction VII (denitrification)
+PF00384	K00370	14	nitrate reduction VIII (dissimilatory)
+PF01568	K00370	14	nitrate reduction VIII (dissimilatory)
+PF14710	K00370	14	nitrate reduction VIII (dissimilatory)
+PF13247	K00371	14	nitrate reduction VIII (dissimilatory)
+PF14711	K00371	14	nitrate reduction VIII (dissimilatory)
+PF02665	K00374	14	nitrate reduction VIII (dissimilatory)
+PF00507	K00330	14	nitrate reduction VIII (dissimilatory)
+PF01058	K00331	14	nitrate reduction VIII (dissimilatory)
+PF00146	K00337	14	nitrate reduction VIII (dissimilatory)
+PF12838	K00338	14	nitrate reduction VIII (dissimilatory)
+PF00499	K00339	14	nitrate reduction VIII (dissimilatory)
+PF00420	K00340	14	nitrate reduction VIII (dissimilatory)
+PF00361	K00342	14	nitrate reduction VIII (dissimilatory)
+PF00361	K00343	14	nitrate reduction VIII (dissimilatory)
+PF01512	K00335	14	nitrate reduction VIII (dissimilatory)
+PF10531	K00335	14	nitrate reduction VIII (dissimilatory)
+PF10589	K00335	14	nitrate reduction VIII (dissimilatory)
+PF00329	K13378	14	nitrate reduction VIII (dissimilatory)
+PF00346	K13378	14	nitrate reduction VIII (dissimilatory)
+PF00384	K00336	14	nitrate reduction VIII (dissimilatory)
+PF01568	K00336	14	nitrate reduction VIII (dissimilatory)
+PF04879	K00336	14	nitrate reduction VIII (dissimilatory)
+PF10588	K00336	14	nitrate reduction VIII (dissimilatory)
+PF00361	K00341	14	nitrate reduction VIII (dissimilatory)
+PF00662	K00341	14	nitrate reduction VIII (dissimilatory)
+PF00384	K00370	15	nitrate reduction VIIIb (dissimilatory)
+PF01568	K00370	15	nitrate reduction VIIIb (dissimilatory)
+PF14710	K00370	15	nitrate reduction VIIIb (dissimilatory)
+PF13247	K00371	15	nitrate reduction VIIIb (dissimilatory)
+PF14711	K00371	15	nitrate reduction VIIIb (dissimilatory)
+PF02665	K00374	15	nitrate reduction VIIIb (dissimilatory)
+PF07992	K03885	15	nitrate reduction VIIIb (dissimilatory)
+PF13247	K00371	16	nitrate reduction IX (dissimilatory)
+PF14711	K00371	16	nitrate reduction IX (dissimilatory)
+PF00384	K00370	16	nitrate reduction IX (dissimilatory)
+PF01568	K00370	16	nitrate reduction IX (dissimilatory)
+PF14710	K00370	16	nitrate reduction IX (dissimilatory)
+PF02665	K00374	16	nitrate reduction IX (dissimilatory)
+PF02754	K00113	16	nitrate reduction IX (dissimilatory)
+PF13183	K00113	16	nitrate reduction IX (dissimilatory)
+PF01266	K00111	16	nitrate reduction IX (dissimilatory)
+PF04324	K00111	16	nitrate reduction IX (dissimilatory)
+PF00890	K00112	16	nitrate reduction IX (dissimilatory)
+PF03892	K02568	17	nitrate reduction X (dissimilatory periplasmic)
+PF00384	K02567	17	nitrate reduction X (dissimilatory periplasmic)
+PF01568	K02567	17	nitrate reduction X (dissimilatory periplasmic)
+PF04879	K02567	17	nitrate reduction X (dissimilatory periplasmic)
+PF12800	K02573	17	nitrate reduction X (dissimilatory periplasmic)
+PF12838	K02573	17	nitrate reduction X (dissimilatory periplasmic)
+PF03264	K02569	17	nitrate reduction X (dissimilatory periplasmic)
+PF01266	K00111	17	nitrate reduction X (dissimilatory periplasmic)
+PF16901	K00111	17	nitrate reduction X (dissimilatory periplasmic)
+PF12801	K02574	17	nitrate reduction X (dissimilatory periplasmic)
+PF13237	K02574	17	nitrate reduction X (dissimilatory periplasmic)
+PF00148	K22897	18	nitrogen fixation I (ferredoxin)  
+PF00142		18	nitrogen fixation I (ferredoxin)  
+PF00148		18	nitrogen fixation I (ferredoxin)  
+PF11844		18	nitrogen fixation I (ferredoxin)  
+PF03139		18	nitrogen fixation I (ferredoxin)  
+PF00142		19	nitrogen fixation II (flavodoxin)
+PF00148		19	nitrogen fixation II (flavodoxin)
+PF11844		19	nitrogen fixation II (flavodoxin)
+PF03139		19	nitrogen fixation II (flavodoxin)
+PF00449	K01428	20	Urea degradation II
+PF01979	K01428	20	Urea degradation II
+PF00699	K01429	20	Urea degradation II
+PF00547	K01430	20	Urea degradation II
+PF01494		21	caffeine degradation V (bacteria via trimethylurate)
+PF00202	K00823	22	4-aminobutanoate degradation I
+PF00171	K08324	22	4-aminobutanoate degradation I
+PF00202	K14268	22	4-aminobutanoate degradation I
+PF00202	K07250	23	4-aminobutanoate degradation II
+PF00171	K00135	23	4-aminobutanoate degradation II
+PF00171		23	4-aminobutanoate degradation II
+PF03241		24	4-aminobutanoate degradation V
+PF11794		24	4-aminobutanoate degradation V
+PF02550		24	4-aminobutanoate degradation V
+PF13336		24	4-aminobutanoate degradation V
+PF01979	K01466	25	allantoin degradation IV (anaerobic)
+PF05899	K14977	25	allantoin degradation IV (anaerobic)
+PF07883	K14977	25	allantoin degradation IV (anaerobic)
+PF02615	K00073	25	allantoin degradation IV (anaerobic)
+PF12942		26	Ammonia monoxygenase Archaea AmoABC
+PF04744		26	Ammonia monoxygenase Archaea AmoABC
+PF04896		26	Ammonia monoxygenase Archaea AmoABC
+PF01077	K00362	27	nirBD
+PF03460	K00362	27	nirBD
+PF04324	K00362	27	nirBD
+PF07992	K00362	27	nirBD
+PF13806	K00363	27	nirBD
+PF00171	K09472	28	GABA biosynthesis prokaryotes putrescine => GABA
+PF01266	K09471	28	GABA biosynthesis prokaryotes putrescine => GABA
+PF07722	K09473	28	GABA biosynthesis prokaryotes putrescine => GABA
+PF00120	K09470	28	GABA biosynthesis prokaryotes putrescine => GABA

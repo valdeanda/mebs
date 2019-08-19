@@ -1,0 +1,47 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_048155496.1       -          Acetyltransf_8       PF13523.5    3.3e-07   27.7   0.0   4.8e-07   27.2   0.0   1.2   1   0   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048118012.1       -          AMP-binding          PF00501.27  2.4e-112  373.3   0.1  2.9e-112  373.0   0.1   1.1   1   0   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048116506.1       -          AMP-binding          PF00501.27   5.3e-71  237.1   0.0   6.3e-71  236.8   0.0   1.1   1   0   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048156106.1       -          AMP-binding          PF00501.27   5.4e-65  217.3   0.0   6.3e-65  217.1   0.0   1.0   1   0   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048123488.1       -          AMP-binding          PF00501.27   2.7e-18   63.4   0.1   9.2e-18   61.7   0.0   1.8   2   0   0   2   2   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048121928.1       -          AMP-binding          PF00501.27   2.3e-17   60.4   0.0     3e-17   60.0   0.0   1.1   1   0   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048117646.1       -          AMP-binding          PF00501.27   2.5e-16   57.0   0.0   5.6e-16   55.8   0.0   1.6   1   1   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048117041.1       -          AMP-binding          PF00501.27   1.3e-08   31.5   0.0   2.2e-08   30.7   0.0   1.3   1   0   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_052712683.1       -          Condensation         PF00668.19   7.4e-12   42.3   0.0   2.9e-11   40.4   0.0   1.7   1   1   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048117709.1       -          Fe-ADH               PF00465.18    2e-129  429.2   4.1  2.3e-129  429.0   4.1   1.0   1   0   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048121251.1       -          Fe-ADH               PF00465.18   2.1e-26   90.3   6.5   3.6e-25   86.2   6.5   2.0   1   1   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048119424.1       -          Fe-S_biosyn          PF01521.19     3e-14   50.8   0.0   3.6e-14   50.6   0.0   1.0   1   0   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048122058.1       -          FeoB_C               PF07664.11   4.6e-16   55.9   0.3   4.6e-16   55.9   0.3   3.1   2   0   0   2   2   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_052712640.1       -          FeoB_C               PF07664.11   4.9e-12   43.0   2.0   4.9e-12   43.0   2.0   3.4   3   0   0   3   3   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_052712640.1       -          FeoB_N               PF02421.17   3.6e-57  189.9   0.0   5.8e-57  189.3   0.0   1.3   1   0   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048122058.1       -          FeoB_N               PF02421.17     7e-57  189.0   0.3   1.3e-56  188.1   0.3   1.4   1   0   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048122035.1       -          FeoB_N               PF02421.17   3.5e-12   43.8   2.2   5.7e-12   43.1   0.1   2.2   2   1   0   2   2   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048119149.1       -          FeoB_N               PF02421.17   4.3e-12   43.5   0.1   8.1e-11   39.4   0.1   2.1   1   1   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048116484.1       -          FeoB_N               PF02421.17   1.5e-11   41.7   0.0     4e-11   40.3   0.0   1.8   2   0   0   2   2   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048117565.1       -          FeoB_N               PF02421.17     3e-11   40.7   2.8     5e-05   20.6   0.2   2.7   2   1   0   2   2   0   0 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048122322.1       -          FeoB_N               PF02421.17   1.3e-09   35.4   1.9   1.1e-07   29.1   0.1   2.7   3   0   0   3   3   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048154478.1       -          FeoB_N               PF02421.17   1.8e-07   28.5   0.2   5.6e-07   26.9   0.2   1.8   1   1   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048155212.1       -          FeoB_N               PF02421.17   1.4e-05   22.4   0.1     0.028   11.6   0.0   2.5   2   0   0   2   2   0   0 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048122058.1       -          Gate                 PF07670.13   2.2e-28   96.5  17.7   1.1e-14   52.3   7.8   2.8   2   0   0   2   2   2   2 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_052712640.1       -          Gate                 PF07670.13   7.4e-19   65.8  22.6   8.3e-13   46.3   4.2   3.5   4   0   0   4   4   2   2 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048155841.1       -          Gate                 PF07670.13   1.8e-09   35.5  22.2   1.2e-05   23.3   5.3   3.0   2   2   0   2   2   0   0 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048121996.1       -          HMG_CoA_synt_C       PF08540.9      3e-07   28.0   0.1   3.2e-05   21.4   0.0   2.4   2   1   1   3   3   0   0 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048121996.1       -          HMG_CoA_synt_N       PF01154.16   1.3e-05   22.8   0.3   1.8e-05   22.4   0.3   1.2   1   0   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048155045.1       -          K_oxygenase          PF13434.5    2.9e-06   24.3   0.1     0.019   11.7   0.2   2.7   2   1   1   3   3   0   0 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048118615.1       -          NifU_N               PF01592.15   1.9e-51  171.2   0.1   2.1e-51  171.0   0.1   1.0   1   0   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048121734.1       -          NifU_N               PF01592.15   1.2e-43  146.0   0.0     2e-43  145.3   0.0   1.3   1   0   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048122916.1       -          NifU_N               PF01592.15   4.5e-41  137.7   0.0     5e-41  137.5   0.0   1.0   1   0   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048121293.1       -          PP-binding           PF00550.24   9.5e-07   26.8   0.1     1e-06   26.7   0.1   1.2   1   0   0   1   1   1   1 [GCF_000970025.1_ASM97002v1_protein.faa]
+WP_048118413.1       -          Zip                  PF02535.21   1.3e-09   35.3  13.0   2.4e-08   31.2   5.4   2.3   1   1   1   2   2   0   0 [GCF_000970025.1_ASM97002v1_protein.faa]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      cycles/iron/my_Pfam.iron.hmm
+# Target file:     gen_test//Methanosarcina_barkeriMS.faa
+# Option settings: hmmsearch -o /dev/null --tblout gen_test//Methanosarcina_barkeriMS.faa.iron.hmmsearch.tab --cut_ga cycles/iron/my_Pfam.iron.hmm gen_test//Methanosarcina_barkeriMS.faa 
+# Current dir:     /home/hawking/src/mebs
+# Date:            Fri Aug 16 18:37:10 2019
+# [ok]

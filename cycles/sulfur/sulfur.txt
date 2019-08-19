@@ -1,0 +1,161 @@
+GCF_000006985.1	Chlorobium tepidum TLS
+GCF_000007005.1	Sulfolobus solfataricus P2
+GCF_000007305.1	Pyrococcus furiosus DSM 3638
+GCF_000008545.1	Thermotoga maritima MSB8
+GCF_000008625.1	Aquifex aeolicus VF5
+GCF_000008665.1	Archaeoglobus fulgidus DSM 4304
+GCF_000009965.1	Thermococcus kodakarensis KOD1
+GCF_000010045.1	Desulfitobacterium hafniense Y51
+GCF_000010345.1	Sulfurovum sp. NBC37-1
+GCF_000010665.1	Desulfovibrio magneticus RS-1
+GCF_000011105.1	Pyrococcus horikoshii OT3
+GCF_000011185.1	Thermoplasma volcanium GSS1
+GCF_000011205.1	Sulfolobus tokodaii str. 7
+GCF_000012285.1	Sulfolobus acidocaldarius DSM 639
+GCF_000012485.1	Chlorobium luteolum DSM 273
+GCF_000012585.1	Chlorobium chlorochromatii CaD3
+GCF_000012605.1	Thiomicrospira crunogena XCL-2
+GCF_000012665.1	Desulfovibrio alaskensis G20
+GCF_000012745.1	Thiobacillus denitrificans ATCC 25259
+GCF_000012885.1	Pelobacter carbinolicus DSM 2380
+GCF_000012965.1	Sulfurimonas denitrificans DSM 1251
+GCF_000014785.1	Alkalilimnicola ehrlichii MLHE-1
+GCF_000014965.1	Syntrophobacter fumaroxidans MPOB
+GCF_000015045.1	Pelobacter propionicus DSM 2379
+GCF_000015125.1	Chlorobium phaeobacteroides DSM 266
+GCF_000015145.1	Hyperthermus butylicus DSM 5456
+GCF_000015205.1	Pyrobaculum islandicum DSM 4184
+GCF_000015485.1	Desulfovibrio vulgaris DP4
+GCF_000015585.1	Halorhodospira halophila SL1
+GCF_000015945.1	Staphylothermus marinus F1
+GCF_000016085.1	Chlorobium phaeovibrioides DSM 265
+GCF_000016165.1	Desulfotomaculum reducens MI-1
+GCF_000016605.1	Metallosphaera sedula DSM 5348
+GCF_000017945.1	Ignicoccus hospitalis KIN4/I
+GCF_000018305.1	Caldivirga maquilingensis IC-167
+GCF_000018365.1	Thermococcus onnurineus NA1
+GCF_000018405.1	Desulfococcus oleovorans Hxd3
+GCF_000018865.1	Chloroflexus aurantiacus J-10-fl
+GCF_000018945.1	Thermotoga neapolitana DSM 4359
+GCF_000019165.1	Heliobacterium modesticaldum Ice1
+GCF_000020325.1	Sulfurihydrogenibium sp. YO3AOP1
+GCF_000020365.1	Desulfobacterium autotrophicum HRM2
+GCF_000020465.1	Chlorobium limicola DSM 245
+GCF_000020505.1	Chlorobaculum parvum NCIB 8327
+GCF_000020525.1	Chloroherpeton thalassium ATCC 35110
+GCF_000020545.1	Chlorobium phaeobacteroides BS1
+GCF_000020625.1	Prosthecochloris aestuarii DSM 271
+GCF_000020645.1	Pelodictyon phaeoclathratiforme BU-1
+GCF_000020825.1	Acidithiobacillus ferrooxidans ATCC 53993
+GCF_000020905.1	Desulfurococcus kamchatkensis 1221n
+GCF_000020985.1	Thermodesulfovibrio yellowstonii DSM 11347
+GCF_000021385.1	Desulfovibrio vulgaris str. 'Miyazaki F'
+GCF_000021545.1	Sulfurihydrogenibium azorense Az-Fu1
+GCF_000021565.1	Persephonella marina EX-H1
+GCF_000021725.1	Nautilia profundicola AmH
+GCF_000021905.1	Desulfatibacillum alkenivorans AK-01
+GCF_000021945.1	Chloroflexus aggregans DSM 9485
+GCF_000021985.1	Thioalkalivibrio sulfidiphilus HL-EbGr7
+GCF_000022125.1	Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774
+GCF_000022365.1	Thermococcus gammatolerans EJ3
+GCF_000022385.1	Sulfolobus islandicus L.S.2.15
+GCF_000022545.1	Thermococcus sibiricus MM 739
+GCF_000023445.1	Desulfovibrio salexigens DSM 2638
+GCF_000024205.1	Desulfotomaculum acetoxidans DSM 771
+GCF_000024325.1	Desulfohalobium retbaense DSM 5692
+GCF_000024605.1	Ammonifex degensii KC4
+GCF_000024765.1	Halothiobacillus neapolitanus c2
+GCF_000024885.1	Sulfurospirillum deleyianum DSM 6946
+GCF_000025285.1	Archaeoglobus profundus DSM 5631
+GCF_000025485.1	Allochromatium vinosum DSM 180
+GCF_000025545.1	Thioalkalivibrio sp. K90mix
+GCF_000025605.1	Thermocrinis albus DSM 14484
+GCF_000025945.1	Desulfotalea psychrophila LSv54
+GCF_000092185.1	Thermosphaera aggregans DSM 11486
+GCF_000092205.1	Desulfurivibrio alkaliphilus AHT 2
+GCF_000092465.1	Staphylothermus hellenicus DSM 12710
+GCF_000092605.1	Thiomonas intermedia K12
+GCF_000147355.1	Sulfurimonas autotrophica DSM 16294
+GCF_000148385.1	Vulcanisaeta distributa DSM 14429
+GCF_000151105.2	Thermococcus barophilus MP
+GCF_000151205.2	Thermococcus sp. AM4
+GCF_000175575.2	Acidithiobacillus caldus ATCC 51756
+GCF_000176915.2	Desulfovibrio aespoeensis Aspo-2
+GCF_000177635.2	Desulfurispirillum indicum S5
+GCF_000185805.1	Thermovibrio ammonificans HB-1
+GCF_000186365.1	Desulfurococcus mucosus DSM 2162
+GCF_000186885.1	Desulfobulbus propionicus DSM 2032
+GCF_000189295.2	Desulfovibrio desulfuricans ND132
+GCF_000190315.1	Vulcanisaeta moutnovskia 768-28
+GCF_000190635.1	Syntrophobotulus glycolicus DSM 8271
+GCF_000191045.1	Desulfurobacterium thermolithotrophum DSM 11699
+GCF_000193375.1	Thermoproteus uzoniensis 768-20
+GCF_000194135.1	Hippea maritima DSM 10411
+GCF_000194625.1	Archaeoglobus veneficus SNP6
+GCF_000195295.1	Desulfobacca acetoxidans DSM 11109
+GCF_000203895.1	Paracoccus denitrificans PD1222
+GCF_000204925.1	Metallosphaera cuprina Ar-4
+GCF_000211475.1	Pyrococcus sp. NA2
+GCF_000212675.2	Desulfovibrio africanus str. Walvis Bay
+GCF_000213215.1	Acidianus hospitalis W1
+GCF_000214095.2	Acidithiobacillus ferrivorans SS3
+GCF_000214435.1	Desulfotomaculum nigrificans CO-1-SRB
+GCF_000214825.1	Thioalkalimicrobium cyclicum ALM1
+GCF_000215085.1	Desulfotomaculum ruminis DSM 2154
+GCF_000215975.1	Thermodesulfobacterium geofontis OPF15
+GCF_000215995.1	Pyrococcus yayanosii CH1
+GCF_000217795.1	Thermodesulfatator indicus DSM 15286
+GCF_000221185.1	Thermococcus sp. 4557
+GCF_000223395.1	Pyrolobus fumarii 1A
+GCF_000224005.2	Marichromatium purpuratum 984
+GCF_000227665.2	Thioalkalimicrobium aerophilum AL3
+GCF_000227685.2	Thioalkalivibrio paradoxus ARh 1
+GCF_000227745.2	Thiocystis violascens DSM 198
+GCF_000231385.2	Desulfosporosinus meridiei DSM 13257
+GCF_000231405.2	Desulfitobacterium metallireducens DSM 15288
+GCF_000233715.2	Desulfotomaculum gibsoniae DSM 7213
+GCF_000233775.1	Thermovirga lienii DSM 17291
+GCF_000235605.1	Desulfosporosinus orientis DSM 765
+GCF_000242915.1	Sulfurimonas gotlandica GD1
+GCF_000243135.2	Desulfitobacterium dichloroeliminans LMG P-21439
+GCF_000243155.2	Desulfitobacterium dehalogenans ATCC 51507
+GCF_000246985.2	Thermococcus litoralis DSM 5473
+GCF_000253055.1	Thermoproteus tenax Kra 1
+GCF_000255115.2	Desulfosporosinus acidiphilus SJ4
+GCF_000263735.1	Pyrococcus sp. ST04
+GCF_000265295.1	Sulfurospirillum barnesii SES-3
+GCF_000265525.1	Thermococcus cleftensis
+GCF_000266945.1	Desulfomonile tiedjei DSM 6799
+GCF_000307105.1	Desulfobacula toluolica Tol2
+GCF_000321415.2	Thioalkalivibrio nitratireducens DSM 14787
+GCF_000327045.1	Thioflavicoccus mobilis 8321
+GCF_000341395.1	Desulfocapsa sulfexigens DSM 10523
+GCF_000350305.1	Thermoplasmatales archaeon BRNA1
+GCF_000385565.1	Archaeoglobus sulfaticallidus PM70-1
+GCF_000444995.1	Paracoccus aminophilus JCM 7686
+GCF_000512735.1	Thermocrinis ruber
+GCF_000517445.1	Thermococcus paralvinellae
+GCF_000517565.1	Desulfurella acetivorans A63
+GCF_000568815.1	Sulfurospirillum multivorans DSM 12446
+GCF_000585495.1	Thermococcus nautili
+GCF_000734015.1	Thermodesulfobacterium commune DSM 2178
+GCF_000769655.1	Thermococcus eurythermalis
+GCF_000816105.1	Thermococcus guaymasensis DSM 11113
+GCF_000828615.1	Thiolapillus brandeum
+GCF_000828655.1	Thermotoga caldifontis AZM44c09
+GCF_000828675.1	Thermotoga profunda AZM34c06
+GCF_000828835.1	Thioploca ingrica
+GCF_000987835.1	Sulfurovum lithotrophicum
+GCF_001020955.1	Thioalkalivibrio versutus
+GCF_001278055.1	Desulfuromonas soudanensis
+GCF_001412615.1	Pyrodictium delaneyi
+GCF_001484685.1	Thermococcus sp. 2319x1
+GCF_001548055.1	Sulfurospirillum cavolei
+GCF_001553605.1	Desulfovibrio fairfieldensis
+GCF_001592435.1	Thermococcus peptonophilus
+GCF_001632845.1	Ectothiorhodospira sp. BSL-9
+GCF_000007985.2	Geobacter sulfurreducens PCA
+GCF_000007345.1	Methanosarcina acetivorans C2A
+GCF_000970025.1	Methanosarcina barkeri MS
+GCF_000011965.2	Ruegeria pomeroyi DSS-3
+GCF_000092925.1	Starkeya novella DSM 506

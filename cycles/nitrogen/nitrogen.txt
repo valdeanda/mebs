@@ -1,0 +1,144 @@
+GCF_000444995.1	Paracoccus aminophilus JCM 7686
+GCF_000203895.1	Paracoccus denitrificans PD1222
+GCF_000017205.1	Pseudomonas aeruginosa PA7
+GCF_000006765.1	Pseudomonas aeruginosa PAO1
+GCF_000730425.1	Pseudomonas fluorescens
+GCF_000590475.1	Pseudomonas stutzeri
+GCF_000012745.1	Thiobacillus denitrificans ATCC 25259
+GCF_000006805.1	Halobacterium salinarum NRC-1
+GCF_000021865.1	Rhodobacter capsulatus SB 1003
+GCF_000016405.1	Rhodobacter sphaeroides ATCC 17025
+GCF_000015985.1	Rhodobacter sphaeroides ATCC 17029
+GCF_000828835.1	Thioploca ingrica
+GCF_000734895.2	Calothrix sp. 336/3
+GCF_000317435.1	Calothrix sp. PCC 6303
+GCF_000316575.1	Calothrix sp. PCC 7507
+GCF_001548455.1	Fischerella sp. NIES-3754
+GCF_000196515.1	'Nostoc azollae' 0708
+GCF_000020025.1	Nostoc punctiforme PCC 73102
+GCF_000316625.1	Nostoc sp. PCC 7107
+GCF_000009705.1	Nostoc sp. PCC 7120
+GCF_000316645.1	Nostoc sp. PCC 7524
+GCF_000317105.1	Oscillatoria acuminata PCC 6304
+GCF_000317475.1	Oscillatoria nigro-viridis PCC 7112
+GCF_000014265.1	Trichodesmium erythraeum IMS101
+GCF_000309885.1	Thermus oshimai JL-2
+GCF_000008125.1	Thermus thermophilus HB27
+GCF_000009285.1	Ralstonia eutropha H16
+GCF_000058485.1	Frankia alni ACN14a
+GCF_000013345.1	Frankia casuarinae
+GCF_000166135.1	Frankia inefficax
+GCF_000018005.1	Frankia sp. EAN1pec
+GCF_000177615.2	Frankia symbiont of Datisca glomerata
+GCF_000020465.1	Chlorobium limicola DSM 245
+GCF_000012485.1	Chlorobium luteolum DSM 273
+GCF_000020545.1	Chlorobium phaeobacteroides BS1
+GCF_000015125.1	Chlorobium phaeobacteroides DSM 266
+GCF_000016085.1	Chlorobium phaeovibrioides DSM 265
+GCF_000006985.1	Chlorobium tepidum TLS
+GCF_000020525.1	Chloroherpeton thalassium ATCC 35110
+GCF_000021325.1	Gluconacetobacter diazotrophicus PA1 5
+GCF_000317695.1	Anabaena cylindrica PCC 7122
+GCF_000312705.1	Anabaena sp. 90
+GCF_001277295.1	Anabaena sp. wa102
+GCF_000010525.1	Azorhizobium caulinodans ORS 571
+GCF_000632475.1	Azospirillum brasilense
+GCF_001639105.1	Azospirillum humicireducens
+GCF_000283655.1	Azospirillum lipoferum 4B
+GCF_000010725.1	Azospirillum sp. B510
+GCF_001305595.1	Azospirillum thiophilum
+GCF_000817975.1	Azotobacter chroococcum NCIMB 8003
+GCF_000021045.1	Azotobacter vinelandii DJ
+GCF_000011365.1	Bradyrhizobium diazoefficiens USDA 110
+GCF_001693385.1	Bradyrhizobium icense
+GCF_000284375.1	Bradyrhizobium japonicum USDA 6
+GCF_000344805.1	Bradyrhizobium oligotrophicum S58
+GCF_900011245.1	Bradyrhizobium sp.
+GCF_000015165.1	Bradyrhizobium sp. BTAi1
+GCF_000296215.2	Bradyrhizobium sp. CCGE-LA001
+GCF_000026145.1	Bradyrhizobium sp. ORS 278
+GCF_000284275.1	Bradyrhizobium sp. S23321
+GCF_000961095.1	Paenibacillus beijingensis
+GCF_000758665.1	Paenibacillus borealis
+GCF_001421015.1	Paenibacillus bovis
+GCF_000756615.1	Paenibacillus durus
+GCF_000993825.1	Paenibacillus durus ATCC 35681
+GCF_000758705.1	Paenibacillus graminis
+GCF_000511405.1	Paenibacillus larvae subsp. larvae DSM 25430
+GCF_000218915.1	Paenibacillus mucilaginosus KNP414
+GCF_001465255.1	Paenibacillus naphthalenovorans
+GCF_000758725.1	Paenibacillus odorifer
+GCF_000146875.3	Paenibacillus polymyxa E681
+GCF_000164985.3	Paenibacillus polymyxa SC2
+GCF_000981585.1	Paenibacillus riograndensis SBR5
+GCF_000612505.1	Paenibacillus sabinae T27
+GCF_001465275.1	Paenibacillus sp. 32O-W
+GCF_000758525.1	Paenibacillus sp. FSL H7-0357
+GCF_000758545.1	Paenibacillus sp. FSL H7-0737
+GCF_000758565.1	Paenibacillus sp. FSL P4-0081
+GCF_000758625.1	Paenibacillus sp. FSL R7-0273
+GCF_000758645.1	Paenibacillus sp. FSL R7-0331
+GCF_000949425.1	Paenibacillus sp. IHBB 10380
+GCF_000023585.1	Paenibacillus sp. JDR-2
+GCF_000024685.1	Paenibacillus sp. Y412MC10
+GCF_000758685.1	Paenibacillus stellifer
+GCF_000235585.1	Paenibacillus terrae HPL-003
+GCF_000698845.1	Rhizobium etli bv. mimosae str. IE4771
+GCF_000442435.1	Rhizobium etli bv. mimosae str. Mim1
+GCF_000020265.1	Rhizobium etli CIAT 652
+GCF_000577275.1	Rhizobium favelukesii
+GCF_000816845.1	Rhizobium gallicum bv. gallicum R602
+GCF_000520875.1	Rhizobium leguminosarum bv. trifolii CB782
+GCF_000023185.1	Rhizobium leguminosarum bv. trifolii WSM1325
+GCF_000517605.1	Rhizobium leguminosarum bv. trifolii WSM1689
+GCF_000021345.1	Rhizobium leguminosarum bv. trifolii WSM2304
+GCF_000499645.1	Rhizobium sp. IRBG74
+GCF_001664085.1	Rhizobium sp. N1341
+GCF_001664485.1	Rhizobium sp. N324
+GCF_000967425.1	Rhizobium sp. NT-26
+GCF_000330885.1	Rhizobium tropici CIAT 899
+GCF_000014825.1	Rhodopseudomonas palustris BisA53
+GCF_000013745.1	Rhodopseudomonas palustris BisB18
+GCF_000013685.1	Rhodopseudomonas palustris BisB5
+GCF_000177255.2	Rhodopseudomonas palustris DX-1
+GCF_000013365.1	Rhodopseudomonas palustris HaA2
+GCF_000020445.1	Rhodopseudomonas palustris TIE-1
+GCF_000009885.1	Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044
+GCF_001007935.1	Nitrosomonas communis
+GCF_000009145.1	Nitrosomonas europaea ATCC 19718
+GCF_000014765.1	Nitrosomonas eutropha C91
+GCF_000175095.2	Nitrosomonas sp. AL212
+GCF_000219585.1	Nitrosomonas sp. Is79A3
+GCF_001455205.1	Nitrosomonas ureae
+GCF_000619905.2	Nitrosospira briensis C-128
+GCF_000196355.1	Nitrosospira multiformis ATCC 25196
+GCF_000196815.1	Nitrospira defluvii
+GCF_001273775.1	Nitrospira moscoviensis
+GCF_000956175.1	Candidatus Nitrosopumilus adriaticus
+GCF_000299395.1	Candidatus Nitrosopumilus sp. AR2
+GCF_001458695.1	Candidatus Nitrospira inopinata
+GCF_000013885.1	Nitrobacter hamburgensis X14
+GCF_000012725.1	Nitrobacter winogradskyi Nb-255
+GCF_000024725.1	Nitrosococcus halophilus Nc 4
+GCF_000012805.1	Nitrosococcus oceani ATCC 19707
+GCF_000143085.1	Nitrosococcus watsonii C-113
+GCF_000812185.1	Candidatus Nitrosopelagicus brevis
+GCF_000955905.1	Candidatus Nitrosotenuis cloacae
+GCF_000785705.2	Methylomonas denitrificans
+GCF_000967305.2	Alcaligenes faecalis
+GCF_000016185.1	Rhodospirillum centenum SW
+GCF_000025725.1	Denitrovibrio acetiphilus DSM 12809
+GCF_000219215.1	Cupriavidus necator N-1
+GCF_000186245.1	Nitratifractor salsuginis DSM 16511
+GCF_000010325.1	Nitratiruptor sp. SB155-2
+GCF_000010065.1	Synechococcus elongatus PCC 6301
+GCF_000008325.1	Methylococcus capsulatus str. Bath
+GCF_000203875.1	Ralstonia eutropha JMP134
+GCF_000010805.1	Rhodococcus opacus B4
+GCF_000330865.1	Serratia marcescens FGI94
+GCF_000336425.1	Serratia marcescens WW4
+GCF_000006965.1	Sinorhizobium meliloti 1021
+GCF_000017145.1	Sinorhizobium medicae WSM419
+GCF_000018545.1	Sinorhizobium fredii NGR234
+GCF_000021745.1	Methylocella silvestris BL2
+GCF_000025885.1	Aminobacterium colombiense DSM 12261

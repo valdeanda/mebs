@@ -1,0 +1,124 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Dechloromonas_aromatica_RCB.faa.carbon.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/carbon/entropies.tab -minentropy -9 -random 0 -keggmap cycles/carbon/pfam2kegg.tab -pathway 
+
+# total HMMs with assigned entropy in cycles/carbon/entropies.tab : 119
+
+# Pfam	entropy	#matched_peptides
+PF00037	0.088	26
+PF13442	-0.295	25
+PF12838	0.122	23
+PF13187	0.166	21
+PF07992	0.000	17
+PF02786	0.044	11
+PF01266	0.028	11
+PF00970	-0.319	11
+PF00175	0.124	10
+PF02771	-0.356	9
+PF13484	0.160	9
+PF00441	-0.351	8
+PF00361	0.285	7
+PF00117	0.008	7
+PF00384	0.302	7
+PF12800	0.345	6
+PF01568	0.431	6
+PF02239	0.368	6
+PF01058	0.483	6
+PF00142	0.094	5
+PF00374	1.037	5
+PF03060	0.058	5
+PF00696	0.002	5
+PF04879	0.226	4
+PF04324	-0.306	4
+PF00174	0.030	4
+PF13247	0.222	4
+PF00148	1.799	4
+PF01515	-0.261	4
+PF13522	0.064	4
+PF00795	-0.150	3
+PF13510	-0.212	3
+PF07969	0.101	3
+PF00115	-0.372	3
+PF00871	-0.344	3
+PF01011	0.390	3
+PF13806	-0.077	3
+PF02142	0.099	2
+PF01077	0.328	2
+PF00120	0.093	2
+PF00116	-0.330	2
+PF00662	-0.074	2
+PF03460	0.323	2
+PF00484	-0.056	2
+PF08669	-0.390	2
+PF01571	-0.408	2
+PF04060	0.958	2
+PF13360	0.340	2
+PF03404	-0.030	1
+PF04208	2.898	1
+PF01493	0.447	1
+PF02812	-0.340	1
+PF00420	0.152	1
+PF00208	-0.155	1
+PF02787	0.141	1
+PF00346	0.463	1
+PF00499	-0.117	1
+PF04898	0.429	1
+PF11844	0.051	1
+PF00310	0.186	1
+PF02560	0.097	1
+PF01208	-0.005	1
+PF01645	0.166	1
+PF06433	0.376	1
+PF09723	-0.079	1
+PF00988	0.159	1
+PF00329	-0.030	1
+PF03951	0.189	1
+PF14691	-0.178	1
+PF00507	-0.140	1
+PF00296	0.491	1
+PF00194	-0.061	1
+PF00146	0.442	1
+
+# Pfam entropy score: 10.369
+
+# Pathway report
+# path_number	path_name	total_domains	matched	%completeness	matched_Pfam_domains
+1	coB/coM regeneration	8	5	62.5	PF12838,PF01058,PF00374,PF00346,PF00329
+2	methane oxidation 	24	6	25.0	PF12838,PF00970,PF00175,PF01011,PF13360,PF09723
+3	methanogenesis	52	19	36.5	PF00037,PF12838,PF13187,PF13484,PF00361,PF12800,PF01568,PF07969,PF00662,PF04060,PF04208,PF01493,PF00420,PF00499,PF01208,PF09723,PF00507,PF00296,PF00146
+4	methanogenesis(methanol) 	7	1	14.3	PF01208
+5	methylamine degradation	13	10	76.9	PF07992,PF01266,PF13522,PF13510,PF00120,PF08669,PF01571,PF01493,PF01645,PF06433
+6	mcrABC	5	0	0.0	
+
+# mean pathway completeness: 35.9
+
+
+# Script to map these Pfam domains in KEGG->User Data Mapping.
+# Colors are proportional to the number of Pfam matches and normalized with respect to the max.
+# Note that a reference map must be selected first. For instance, Sulphur metabolism is:
+# http://www.genome.jp/kegg-bin/show_pathway?map00920
+# WARNING: note that several K numbers might map to the same protein.
+# These cases are coloured in KEGG with the color of the last given K number.
+# You might want to manually adjust the colors to correct this.
+K00197 #2c7bb6,black
+K00200 #2c7bb6,black
+K00202 #2c7bb6,black
+K00205 #d7191c,black
+K00320 #2c7bb6,black
+K00577 #2c7bb6,black
+K01949 #2c7bb6,black
+K14028 #2c7bb6,black
+K14029 #2c7bb6,black
+K14080 #2c7bb6,black
+K15229 #2c7bb6,black
+K16161 #abd9e9,black
+K22158 #2c7bb6,black
+K22159 #2c7bb6,black
+K22160 #2c7bb6,black
+K22161 #2c7bb6,black
+K22163 #2c7bb6,black
+K22164 #fdae61,black
+K22165 #2c7bb6,black
+K22166 #2c7bb6,black
+K22167 #abd9e9,black
+fmdB #2c7bb6,black
+fmdF #fdae61,black

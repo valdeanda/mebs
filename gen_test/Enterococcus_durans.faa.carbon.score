@@ -1,0 +1,63 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Enterococcus_durans.faa.carbon.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/carbon/entropies.tab -minentropy -9 -random 0 -keggmap cycles/carbon/pfam2kegg.tab -pathway 
+
+# total HMMs with assigned entropy in cycles/carbon/entropies.tab : 119
+
+# Pfam	entropy	#matched_peptides
+PF07992	0.000	10
+PF01266	0.028	8
+PF00117	0.008	6
+PF07969	0.101	5
+PF00696	0.002	4
+PF02786	0.044	4
+PF03060	0.058	3
+PF00142	0.094	3
+PF02142	0.099	3
+PF13522	0.064	3
+PF07732	-0.252	2
+PF00037	0.088	2
+PF13484	0.160	2
+PF00194	-0.061	1
+PF00988	0.159	1
+PF01645	0.166	1
+PF00310	0.186	1
+PF00208	-0.155	1
+PF00296	0.491	1
+PF12838	0.122	1
+PF03951	0.189	1
+PF02812	-0.340	1
+PF00120	0.093	1
+PF00871	-0.344	1
+PF02787	0.141	1
+PF01515	-0.261	1
+PF00970	-0.319	1
+PF13510	-0.212	1
+
+# Pfam entropy score: 0.349
+
+# Pathway report
+# path_number	path_name	total_domains	matched	%completeness	matched_Pfam_domains
+1	coB/coM regeneration	8	1	12.5	PF12838
+2	methane oxidation 	24	2	8.3	PF12838,PF00970
+3	methanogenesis	52	5	9.6	PF07969,PF00037,PF13484,PF00296,PF12838
+4	methanogenesis(methanol) 	7	0	0.0	
+5	methylamine degradation	13	6	46.2	PF07992,PF01266,PF13522,PF01645,PF00120,PF13510
+6	mcrABC	5	0	0.0	
+
+# mean pathway completeness: 12.8
+
+
+# Script to map these Pfam domains in KEGG->User Data Mapping.
+# Colors are proportional to the number of Pfam matches and normalized with respect to the max.
+# Note that a reference map must be selected first. For instance, Sulphur metabolism is:
+# http://www.genome.jp/kegg-bin/show_pathway?map00920
+# WARNING: note that several K numbers might map to the same protein.
+# These cases are coloured in KEGG with the color of the last given K number.
+# You might want to manually adjust the colors to correct this.
+K00200 #ffffbf,black
+K00205 #2c7bb6,black
+K00320 #2c7bb6,black
+K01949 #2c7bb6,black
+K16161 #2c7bb6,black
+K22164 #2c7bb6,black
+fmdF #2c7bb6,black

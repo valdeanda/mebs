@@ -1,0 +1,149 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Synechococcus_sp_KORDI-52.faa.nitrogen.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/nitrogen/entropies.tab -minentropy -9 -random 0 -keggmap cycles/nitrogen/pfam2kegg.tab -pathway 
+
+# total HMMs with assigned entropy in cycles/nitrogen/entropies.tab : 96
+
+# Pfam	entropy	#matched_peptides
+PF00890	0.000	17
+PF07992	0.000	15
+PF01266	0.028	14
+PF12838	0.122	7
+PF00361	0.253	7
+PF02775	0.033	5
+PF13500	0.271	4
+PF13237	0.107	4
+PF13442	0.508	4
+PF00355	0.493	4
+PF00795	0.134	4
+PF00696	0.002	4
+PF00067	0.567	4
+PF02776	0.142	3
+PF00202	0.124	3
+PF00034	0.424	3
+PF00116	0.460	2
+PF00662	0.320	2
+PF13183	0.124	2
+PF03460	0.475	2
+PF00120	0.093	2
+PF00205	0.180	2
+PF00142	0.094	2
+PF01645	0.124	2
+PF00148	0.954	2
+PF01077	0.480	2
+PF12801	0.077	2
+PF00420	0.281	2
+PF00115	0.389	2
+PF01035	0.083	1
+PF00346	0.235	1
+PF07085	-0.079	1
+PF00146	0.236	1
+PF13510	0.136	1
+PF02754	0.407	1
+PF00499	0.371	1
+PF01568	0.254	1
+PF16901	0.073	1
+PF03951	0.128	1
+PF04898	0.297	1
+PF00484	0.182	1
+PF00970	0.285	1
+PF01493	0.289	1
+PF00329	0.253	1
+PF03060	0.092	1
+PF00507	0.355	1
+PF10531	-0.062	1
+PF12800	0.240	1
+PF01058	0.249	1
+PF00258	0.126	1
+PF02560	0.181	1
+PF00175	0.213	1
+PF12680	0.410	1
+PF04879	0.301	1
+PF00384	0.243	1
+PF00310	0.252	1
+PF03069	0.425	1
+
+# Pfam entropy score: 13.434
+
+# Pathway report
+# path_number	path_name	total_domains	matched	%completeness	matched_Pfam_domains
+1	ammonia assimilation cycle I	8	7	87.5	PF07992,PF00120,PF01645,PF03951,PF04898,PF01493,PF00310
+2	ammonia assimilation cycle II	9	6	66.7	PF00120,PF01645,PF03951,PF04898,PF01493,PF00310
+3	L-glutamine biosynthesis I	5	2	40.0	PF00120,PF03951
+4	superpathway of ammonia assimilation (plants)	2	2	100.0	PF00120,PF03951
+5	ammonia oxidation I (aerobic)	5	0	0.0	
+6	ammonia oxidation II (anaerobic)	2	1	50.0	PF13442
+7	ammonia oxidation IV (autotrophic ammonia oxidizers)	5	0	0.0	
+8	nitrifier denitrification	11	4	36.4	PF13442,PF00034,PF00116,PF00115
+9	nitrate reduction I (denitrification)	9	5	55.6	PF13442,PF00034,PF00115,PF01568,PF00384
+10	nitrate reduction III (dissimilatory)	19	4	21.1	PF01568,PF12800,PF04879,PF00384
+11	nitrate reduction IV (dissimilatory)	5	3	60.0	PF01568,PF04879,PF00384
+12	nitrate reduction V (assimilatory)	14	8	57.1	PF07992,PF00355,PF03460,PF00120,PF01077,PF03951,PF00970,PF00175
+13	nitrate reduction VI (assimilatory)	7	7	100.0	PF03460,PF00120,PF01077,PF01568,PF03951,PF04879,PF00384
+14	nitrate reduction VIII (dissimilatory)	26	15	57.7	PF12838,PF00361,PF00662,PF00420,PF00115,PF00346,PF00146,PF00499,PF01568,PF00329,PF00507,PF10531,PF01058,PF04879,PF00384
+15	nitrate reduction VIIIb (dissimilatory)	7	3	42.9	PF07992,PF01568,PF00384
+16	nitrate reduction IX (dissimilatory)	11	6	54.5	PF00890,PF01266,PF13183,PF02754,PF01568,PF00384
+17	nitrate reduction X (dissimilatory periplasmic)	11	9	81.8	PF01266,PF12838,PF13237,PF12801,PF01568,PF16901,PF12800,PF04879,PF00384
+18	nitrogen fixation I (ferredoxin)  	5	2	40.0	PF00142,PF00148
+19	nitrogen fixation II (flavodoxin)	4	2	50.0	PF00142,PF00148
+20	Urea degradation II	4	0	0.0	
+21	caffeine degradation V (bacteria via trimethylurate)	1	0	0.0	
+22	4-aminobutanoate degradation I	3	1	33.3	PF00202
+23	4-aminobutanoate degradation II	3	1	33.3	PF00202
+24	4-aminobutanoate degradation V	4	0	0.0	
+25	allantoin degradation IV (anaerobic)	4	0	0.0	
+26	Ammonia monoxygenase Archaea AmoABC	3	0	0.0	
+27	nirBD	5	3	60.0	PF07992,PF03460,PF01077
+28	GABA biosynthesis prokaryotes putrescine => GABA	4	2	50.0	PF01266,PF00120
+
+# mean pathway completeness: 42.1
+
+
+# Script to map these Pfam domains in KEGG->User Data Mapping.
+# Colors are proportional to the number of Pfam matches and normalized with respect to the max.
+# Note that a reference map must be selected first. For instance, Sulphur metabolism is:
+# http://www.genome.jp/kegg-bin/show_pathway?map00920
+# WARNING: note that several K numbers might map to the same protein.
+# These cases are coloured in KEGG with the color of the last given K number.
+# You might want to manually adjust the colors to correct this.
+K00111 #fdae61,black
+K00112 #d7191c,black
+K00113 #2c7bb6,black
+K00123 #2c7bb6,black
+K00264 #fdae61,black
+K00284 #2c7bb6,black
+K00330 #2c7bb6,black
+K00331 #2c7bb6,black
+K00335 #2c7bb6,black
+K00336 #2c7bb6,black
+K00337 #2c7bb6,black
+K00338 #abd9e9,black
+K00339 #2c7bb6,black
+K00340 #2c7bb6,black
+K00341 #abd9e9,black
+K00342 #abd9e9,black
+K00343 #abd9e9,black
+K00362 #fdae61,black
+K00366 #2c7bb6,black
+K00367 #2c7bb6,black
+K00370 #2c7bb6,black
+K00823 #2c7bb6,black
+K01915 #2c7bb6,black
+K02274 #2c7bb6,black
+K02275 #2c7bb6,black
+K02305 #2c7bb6,black
+K02567 #2c7bb6,black
+K02573 #abd9e9,black
+K02574 #2c7bb6,black
+K03885 #fdae61,black
+K04561 #2c7bb6,black
+K07250 #2c7bb6,black
+K08348 #2c7bb6,black
+K08349 #2c7bb6,black
+K09470 #2c7bb6,black
+K09471 #fdae61,black
+K10534 #2c7bb6,black
+K13378 #2c7bb6,black
+K14268 #2c7bb6,black
+K15864 #2c7bb6,black
+K17877 #fdae61,black
+K22897 #2c7bb6,black

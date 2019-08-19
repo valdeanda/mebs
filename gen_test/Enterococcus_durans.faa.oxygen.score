@@ -1,0 +1,27 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Enterococcus_durans.faa.oxygen.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/oxygen/entropies.tab -minentropy -9 -random 0 -keggmap  -pathway 
+
+# total HMMs with assigned entropy in cycles/oxygen/entropies.tab : 55
+
+# Pfam	entropy	#matched_peptides
+PF07992	0.000	10
+PF00117	0.008	6
+PF00696	0.002	4
+PF02786	0.044	4
+PF00142	0.094	3
+PF03060	0.007	3
+PF02142	0.116	3
+PF07732	-0.043	2
+PF00194	0.076	1
+PF00120	0.093	1
+PF00988	0.159	1
+PF02812	-0.105	1
+PF02787	0.128	1
+PF03951	0.134	1
+PF00208	-0.040	1
+PF00970	0.169	1
+PF01645	0.184	1
+PF00310	0.407	1
+
+# Pfam entropy score: 1.433
+

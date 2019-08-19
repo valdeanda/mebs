@@ -1,0 +1,83 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Candidatus_Nitrosopumilus_sp_AR2.faa.carbon.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/carbon/entropies.tab -minentropy -9 -random 0 -keggmap cycles/carbon/pfam2kegg.tab -pathway 
+
+# total HMMs with assigned entropy in cycles/carbon/entropies.tab : 119
+
+# Pfam	entropy	#matched_peptides
+PF00117	0.008	9
+PF00037	0.088	9
+PF07732	-0.252	7
+PF12838	0.122	7
+PF07992	0.000	6
+PF00696	0.002	5
+PF07969	0.101	4
+PF02786	0.044	4
+PF13484	0.160	4
+PF13187	0.166	4
+PF01266	0.028	4
+PF13806	-0.077	3
+PF00175	0.124	3
+PF00361	0.285	3
+PF13522	0.064	2
+PF00296	0.491	2
+PF03951	0.189	2
+PF00120	0.093	2
+PF00208	-0.155	2
+PF00795	-0.150	2
+PF00970	-0.319	2
+PF01077	0.328	1
+PF00988	0.159	1
+PF02239	0.368	1
+PF00116	-0.330	1
+PF04208	2.898	1
+PF00507	-0.140	1
+PF00662	-0.074	1
+PF00115	-0.372	1
+PF03060	0.058	1
+PF00346	0.463	1
+PF02812	-0.340	1
+PF00499	-0.117	1
+PF00329	-0.030	1
+PF00146	0.442	1
+PF03460	0.323	1
+PF00420	0.152	1
+PF01058	0.483	1
+PF00142	0.094	1
+
+# Pfam entropy score: 5.377
+
+# Pathway report
+# path_number	path_name	total_domains	matched	%completeness	matched_Pfam_domains
+1	coB/coM regeneration	8	4	50.0	PF12838,PF00346,PF00329,PF01058
+2	methane oxidation 	24	3	12.5	PF12838,PF00175,PF00970
+3	methanogenesis	52	13	25.0	PF00037,PF12838,PF07969,PF13484,PF13187,PF00361,PF00296,PF04208,PF00507,PF00662,PF00499,PF00146,PF00420
+4	methanogenesis(methanol) 	7	0	0.0	
+5	methylamine degradation	13	4	30.8	PF07992,PF01266,PF13522,PF00120
+6	mcrABC	5	0	0.0	
+
+# mean pathway completeness: 19.7
+
+
+# Script to map these Pfam domains in KEGG->User Data Mapping.
+# Colors are proportional to the number of Pfam matches and normalized with respect to the max.
+# Note that a reference map must be selected first. For instance, Sulphur metabolism is:
+# http://www.genome.jp/kegg-bin/show_pathway?map00920
+# WARNING: note that several K numbers might map to the same protein.
+# These cases are coloured in KEGG with the color of the last given K number.
+# You might want to manually adjust the colors to correct this.
+K00200 #abd9e9,black
+K00205 #d7191c,black
+K00320 #2c7bb6,black
+K00577 #2c7bb6,black
+K01949 #2c7bb6,black
+K16161 #abd9e9,black
+K22158 #2c7bb6,black
+K22159 #2c7bb6,black
+K22160 #2c7bb6,black
+K22161 #2c7bb6,black
+K22163 #2c7bb6,black
+K22164 #fdae61,black
+K22165 #2c7bb6,black
+K22166 #2c7bb6,black
+K22167 #abd9e9,black
+fmdF #fdae61,black

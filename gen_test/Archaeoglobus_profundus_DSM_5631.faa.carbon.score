@@ -1,0 +1,97 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Archaeoglobus_profundus_DSM_5631.faa.carbon.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/carbon/entropies.tab -minentropy -9 -random 0 -keggmap cycles/carbon/pfam2kegg.tab -pathway 
+
+# total HMMs with assigned entropy in cycles/carbon/entropies.tab : 119
+
+# Pfam	entropy	#matched_peptides
+PF00037	0.088	27
+PF13187	0.166	22
+PF12838	0.122	20
+PF13484	0.160	13
+PF07992	0.000	13
+PF12800	0.345	8
+PF00117	0.008	8
+PF01266	0.028	8
+PF00696	0.002	4
+PF01058	0.483	3
+PF00361	0.285	3
+PF07969	0.101	3
+PF03060	0.058	3
+PF13247	0.222	3
+PF03460	0.323	2
+PF02786	0.044	2
+PF00374	1.037	2
+PF02142	0.099	2
+PF01077	0.328	2
+PF00142	0.094	2
+PF04422	1.660	2
+PF13522	0.064	2
+PF04432	1.580	2
+PF00329	-0.030	1
+PF00208	-0.155	1
+PF01568	0.431	1
+PF00441	-0.351	1
+PF00175	0.124	1
+PF00384	0.302	1
+PF02787	0.141	1
+PF01645	0.166	1
+PF13360	0.340	1
+PF01913	3.647	1
+PF00346	0.463	1
+PF00296	0.491	1
+PF02665	-0.040	1
+PF01011	0.390	1
+PF04879	0.226	1
+PF02741	3.647	1
+PF00120	0.093	1
+PF01993	2.876	1
+PF00662	-0.074	1
+PF03951	0.189	1
+PF00795	-0.150	1
+PF04060	0.958	1
+PF00988	0.159	1
+PF02289	3.353	1
+PF00146	0.442	1
+PF00507	-0.140	1
+
+# Pfam entropy score: 24.795
+
+# Pathway report
+# path_number	path_name	total_domains	matched	%completeness	matched_Pfam_domains
+1	coB/coM regeneration	8	7	87.5	PF12838,PF01058,PF00374,PF04422,PF04432,PF00329,PF00346
+2	methane oxidation 	24	4	16.7	PF12838,PF00175,PF13360,PF01011
+3	methanogenesis	52	16	30.8	PF00037,PF13187,PF12838,PF13484,PF12800,PF00361,PF07969,PF01568,PF01913,PF00296,PF02741,PF00662,PF04060,PF02289,PF00146,PF00507
+4	methanogenesis(methanol) 	7	0	0.0	
+5	methylamine degradation	13	5	38.5	PF07992,PF01266,PF13522,PF01645,PF00120
+6	mcrABC	5	0	0.0	
+
+# mean pathway completeness: 28.9
+
+
+# Script to map these Pfam domains in KEGG->User Data Mapping.
+# Colors are proportional to the number of Pfam matches and normalized with respect to the max.
+# Note that a reference map must be selected first. For instance, Sulphur metabolism is:
+# http://www.genome.jp/kegg-bin/show_pathway?map00920
+# WARNING: note that several K numbers might map to the same protein.
+# These cases are coloured in KEGG with the color of the last given K number.
+# You might want to manually adjust the colors to correct this.
+K00197 #2c7bb6,black
+K00200 #2c7bb6,black
+K00202 #2c7bb6,black
+K00205 #d7191c,black
+K00320 #2c7bb6,black
+K00672 #2c7bb6,black
+K01499 #2c7bb6,black
+K01949 #2c7bb6,black
+K14028 #2c7bb6,black
+K14029 #2c7bb6,black
+K16161 #2c7bb6,black
+K22158 #2c7bb6,black
+K22159 #2c7bb6,black
+K22160 #2c7bb6,black
+K22161 #2c7bb6,black
+K22162 #2c7bb6,black
+K22163 #2c7bb6,black
+K22164 #ffffbf,black
+K22167 #2c7bb6,black
+fmdF #ffffbf,black

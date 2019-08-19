@@ -1,0 +1,40 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Synechococcus_sp_KORDI-52.faa.iron.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/iron/entropies.tab -minentropy -9 -random 0 -keggmap cycles/iron/pfam2kegg.tab -pathway 
+
+# total HMMs with assigned entropy in cycles/iron/entropies.tab : 33
+
+# Pfam	entropy	#matched_peptides
+PF02421	-0.001	8
+PF00355	0.493	4
+PF00465	-0.042	4
+PF00501	0.141	3
+PF00034	0.449	3
+PF00550	0.025	2
+PF00510	0.184	2
+PF00116	0.236	2
+PF00115	0.371	2
+PF00032	0.791	1
+PF00033	0.565	1
+PF13434	-0.118	1
+PF01521	-0.132	1
+PF00378	0.249	1
+PF01106	0.249	1
+
+# Pfam entropy score: 3.46
+
+# Pathway report
+# path_number	path_name	total_domains	matched	%completeness	matched_Pfam_domains
+1	Fe(II)oxidation	9	6	66.7	PF00355,PF00034,PF00116,PF00115,PF00032,PF00033
+2	Fe_reduction_absorption 	9	0	0.0	
+
+# mean pathway completeness: 33.3
+
+
+# Script to map these Pfam domains in KEGG->User Data Mapping.
+# Colors are proportional to the number of Pfam matches and normalized with respect to the max.
+# Note that a reference map must be selected first. For instance, Sulphur metabolism is:
+# http://www.genome.jp/kegg-bin/show_pathway?map00920
+# WARNING: note that several K numbers might map to the same protein.
+# These cases are coloured in KEGG with the color of the last given K number.
+# You might want to manually adjust the colors to correct this.
+

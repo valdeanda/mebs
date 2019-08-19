@@ -1,0 +1,49 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_038553646.1       -          AMP-binding          PF00501.27     1e-95  318.1   0.0   1.4e-95  317.7   0.0   1.1   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038555409.1       -          AMP-binding          PF00501.27   9.2e-95  314.9   0.0   1.2e-94  314.6   0.0   1.1   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038552631.1       -          AMP-binding          PF00501.27   7.5e-18   61.6   0.0   1.1e-17   61.0   0.0   1.2   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038556436.1       -          COX1                 PF00115.19  4.3e-149  494.2  56.4  5.1e-149  494.0  56.4   1.0   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038555843.1       -          COX1                 PF00115.19  1.6e-143  475.9  67.3  1.9e-143  475.7  67.3   1.1   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038556434.1       -          COX2                 PF00116.19   5.6e-14   49.4   0.0   9.5e-14   48.6   0.0   1.3   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038555840.1       -          COX2                 PF00116.19   4.1e-10   36.9   0.2   4.8e-09   33.4   0.0   2.3   1   1   1   2   2   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038556438.1       -          COX3                 PF00510.17   8.6e-36  121.3   9.9   1.8e-35  120.3   9.9   1.5   1   1   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038555846.1       -          COX3                 PF00510.17   7.9e-34  114.9  13.9   9.4e-34  114.7  13.9   1.0   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_011363493.1       -          Cytochrome_B         PF00033.18   1.6e-82  273.2  14.6   1.8e-82  273.0  14.6   1.0   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_006851144.1       -          Cytochrom_B_C        PF00032.16   1.1e-15   55.1   0.4   1.1e-15   55.1   0.4   1.4   2   0   0   2   2   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038554392.1       -          Cytochrom_C          PF00034.20   1.6e-11   42.5   0.1   2.3e-11   42.0   0.1   1.3   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038555759.1       -          Cytochrom_C          PF00034.20   2.4e-09   35.5   0.2   4.2e-09   34.7   0.2   1.4   1   1   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038553756.1       -          Cytochrom_C          PF00034.20     3e-09   35.2   0.8   3.3e-07   28.7   0.8   2.2   1   1   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038555456.1       -          ECH_1                PF00378.19     2e-68  227.7   0.0   2.3e-68  227.5   0.0   1.0   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_071840278.1       -          Fe-ADH               PF00465.18  2.3e-103  343.0   0.1  2.7e-103  342.8   0.1   1.0   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038552553.1       -          Fe-ADH               PF00465.18   7.3e-90  298.6   0.0   9.2e-90  298.3   0.0   1.0   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038554288.1       -          Fe-ADH               PF00465.18   5.3e-49  164.2   0.1     6e-49  164.0   0.1   1.0   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038554687.1       -          Fe-ADH               PF00465.18   5.2e-12   42.5   0.3   1.3e-11   41.2   0.1   1.7   2   0   0   2   2   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038552842.1       -          Fe-S_biosyn          PF01521.19   1.1e-19   68.0   0.0   1.2e-19   67.8   0.0   1.0   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038553601.1       -          FeoB_N               PF02421.17   3.6e-25   85.6   0.0   6.1e-14   49.1   0.0   2.2   2   0   0   2   2   2   2 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038555984.1       -          FeoB_N               PF02421.17   9.4e-16   55.0   0.0   1.5e-15   54.3   0.0   1.2   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038552538.1       -          FeoB_N               PF02421.17   8.4e-11   38.9   0.0   1.3e-10   38.3   0.0   1.3   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038556559.1       -          FeoB_N               PF02421.17   6.8e-10   36.0   0.0   9.4e-10   35.5   0.0   1.2   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038555261.1       -          FeoB_N               PF02421.17   1.8e-09   34.6   0.0   2.6e-09   34.0   0.0   1.3   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038553736.1       -          FeoB_N               PF02421.17   9.8e-09   32.2   0.1   3.9e-08   30.3   0.1   2.0   1   1   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038556861.1       -          FeoB_N               PF02421.17   2.3e-08   31.0   0.0   3.8e-08   30.3   0.0   1.3   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038553462.1       -          FeoB_N               PF02421.17   1.1e-05   22.3   0.1   2.6e-05   21.1   0.1   1.7   1   1   0   1   1   0   0 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038556039.1       -          K_oxygenase          PF13434.5    2.8e-06   23.9   0.1   2.8e-05   20.7   0.0   2.4   3   0   0   3   3   0   0 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_011128549.1       -          NifU                 PF01106.16     7e-30  100.3   0.3   8.6e-30  100.0   0.3   1.1   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_011363161.1       -          PP-binding           PF00550.24   1.8e-18   64.0   0.2     2e-18   63.8   0.2   1.0   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038553164.1       -          PP-binding           PF00550.24     3e-11   40.8   0.1   3.6e-11   40.6   0.1   1.1   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_071840235.1       -          Rieske               PF00355.25   2.3e-21   72.8   0.0   4.1e-21   72.0   0.0   1.4   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_038557005.1       -          Rieske               PF00355.25   4.1e-20   68.8   0.0   7.2e-20   68.0   0.0   1.4   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_006850760.1       -          Rieske               PF00355.25   5.7e-13   45.9   0.0   8.3e-13   45.4   0.0   1.2   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+WP_071840236.1       -          Rieske               PF00355.25   2.1e-10   37.7   0.0   4.7e-10   36.6   0.0   1.5   1   0   0   1   1   1   1 [GCF_000737595.1_ASM73759v1_protein.faa]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      cycles/iron/my_Pfam.iron.hmm
+# Target file:     gen_test//Synechococcus_sp_KORDI-52.faa
+# Option settings: hmmsearch -o /dev/null --tblout gen_test//Synechococcus_sp_KORDI-52.faa.iron.hmmsearch.tab --cut_ga cycles/iron/my_Pfam.iron.hmm gen_test//Synechococcus_sp_KORDI-52.faa 
+# Current dir:     /home/hawking/src/mebs
+# Date:            Fri Aug 16 18:36:51 2019
+# [ok]

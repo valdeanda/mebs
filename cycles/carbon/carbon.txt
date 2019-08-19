@@ -1,0 +1,90 @@
+GCF_000006175.1	Methanococcus voltae A3
+GCF_000007065.1	Methanosarcina mazei Go1
+GCF_000007345.1	Methanosarcina acetivorans C2A
+GCF_000008325.1	Methylococcus capsulatus str. Bath
+GCF_000008645.1	Methanothermobacter thermautotrophicus str. Delta H
+GCF_000011585.1	Methanococcus maripaludis S2
+GCF_000012545.1	Methanosphaera stadtmanae DSM 3091
+GCF_000013445.1	Methanospirillum hungatei JF-1
+GCF_000013705.1	Methylobacillus flagellatus KT
+GCF_000013725.1	Methanococcoides burtonii DSM 6242
+GCF_000015725.1	Methylibium petroleiphilum PM1
+GCF_000015765.1	Methanocorpusculum labreanum Z
+GCF_000015825.1	Methanoculleus marisnigri JR1
+GCF_000016125.1	Methanococcus maripaludis C5
+GCF_000016525.1	Methanobrevibacter smithii ATCC 35061
+GCF_000017165.1	Methanococcus vannielii SB
+GCF_000017185.1	Methanococcus aeolicus Nankai-3
+GCF_000017225.1	Methanococcus maripaludis C7
+GCF_000017625.1	Methanoregula boonei 6A8
+GCF_000018485.1	Methanococcus maripaludis C6
+GCF_000018845.1	Methylobacterium extorquens PA1
+GCF_000019365.1	Methylobacterium sp. 4-46
+GCF_000019665.1	Methylacidiphilum infernorum V4
+GCF_000019725.1	Methylobacterium radiotolerans JCM 2831
+GCF_000019945.1	Methylobacterium populi BJ001
+GCF_000021745.1	Methylocella silvestris BL2
+GCF_000021965.1	Methanosphaerula palustris E1-9c
+GCF_000022085.1	Methylobacterium nodulans ORS 2060
+GCF_000023705.1	Methylotenera mobilis JLW8
+GCF_000023745.1	Methylovorus glucosetrophus SIP3-4
+GCF_000023985.1	Methanocaldococcus fervens AG86
+GCF_000024185.1	Methanobrevibacter ruminantium M1
+GCF_000024625.1	Methanocaldococcus vulcanius M7
+GCF_000025525.1	Methanocaldococcus sp. FS406-22
+GCF_000025865.1	Methanohalophilus mahii DSM 5219
+GCF_000063445.1	Methanocella arvoryzae MRE50
+GCF_000091665.1	Methanocaldococcus jannaschii DSM 2661
+GCF_000092305.1	Methanocaldococcus infernus ME
+GCF_000093025.1	Methylotenera versatilis 301
+GCF_000145295.1	Methanothermobacter marburgensis str. Marburg
+GCF_000147875.1	Methanolacinia petrolearia DSM 11571
+GCF_000166095.1	Methanothermus fervidus DSM 2088
+GCF_000179575.2	Methanothermococcus okinawensis IH1
+GCF_000191585.1	Methanobacterium lacus
+GCF_000195895.1	Methanosarcina barkeri str. Fusaro
+GCF_000196655.1	Methanohalobium evestigatum Z-7303
+GCF_000204415.1	Methanosaeta concilii GP6
+GCF_000214415.1	Methanotorris igneus Kol 5
+GCF_000214665.1	Methylomonas methanica MC09
+GCF_000214725.1	Methanobacterium paludis
+GCF_000217995.1	Methanosalsum zhilinae DSM 4017
+GCF_000235565.1	Methanosaeta harundinacea 6Ac
+GCF_000235685.2	Methanolinea tarda NOBI-1
+GCF_000251105.1	Methanocella conradii HZ254
+GCF_000260965.1	Methylophaga frappieri
+GCF_000260985.3	Methylophaga nitratireducenticrescens
+GCF_000300255.2	Candidatus Methanomethylophilus alvus Mx1201
+GCF_000304315.1	Methylocystis sp. SC2
+GCF_000304355.2	Methanoculleus bourgensis MS2
+GCF_000306725.1	Methanolobus psychrophilus R15
+GCF_000327485.1	Methanoregula formicica SMSP
+GCF_000328665.1	Methanomethylovorans hollandica DSM 15978
+GCF_000404165.1	Methanobrevibacter sp. AbM4
+GCF_000404225.1	Candidatus Methanomassiliicoccus intestinalis Issoire-Mx1
+GCF_000499765.1	Methanobacterium sp. MB1
+GCF_000739065.1	Methanocaldococcus bathoardescens
+GCF_000762265.1	Methanobacterium formicicum
+GCF_000785705.2	Methylomonas denitrificans
+GCF_000800805.1	Candidatus Methanoplasma termitum
+GCF_000828475.1	Methyloceanibacter caenitepidi
+GCF_000828575.1	Methanothermobacter sp. CaT2
+GCF_000953015.1	Candidatus Methylopumilus turicensis
+GCF_000953475.1	Methylacidiphilum fumariolicum SolV
+GCF_000968535.2	Methylomicrobium alcaliphilum 20Z
+GCF_000969885.1	Methanosarcina thermophila TM-1
+GCF_000969905.1	Methanosarcina vacuolata Z-761
+GCF_000969965.1	Methanosarcina sp. WWM596
+GCF_000970025.1	Methanosarcina barkeri MS
+GCF_000970045.1	Methanosarcina sp. MTP4
+GCF_000970085.1	Methanosarcina siciliae T4/M
+GCF_000970265.1	Methanosarcina lacustris Z-7289
+GCF_000970285.1	Methanosarcina horonobensis HB-1 = JCM 15518
+GCF_000970305.1	Methanosarcina barkeri 3
+GCF_000970325.1	Methanococcoides methylutens MM1
+GCF_000981505.1	Candidatus Methylopumilus planktonicus
+GCF_001183865.1	Methylophilus sp. TWE2
+GCF_001477655.1	Methanobrevibacter millerae
+GCF_001542815.1	Methylobacterium sp. AMS5
+GCF_001548015.1	Methylobacterium aquaticum
+GCF_001644685.1	Methylomonas sp. DH-1

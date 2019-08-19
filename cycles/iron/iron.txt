@@ -1,0 +1,34 @@
+GCF_000020825.1	Acidithiobacillus ferrooxidans ATCC 53993
+GCF_000214095.2	Acidithiobacillus ferrivorans SS3
+GCF_000023265.1	Acidimicrobium ferrooxidans DSM 10331
+GCF_000284315.1	Leptospirillum ferrooxidans C2-3
+GCF_000152265.2	Ferroplasma acidarmanus fer1
+GCF_000012925.1	Geobacter metallireducens GS-15
+GCF_000175115.2	Geobacter sp. M18
+GCF_000013385.1	Anaeromyxobacter dehalogenans 2CP-C
+GCF_000817955.1	Geobacter pickeringii
+GCF_000019785.1	Leptothrix cholodnii SP-6
+GCF_000145255.1	Gallionella capsiferriformans ES-2
+GCF_000025705.1	Sideroxydans lithotrophicus ES-1
+GCF_000007985.2	Geobacter sulfurreducens PCA
+GCF_000012925.1	Geobacter metallireducens GS-15
+GCF_000016745.1	Geobacter uraniireducens Rf4
+GCF_000020385.1	Geobacter lovleyi SZ
+GCF_000020725.1	Geobacter bemidjiensis Bem
+GCF_000022265.1	Geobacter daltonii FRC-32
+GCF_000023645.1	Geobacter sp. M21
+GCF_000017505.1	Anaeromyxobacter sp. Fw109-5
+GCF_000020805.1	Anaeromyxobacter sp. K
+GCF_000199675.1	Anaerolinea thermophila UNI-1
+GCF_000021865.1	Rhodobacter capsulatus SB 1003
+GCF_000166055.1	Rhodomicrobium vannielii ATCC 17100
+GCF_000012745.1	Thiobacillus denitrificans ATCC 25259
+GCF_000013365.1	Rhodopseudomonas palustris HaA2
+GCF_000013685.1	Rhodopseudomonas palustris BisB5
+GCF_000013745.1	Rhodopseudomonas palustris BisB18
+GCF_000014825.1	Rhodopseudomonas palustris BisA53
+GCF_000020445.1	Rhodopseudomonas palustris TIE-1
+GCF_000021965.1	Methanosphaerula palustris E1-9c
+GCF_000177255.2	Rhodopseudomonas palustris DX-1
+GCF_000012425.1	Dechloromonas aromatica RCB
+GCF_000166055.1	Rhodomicrobium vannielii ATCC 17100

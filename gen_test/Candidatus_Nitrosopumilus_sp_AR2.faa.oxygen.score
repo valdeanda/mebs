@@ -1,0 +1,30 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Candidatus_Nitrosopumilus_sp_AR2.faa.oxygen.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/oxygen/entropies.tab -minentropy -9 -random 0 -keggmap  -pathway 
+
+# total HMMs with assigned entropy in cycles/oxygen/entropies.tab : 55
+
+# Pfam	entropy	#matched_peptides
+PF00117	0.008	9
+PF07732	-0.043	7
+PF07992	0.000	6
+PF00696	0.002	5
+PF02786	0.044	4
+PF00175	0.290	3
+PF13806	-0.099	3
+PF00120	0.093	2
+PF03951	0.134	2
+PF00970	0.169	2
+PF00795	0.134	2
+PF00208	-0.040	2
+PF02239	0.162	1
+PF02812	-0.105	1
+PF00115	0.489	1
+PF00116	0.659	1
+PF00988	0.159	1
+PF01077	0.539	1
+PF00142	0.094	1
+PF03460	0.533	1
+PF03060	0.007	1
+
+# Pfam entropy score: 3.229
+

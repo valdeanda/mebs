@@ -1,0 +1,41 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_053109224.1       -          Acetyltransf_8       PF13523.5    2.7e-09   34.1   0.0   4.4e-09   33.4   0.0   1.3   1   0   0   1   1   1   1 N-acetyltransferase [Enterococcus durans]
+WP_005881134.1       -          AMP-binding          PF00501.27   1.2e-82  275.0   0.0   1.4e-82  274.7   0.0   1.1   1   0   0   1   1   1   1 MULTISPECIES: D-alanine--poly(phosphoribitol) ligase [Enterococcus]
+WP_053109008.1       -          AMP-binding          PF00501.27   1.4e-40  136.4   0.1   1.8e-40  136.0   0.1   1.1   1   0   0   1   1   1   1 acetate--CoA ligase [Enterococcus durans]
+WP_005875385.1       -          Fe-ADH               PF00465.18    5e-119  394.5   0.1  1.1e-118  393.4   0.1   1.6   1   0   0   1   1   1   1 MULTISPECIES: bifunctional acetaldehyde-CoA/alcohol dehydrogenase [Enterococcus]
+WP_053109152.1       -          Fe-ADH               PF00465.18   1.2e-51  172.9   0.0   1.3e-51  172.7   0.0   1.0   1   0   0   1   1   1   1 glycerol dehydrogenase [Enterococcus durans]
+WP_005879020.1       -          Fe-ADH               PF00465.18   1.5e-11   40.9   1.3   1.1e-10   38.0   1.3   2.0   1   1   0   1   1   1   1 MULTISPECIES: 3-dehydroquinate synthase [Enterococcus]
+WP_005880598.1       -          Fe-S_biosyn          PF01521.19   5.5e-34  113.9   0.4   6.1e-34  113.8   0.4   1.0   1   0   0   1   1   1   1 MULTISPECIES: hypothetical protein [Enterococcus]
+WP_005880681.1       -          Fe-S_biosyn          PF01521.19   1.7e-26   89.8   0.1   1.9e-26   89.7   0.1   1.0   1   0   0   1   1   1   1 MULTISPECIES: hypothetical protein [Enterococcus]
+WP_053109038.1       -          Fe-S_biosyn          PF01521.19   1.8e-20   70.4   0.1     2e-20   70.3   0.1   1.0   1   0   0   1   1   1   1 hypothetical protein [Enterococcus durans]
+WP_005878955.1       -          FeoB_C               PF07664.11   3.5e-18   62.3   0.1   3.5e-18   62.3   0.1   3.1   3   0   0   3   3   1   1 MULTISPECIES: ferrous iron transport protein B [Enterococcus]
+WP_005878955.1       -          FeoB_N               PF02421.17   1.4e-66  220.1   0.1   2.4e-66  219.3   0.1   1.4   1   0   0   1   1   1   1 MULTISPECIES: ferrous iron transport protein B [Enterococcus]
+WP_005878566.1       -          FeoB_N               PF02421.17   5.6e-27   91.4   0.1   6.3e-13   45.7   0.0   2.2   2   0   0   2   2   2   2 MULTISPECIES: ribosome biogenesis GTPase Der [Enterococcus]
+WP_005880318.1       -          FeoB_N               PF02421.17     2e-15   53.8   0.6   6.1e-15   52.3   0.1   1.8   2   0   0   2   2   1   1 MULTISPECIES: GTPase Era [Enterococcus]
+WP_005875768.1       -          FeoB_N               PF02421.17   1.8e-10   37.7   0.6   3.5e-09   33.6   0.0   2.5   2   1   0   2   2   1   1 MULTISPECIES: GTP-binding protein YchF [Enterococcus]
+WP_005875777.1       -          FeoB_N               PF02421.17   4.7e-10   36.4   0.2     1e-09   35.3   0.2   1.6   1   0   0   1   1   1   1 MULTISPECIES: tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE [Enterococcus]
+WP_016176722.1       -          FeoB_N               PF02421.17   5.1e-10   36.3   0.0   1.3e-09   35.0   0.0   1.7   1   1   0   1   1   1   1 MULTISPECIES: GTPase ObgE [Enterococcus]
+WP_005879997.1       -          FeoB_N               PF02421.17   2.5e-09   34.0   0.0   3.1e-09   33.8   0.0   1.1   1   0   0   1   1   1   1 MULTISPECIES: YihA family ribosome biogenesis GTP-binding protein [Enterococcus]
+WP_005877808.1       -          FeoB_N               PF02421.17   2.7e-08   30.7   0.5   4.3e-06   23.6   0.1   2.3   2   0   0   2   2   1   1 MULTISPECIES: ribosome biogenesis GTPase YqeH [Enterococcus]
+WP_005875721.1       -          FeoB_N               PF02421.17   1.1e-07   28.7   0.1   2.1e-07   27.8   0.1   1.5   1   0   0   1   1   1   1 MULTISPECIES: GTPase HflX [Enterococcus]
+WP_005878955.1       -          Gate                 PF07670.13   1.3e-40  135.3  17.3   1.8e-29   99.5   1.4   3.4   4   0   0   4   4   2   2 MULTISPECIES: ferrous iron transport protein B [Enterococcus]
+WP_053108918.1       -          HMG_CoA_synt_C       PF08540.9    6.1e-28   95.4   1.0   8.7e-15   52.3   0.1   2.2   1   1   1   2   2   2   2 hydroxymethylglutaryl-CoA synthase [Enterococcus durans]
+WP_053108918.1       -          HMG_CoA_synt_N       PF01154.16   1.7e-23   80.6   0.0   2.7e-23   79.9   0.0   1.3   1   0   0   1   1   1   1 hydroxymethylglutaryl-CoA synthase [Enterococcus durans]
+WP_005237714.1       -          K_oxygenase          PF13434.5    7.5e-09   32.3   0.3   6.5e-06   22.7   0.0   3.2   2   1   1   3   3   1   1 MULTISPECIES: pyridine nucleotide-disulfide oxidoreductase [Lactobacillales]
+WP_005879202.1       -          NifU_N               PF01592.15   1.1e-28   97.1   0.1     2e-28   96.3   0.1   1.4   1   1   0   1   1   1   1 MULTISPECIES: iron-sulfur cluster assembly scaffold protein [Enterococcus]
+WP_005876288.1       -          PP-binding           PF00550.24   9.8e-15   51.9   0.9   1.1e-14   51.7   0.9   1.1   1   0   0   1   1   1   1 MULTISPECIES: acyl carrier protein [Enterococcus]
+WP_005880715.1       -          PP-binding           PF00550.24   3.5e-12   43.7   0.5     4e-12   43.6   0.5   1.1   1   0   0   1   1   1   1 MULTISPECIES: acyl carrier protein [Enterococcus]
+WP_005881129.1       -          PP-binding           PF00550.24   5.8e-12   43.0   0.4   6.4e-12   42.9   0.4   1.1   1   0   0   1   1   1   1 MULTISPECIES: D-alanine--poly(phosphoribitol) ligase subunit 2 [Enterococcus]
+WP_005877530.1       -          Zip                  PF02535.21     1e-27   94.4  19.6     1e-19   68.1  11.4   2.1   1   1   1   2   2   1   1 MULTISPECIES: ZIP family metal transporter [Enterococcus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      cycles/iron/my_Pfam.iron.hmm
+# Target file:     gen_test//Enterococcus_durans.faa
+# Option settings: hmmsearch -o /dev/null --tblout gen_test//Enterococcus_durans.faa.iron.hmmsearch.tab --cut_ga cycles/iron/my_Pfam.iron.hmm gen_test//Enterococcus_durans.faa 
+# Current dir:     /home/hawking/src/mebs
+# Date:            Fri Aug 16 18:38:06 2019
+# [ok]

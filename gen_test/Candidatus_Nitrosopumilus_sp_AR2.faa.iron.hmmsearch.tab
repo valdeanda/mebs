@@ -1,0 +1,34 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_016939744.1       -          AMP-binding          PF00501.27   8.5e-94  311.4   0.0     1e-93  311.1   0.0   1.1   1   0   0   1   1   1   1 MULTISPECIES: acetate--CoA ligase [Nitrosopumilus]
+WP_014964263.1       -          COX1                 PF00115.19  8.5e-130  430.3  61.3    1e-129  430.0  61.3   1.1   1   0   0   1   1   1   1 MULTISPECIES: cytochrome c oxidase subunit I [Nitrosopumilus]
+WP_014964262.1       -          COX2                 PF00116.19   3.8e-15   52.7   1.3   1.3e-11   41.4   0.0   2.1   1   1   1   2   2   1   1 MULTISPECIES: hypothetical protein [Nitrosopumilus]
+WP_014965855.1       -          Cytochrome_B         PF00033.18   4.6e-29   98.4  10.4   4.6e-29   98.4  10.4   2.9   3   0   0   3   3   1   1 MULTISPECIES: cytochrome bc complex cytochrome b subunit [Nitrosopumilus]
+WP_014965855.1       -          Cytochrom_B_C        PF00032.16   1.1e-08   32.1   3.0   1.1e-08   32.1   3.0   3.3   3   0   0   3   3   1   1 MULTISPECIES: cytochrome bc complex cytochrome b subunit [Nitrosopumilus]
+WP_014965613.1       -          ECH_1                PF00378.19   1.4e-69  231.1   1.3   1.6e-69  230.9   1.3   1.0   1   0   0   1   1   1   1 MULTISPECIES: enoyl-CoA hydratase [Nitrosopumilus]
+WP_014965458.1       -          Fe-ADH               PF00465.18   2.2e-50  168.3   0.0   3.4e-50  167.7   0.0   1.3   1   0   0   1   1   1   1 MULTISPECIES: iron-containing alcohol dehydrogenase [Nitrosopumilus]
+WP_014965996.1       -          Fe-ADH               PF00465.18   2.9e-23   79.1   0.4   1.1e-21   74.0   0.4   2.0   1   1   0   1   1   1   1 MULTISPECIES: glycerol-1-phosphate dehydrogenase [Nitrosopumilus]
+WP_014965608.1       -          Fe-S_biosyn          PF01521.19   2.7e-24   82.4   0.0   3.1e-24   82.2   0.0   1.0   1   0   0   1   1   1   1 MULTISPECIES: iron-sulfur cluster assembly accessory protein [Nitrosopumilus]
+WP_014964859.1       -          FeoB_N               PF02421.17   3.4e-17   59.3   2.8   1.5e-14   50.6   0.1   2.4   2   0   0   2   2   1   1 MULTISPECIES: GTP-binding protein [Nitrosopumilus]
+WP_014965897.1       -          FeoB_N               PF02421.17   4.4e-12   42.7   0.7   7.7e-12   41.9   0.7   1.4   1   0   0   1   1   1   1 MULTISPECIES: GTPase HflX [Nitrosopumilus]
+WP_014965848.1       -          FeoB_N               PF02421.17   5.5e-07   26.1   0.1   3.4e-06   23.5   0.0   2.2   2   0   0   2   2   1   1 MULTISPECIES: redox-regulated ATPase YchF [Nitrosopumilus]
+WP_014965305.1       -          FeoB_N               PF02421.17   6.1e-07   26.0   0.0   3.1e-05   20.4   0.0   2.7   3   0   0   3   3   0   0 MULTISPECIES: redox-regulated ATPase YchF [Nitrosopumilus]
+WP_014965088.1       -          HMG_CoA_synt_C       PF08540.9    6.8e-34  114.6   0.1   1.1e-33  114.0   0.1   1.3   1   0   0   1   1   1   1 MULTISPECIES: 3-hydroxy-3-methylglutaryl-CoA synthase [Nitrosopumilus]
+WP_014965088.1       -          HMG_CoA_synt_N       PF01154.16   1.9e-31  106.1   0.2   3.2e-31  105.4   0.2   1.3   1   0   0   1   1   1   1 MULTISPECIES: 3-hydroxy-3-methylglutaryl-CoA synthase [Nitrosopumilus]
+WP_014964875.1       -          K_oxygenase          PF13434.5    2.7e-06   23.6   0.2     0.011   11.7   0.0   3.2   2   1   1   3   3   0   0 MULTISPECIES: thioredoxin-disulfide reductase [Nitrosopumilus]
+WP_014964680.1       -          NifU_N               PF01592.15   1.1e-31  106.5   0.1   1.3e-31  106.3   0.1   1.0   1   0   0   1   1   1   1 MULTISPECIES: iron-sulfur cluster assembly scaffold protein [Nitrosopumilus]
+WP_014964481.1       -          Rieske               PF00355.25   1.9e-19   66.3   0.1   2.4e-19   66.0   0.1   1.1   1   0   0   1   1   1   1 MULTISPECIES: non-heme iron oxygenase ferredoxin subunit [Nitrosopumilus]
+WP_014964678.1       -          Rieske               PF00355.25   2.1e-18   63.0   0.0   2.4e-18   62.8   0.0   1.0   1   0   0   1   1   1   1 MULTISPECIES: non-heme iron oxygenase ferredoxin subunit [Nitrosopumilus]
+WP_014965284.1       -          Rieske               PF00355.25   3.7e-15   52.5   0.0   4.2e-15   52.4   0.0   1.0   1   0   0   1   1   1   1 MULTISPECIES: hypothetical protein [Nitrosopumilus]
+WP_014965856.1       -          Rieske               PF00355.25   1.2e-07   28.4   0.0   1.9e-07   27.9   0.0   1.3   1   0   0   1   1   1   1 MULTISPECIES: (2Fe-2S)-binding protein [Nitrosopumilus]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      cycles/iron/my_Pfam.iron.hmm
+# Target file:     gen_test//Candidatus_Nitrosopumilus_sp_AR2.faa
+# Option settings: hmmsearch -o /dev/null --tblout gen_test//Candidatus_Nitrosopumilus_sp_AR2.faa.iron.hmmsearch.tab --cut_ga cycles/iron/my_Pfam.iron.hmm gen_test//Candidatus_Nitrosopumilus_sp_AR2.faa 
+# Current dir:     /home/hawking/src/mebs
+# Date:            Fri Aug 16 18:37:24 2019
+# [ok]

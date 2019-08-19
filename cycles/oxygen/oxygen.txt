@@ -1,0 +1,53 @@
+GCF_000018105.1	Acaryochloris marina MBIC11017
+GCF_000312705.1	Anabaena sp. 90
+GCF_000317695.1	Anabaena cylindrica PCC 7122
+GCF_001277295.1	Anabaena sp. wa102
+GCF_000316575.1	Calothrix sp. PCC 7507
+GCF_000317435.1	Calothrix sp. PCC 6303
+GCF_000734895.2	Calothrix sp. 336/3
+GCF_000317125.1	Chroococcidiopsis thermalis PCC 7203
+GCF_000316515.1	Cyanobium gracile PCC 6307
+GCF_000317615.1	Dactylococcopsis salina PCC 8305
+GCF_001548455.1	Fischerella sp. NIES-3754
+GCF_000316605.1	Leptolyngbya sp. PCC 7376
+GCF_000009705.1	Nostoc sp. PCC 7120
+GCF_000020025.1	Nostoc punctiforme PCC 73102
+GCF_000196515.1	'Nostoc azollae' 0708
+GCF_000316625.1	Nostoc sp. PCC 7107
+GCF_000316645.1	Nostoc sp. PCC 7524
+GCF_000317025.1	Pleurocapsa sp. PCC 7327
+GCF_000007925.1	Prochlorococcus marinus subsp. marinus str. CCMP1375
+GCF_000011465.1	Prochlorococcus marinus subsp. pastoris str. CCMP1986
+GCF_000011485.1	Prochlorococcus marinus str. MIT 9313
+GCF_000012465.1	Prochlorococcus marinus str. NATL2A
+GCF_000012645.1	Prochlorococcus marinus str. MIT 9312
+GCF_000015645.1	Prochlorococcus marinus str. AS9601
+GCF_000015665.1	Prochlorococcus marinus str. MIT 9515
+GCF_000015705.1	Prochlorococcus marinus str. MIT 9303
+GCF_000015965.1	Prochlorococcus marinus str. MIT 9301
+GCF_000018065.1	Prochlorococcus marinus str. MIT 9215
+GCF_000757845.1	Prochlorococcus sp. MIT 0604
+GCF_000757865.1	Prochlorococcus sp. MIT 0801
+GCF_000317065.1	Pseudanabaena sp. PCC 7367
+GCF_000316665.1	Rivularia sp. PCC 7116
+GCF_000317575.1	Stanieria cyanosphaera PCC 7437
+GCF_000010065.1	Synechococcus elongatus PCC 6301
+GCF_000012505.1	Synechococcus sp. CC9902
+GCF_000012625.1	Synechococcus sp. CC9605
+GCF_000013205.1	Synechococcus sp. JA-3-3Ab
+GCF_000013225.1	Synechococcus sp. JA-2-3B'a(2-13)
+GCF_000014585.1	Synechococcus sp. CC9311
+GCF_000019485.1	Synechococcus sp. PCC 7002
+GCF_000063505.1	Synechococcus sp. WH 7803
+GCF_000063525.1	Synechococcus sp. RCC307
+GCF_000161795.2	Synechococcus sp. WH 8109
+GCF_000316685.1	Synechococcus sp. PCC 6312
+GCF_000317085.1	Synechococcus sp. PCC 7502
+GCF_000737535.1	Synechococcus sp. KORDI-100
+GCF_000737575.1	Synechococcus sp. KORDI-49
+GCF_000737595.1	Synechococcus sp. KORDI-52
+GCF_001182765.1	Synechococcus sp. WH 8103
+GCF_001693255.1	Synechococcus sp. PCC 7003
+GCF_000009725.1	Synechocystis sp. PCC 6803
+GCF_000478825.2	Synechocystis sp. PCC 6714
+GCF_000011345.1	Thermosynechococcus elongatus BP-1

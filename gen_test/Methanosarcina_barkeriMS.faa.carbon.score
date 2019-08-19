@@ -1,0 +1,159 @@
+# /home/hawking/src/mebs/scripts/pfam_score.pl call:
+# -input gen_test//Methanosarcina_barkeriMS.faa.carbon.hmmsearch.tab -size real -bzip 0 -entropyfile cycles/carbon/entropies.tab -minentropy -9 -random 0 -keggmap cycles/carbon/pfam2kegg.tab -pathway 
+
+# total HMMs with assigned entropy in cycles/carbon/entropies.tab : 119
+
+# Pfam	entropy	#matched_peptides
+PF00037	0.088	47
+PF12838	0.122	40
+PF13187	0.166	34
+PF13484	0.160	20
+PF07992	0.000	17
+PF12800	0.345	16
+PF01266	0.028	12
+PF00148	1.799	11
+PF00117	0.008	11
+PF02239	0.368	11
+PF00142	0.094	10
+PF00696	0.002	6
+PF01208	-0.005	6
+PF09505	0.889	6
+PF00374	1.037	6
+PF13360	0.340	6
+PF07969	0.101	6
+PF01058	0.483	6
+PF04422	1.660	5
+PF00384	0.302	5
+PF04208	2.898	5
+PF04432	1.580	5
+PF13522	0.064	5
+PF00361	0.285	4
+PF03599	1.227	4
+PF05369	0.991	4
+PF03063	0.937	4
+PF01568	0.431	4
+PF04060	0.958	4
+PF02786	0.044	4
+PF01077	0.328	3
+PF00173	0.404	3
+PF03460	0.323	3
+PF00795	-0.150	3
+PF12176	1.228	3
+PF01493	0.447	3
+PF02007	2.600	2
+PF02663	1.642	2
+PF00346	0.463	2
+PF00120	0.093	2
+PF00662	-0.074	2
+PF01011	0.390	2
+PF01515	-0.261	2
+PF00146	0.442	2
+PF03060	0.058	2
+PF02142	0.099	2
+PF14691	-0.178	2
+PF06253	0.587	2
+PF03951	0.189	2
+PF10621	1.046	2
+PF13247	0.222	2
+PF02783	3.168	2
+PF00329	-0.030	2
+PF02552	1.491	2
+PF00499	-0.117	2
+PF00175	0.124	2
+PF03598	1.881	2
+PF04206	3.032	1
+PF00174	0.030	1
+PF05440	3.001	1
+PF02745	3.168	1
+PF00871	-0.344	1
+PF02787	0.141	1
+PF04210	2.970	1
+PF01913	3.647	1
+PF00296	0.491	1
+PF06433	0.376	1
+PF00988	0.159	1
+PF03139	0.158	1
+PF00208	-0.155	1
+PF02240	3.168	1
+PF04879	0.226	1
+PF02241	3.168	1
+PF01993	2.876	1
+PF02249	3.168	1
+PF04211	3.032	1
+PF01645	0.166	1
+PF02665	-0.040	1
+PF00507	-0.140	1
+PF00420	0.152	1
+PF04207	3.032	1
+PF02289	3.353	1
+PF02741	3.647	1
+PF04898	0.429	1
+PF02812	-0.340	1
+PF09472	3.032	1
+PF00310	0.186	1
+
+# Pfam entropy score: 79.606
+
+# Pathway report
+# path_number	path_name	total_domains	matched	%completeness	matched_Pfam_domains
+1	coB/coM regeneration	8	8	100.0	PF12838,PF00374,PF01058,PF04422,PF04432,PF00346,PF10621,PF00329
+2	methane oxidation 	24	8	33.3	PF12838,PF13360,PF01011,PF02783,PF00175,PF02240,PF02241,PF02249
+3	methanogenesis	52	40	76.9	PF00037,PF12838,PF13187,PF13484,PF12800,PF01208,PF09505,PF07969,PF04208,PF00361,PF03599,PF05369,PF03063,PF01568,PF04060,PF01493,PF02007,PF02663,PF00662,PF00146,PF06253,PF02783,PF02552,PF00499,PF03598,PF04206,PF05440,PF04210,PF01913,PF00296,PF02240,PF02241,PF02249,PF04211,PF00507,PF00420,PF04207,PF02289,PF02741,PF09472
+4	methanogenesis(methanol) 	7	7	100.0	PF01208,PF12176,PF02783,PF02745,PF02240,PF02241,PF02249
+5	methylamine degradation	13	7	53.8	PF07992,PF01266,PF13522,PF01493,PF00120,PF06433,PF01645
+6	mcrABC	5	5	100.0	PF02783,PF02745,PF02240,PF02241,PF02249
+
+# mean pathway completeness: 77.4
+
+
+# Script to map these Pfam domains in KEGG->User Data Mapping.
+# Colors are proportional to the number of Pfam matches and normalized with respect to the max.
+# Note that a reference map must be selected first. For instance, Sulphur metabolism is:
+# http://www.genome.jp/kegg-bin/show_pathway?map00920
+# WARNING: note that several K numbers might map to the same protein.
+# These cases are coloured in KEGG with the color of the last given K number.
+# You might want to manually adjust the colors to correct this.
+K00194 #2c7bb6,black
+K00197 #2c7bb6,black
+K00200 #2c7bb6,black
+K00202 #2c7bb6,black
+K00205 #d7191c,black
+K00320 #2c7bb6,black
+K00399 #2c7bb6,black
+K00401 #2c7bb6,black
+K00402 #2c7bb6,black
+K00577 #2c7bb6,black
+K00578 #2c7bb6,black
+K00579 #2c7bb6,black
+K00580 #2c7bb6,black
+K00581 #2c7bb6,black
+K00582 #2c7bb6,black
+K00583 #2c7bb6,black
+K00584 #2c7bb6,black
+K00672 #2c7bb6,black
+K01499 #2c7bb6,black
+K01949 #2c7bb6,black
+K04480 #2c7bb6,black
+K11261 #2c7bb6,black
+K14028 #2c7bb6,black
+K14029 #2c7bb6,black
+K14080 #2c7bb6,black
+K14083 #2c7bb6,black
+K15229 #2c7bb6,black
+K16161 #2c7bb6,black
+K16178 #2c7bb6,black
+K22158 #2c7bb6,black
+K22159 #2c7bb6,black
+K22160 #2c7bb6,black
+K22161 #2c7bb6,black
+K22162 #2c7bb6,black
+K22163 #2c7bb6,black
+K22164 #fdae61,black
+K22165 #2c7bb6,black
+K22166 #2c7bb6,black
+K22167 #2c7bb6,black
+K22170 #2c7bb6,black
+fmdF #fdae61,black
+mrtA #2c7bb6,black
+mrtB #2c7bb6,black
+mrtG #2c7bb6,black
