@@ -1,6 +1,8 @@
 ![MEBS](./images/MEBS.png) 
 
+# Welcome to the new location of MEBS 
 
+The development of  https://github.com/eead-csic-compbio/metagenome_Pfam_score   and any updates and new versions of MEBS will be posted on this new website.
 
 
 # Basic usage
