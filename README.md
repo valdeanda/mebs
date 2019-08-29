@@ -7,7 +7,7 @@ The development of  https://github.com/eead-csic-compbio/metagenome_Pfam_score  
 
 # Dependencies
 
-- python >= 3.4
+- python >= 3.6.2
 - python modules:
   - numpy
   - matplotlib
