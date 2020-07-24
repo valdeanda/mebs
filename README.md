@@ -40,6 +40,7 @@ perl mebs.pl -h
    
 ```
 
+[Readme](https://eead-csic-compbio.github.io/metagenome_Pfam_score/READMEv1.html) needs to be updated 
 
 
 
