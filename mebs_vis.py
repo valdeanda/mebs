@@ -3,13 +3,14 @@
 # -*- coding: utf-8 -*-
 #
 # ------------------------------
-# Name:     mebs_output.py
+# Name:     mebs_vis.py
 # Purpose:  Parse and compute some graphs derived from mebs.pl output
 #
 # Authors:     acph - dragopoot@gmail.com and vydat - valdeanda@ciencias.unam.mx
 # Created:     2018
 # Licence:     GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
 # ------------------------------
+
 """ Parse mebs.pl output and creates several files and figures:
 -File to map mebs normalized values to itol         => itol_mebs.txt
 -File with the metabolic completeness with names    => input+completenes.tab
@@ -34,15 +35,15 @@ from subprocess import run
 # Script arguments and options #
 ################################
 epilog = """Example:
-$  python3 mebs_output.py test_genomes.out """
+$  python3 mebs_vis.py test_genomes.out """
 
 parser = argparse.ArgumentParser(description=__doc__, epilog=epilog,
 								 formatter_class=RawDescriptionHelpFormatter)
 parser.add_argument('filename',
 					help="Input file derived from mebs.pl using -comp option.")
 parser.add_argument('-o', '--outdir', type=str, default=None,
-					help=('''Output folder [<filename>_vis_out]'''))
-					
+					help=('''Output folder [<filename>_mebs_vis]'''))
+
 parser.add_argument('-im_format', '-f', default='png', type=str,
 					choices=['png', 'pdf', 'ps', 'eps', 'svg', 'tif', 'jpg'],
 					help='''Output format for images [png].''')
@@ -58,7 +59,7 @@ args = parser.parse_args()
 
 # Output dir name
 if args.outdir == None:
-	outpath_name = args.filename + '_vis_out'
+	outpath_name = args.filename + '_mebs_vis'
 	print('[OUTPUT]   Output not specified.')
 else:
 	outpath_name = args.outdir
@@ -67,7 +68,7 @@ outpath = Path(outpath_name)
 if not outpath.exists():
 	print('[OUTPUT]   ...', str(outpath), '-> does not exists: creating')
 	outpath.mkdir()
-	
+
 
 ############################################
 # Remove asterisks from original mebs file #
@@ -366,7 +367,7 @@ for ax, title in zip(g.axes.flat, titles):
 
 	# Make the grid horizontal instead of vertical
 	ax.xaxis.grid(False)
-	ax.yaxis.grid(True)
+	ax.yaxis.grid(True)plt.savefig
 
 sns.despine(left=True, bottom=True)
 plt.tight_layout()
