@@ -48,8 +48,7 @@ perl mebs.pl -h
 
 We use the hiarchicall clustering script mebs_clust.py to group metabolically-related Deltaproteobacteria genomes. [Langwig-De Anda et al. 2021](https://www.nature.com/articles/s41396-021-01057-y)
 
-<img src="https://valdeanda.github.io/mebs/images/deltas.png" width="200" height="250" align="right">
-
+<img src="https://valdeanda.github.io/mebs/images/deltas.png" width="200" height="150" align="right">
 
 
 
