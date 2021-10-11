@@ -212,11 +212,11 @@ df_comp.rename(columns={'sulfur_1': 'aprAB(Marker_gene)',
 						'sulfur_5': 'SUlfur_oxidation(Sor_system)',
 						'sulfur_6': 'Sulfur_oxidation(FccB)',
 						'sulfur_7': 'Sulfur_oxidation(DoxAD)',
-						'sulfur_8': 'SUlfur_oxidation(DsrEFH)',
+						'sulfur_8': 'Sulfur_oxidation(DsrEFH)',
 						'sulfur_9': 'DsrKMJOP(Marker_gene)',
 						'sulfur_10': 'Sulfur_reduction(QmoABC)',
 						'sulfur_11': 'Sulfur_oxidation(Puf_reaction_center)',
-						'sulfur_12': 'SUlfur_assimilation(CysACDJNPQU)',
+						'sulfur_12': 'Sulfur_assimilation(CysACDJNPQU)',
 						'sulfur_13': 'Tetrathionate_reduction(asrABC)',
 						'sulfur_14': 'Tetrathionate_reduction(ttrABC)',
 						'sulfur_15': 'Thiosulfate_disproportionation(phsABC)',
@@ -367,7 +367,8 @@ for ax, title in zip(g.axes.flat, titles):
 
 	# Make the grid horizontal instead of vertical
 	ax.xaxis.grid(False)
-	ax.yaxis.grid(True)plt.savefig
+	ax.yaxis.grid(True)
+
 
 sns.despine(left=True, bottom=True)
 plt.tight_layout()
