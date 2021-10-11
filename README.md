@@ -38,7 +38,7 @@ perl mebs.pl -h
 
 # `How does it work?`
 
-<img src="https://valdeanda.github.io/mebs/images/mebs_overview.png" width="200" height="150" align="right">
+<img src="https://valdeanda.github.io/mebs/images/mebs_overview.png"  align="right">
 
 How can we organize and simplify complex genomic data to better understand the metabolisms of diverse microbial taxa? This was the major research question behind the development of MEBS. It works by synthesizing multiple sources of data on the metabolism of interest (e.g., genes, microbial taxa, and elemental reactions) under the mathematical framework of the Kullback-Leibler divergence, also known as relative entropy H’ (Fig. 1B). An H’ value is assigned to each protein-coding gene (pcg) based on how often the gene is encoded in the genomes of metabolically similar microbial taxa. H’ values close to 0 indicate that a given pcg is widely distributed among microorganisms (e.g., ABC transporters) and is therefore non-informative of the target metabolism. H’ values near or greater than 1 indicate that a given pcg is unique to a group of metabolically similar microbial taxa, whereas negative H’ values indicate a given pcg is not expected to be involved in the target metabolism. MEBS stores the unique pcgs and their H’ values in an internal database, which can then be cross-referenced with genomic and metagenomic input data to obtain a single H’ score for a given metabolic pathway. High H’ scores suggest that microbial taxa can perform the pathways involved in the metabolism of interest.
 
@@ -56,7 +56,7 @@ MEBS provides an open-access, reproducible, entropy-based platform to efficientl
 # `Real life applications of MEBS`
 
 ## Protein clustering using mebs  
-<img src="https://valdeanda.github.io/mebs/images/deltas.png"  align="right">
+<img src="https://valdeanda.github.io/mebs/images/deltas.png" width="200" height="150" align="right">
 
  Group 2K metabolically-related Deltaproteobacteria genomes using mebs_clust.py script 
  See [Langwig-De Anda et al. 2021](https://www.nature.com/articles/s41396-021-01057-y)
