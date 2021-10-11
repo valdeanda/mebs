@@ -56,7 +56,7 @@ MEBS provides an open-access, reproducible, entropy-based platform to efficientl
 # `Real life applications of MEBS`
 
 ## Protein clustering using mebs  
-<img src="https://valdeanda.github.io/mebs/images/deltas.png" width="200" height="150" align="right">
+<img src="https://valdeanda.github.io/mebs/images/deltas.png"  align="right">
 
  Group 2K metabolically-related Deltaproteobacteria genomes using mebs_clust.py script 
  See [Langwig-De Anda et al. 2021](https://www.nature.com/articles/s41396-021-01057-y)
