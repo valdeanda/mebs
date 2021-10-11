@@ -39,10 +39,9 @@ perl mebs.pl -h
 
    
 ```
+## Protein clustering using mebs  
 
-[Readme](https://eead-csic-compbio.github.io/metagenome_Pfam_score/READMEv1.html) needs to be updated 
-
-
+ Group 2K metabolically-related Deltaproteobacteria genomes using   [mebs_clust.py](https://github.com/valdeanda/mebs/blob/master/mebs_clust.py) [Langwig-De Anda et al. 2021](https://www.nature.com/articles/s41396-021-01057-y)
 
 ```
  python3 mebs_clust.py  -h
@@ -80,6 +79,12 @@ $  python3 mebs_clust.py  pfamprofile.tsv
 
 
 <img src="https://valdeanda.github.io/mebs/images/deltas.png" width="200" height="150" align="right">
+
+
+
+
+
+
 
 
 
