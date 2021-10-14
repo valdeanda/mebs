@@ -9,6 +9,8 @@
 # Authors:     acph - dragopoot@gmail.com and vydat - valdeanda@ciencias.unam.mx
 # Created:     2018
 # Licence:     GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
+# Last updated: October 2021
+# Updates: Oct 2021: Genomic completeness based on marker genes module and separated file for normalized mebs scores
 # ------------------------------
 
 """ Parse mebs.pl output and creates several files and figures:
@@ -18,7 +20,8 @@
 -Heatmap with normalized mebs values                => inputmebs_heatmap.png
 -Heatmap with metabolic completness of S and C      => input+comp_heatmap.png
 -Barplot with normalized mebs values                => input+barplot.png
-
+-Genomic completeness based on marker genes         => input+genomic_completeness.tab
+-Normalized mebs scores                             => input+norm_mebs.tab
 """
 
 # Import libraries
@@ -147,6 +150,11 @@ df['N'] = df.nitrogen.apply(nitrogen_per)
 
 df_new = df[['S', 'C', 'O', 'Fe', 'N']]
 
+# Send new dataframe only with normalized values
+df_new.to_csv(outpath/(args.filename + "_norm_mebs.tab"), sep="\t")
+
+# Create itol file with normalized values
+
 outfilename = outpath/(args.filename + '_itol_mebs.txt')
 infile = 'data2vis/dataset_heatmap_template.txt'
 outfile = open(outfilename, 'w')
@@ -199,17 +207,17 @@ for ind_ in df_new.index:
 outfile.close()
 
 
-# Create the completeness file
+# Create the pfam metabolic completeness file
 
 df_comp = df.drop(['sulfur', 'carbon', 'oxygen', 'iron', 'nitrogen',
 				   '<sulfur comp>', '<carbon comp>', '<nitrogen comp>',
-				   '<iron comp>',
+				   '<iron comp>', 'markers', '<markers comp>',
 				   'S', 'C', 'N', 'O', 'Fe'], axis=1)
 df_comp.rename(columns={'sulfur_1': 'aprAB(Marker_gene)',
 						'sulfur_2': 'Apt/Sat(Marker_gene)',
 						'sulfur_3': 'DsrABC(Marker_gene)',
 						'sulfur_4': 'Sulfur_oxidation(Sox_system)',
-						'sulfur_5': 'SUlfur_oxidation(Sor_system)',
+						'sulfur_5': 'Sulfur_oxidation(Sor_system)',
 						'sulfur_6': 'Sulfur_oxidation(FccB)',
 						'sulfur_7': 'Sulfur_oxidation(DoxAD)',
 						'sulfur_8': 'Sulfur_oxidation(DsrEFH)',
@@ -268,10 +276,18 @@ df_comp.rename(columns={'sulfur_1': 'aprAB(Marker_gene)',
 						'nitrogen_28': 'GABA_biosynthesis_prokaryotes_putrescine',
 						'iron_1': 'Fe(II)oxidation',
 						'iron_2': 'Fe_reduction_absorption',
-						}, inplace=True)
+                        'markers_1':'Single copy archaea',
+                        'markers_2':'Single copy bacteria',
+                        'markers_3':'Single copy both',
+                        'markers_4':'miComplete bacteria',
+                        'markers_5':'miComplete archaea',
+                        }, inplace=True)
 
-# Create a file with the completeness
-df_comp.to_csv(outpath/(args.filename + "_completenes.tab"), sep="\t")
+# Create a file with the genomic  completeness values
+df_comp.to_csv(outpath/(args.filename + "_pfam_completenes.tab"), sep="\t")
+df_gencomp=df_comp[['Single copy archaea','Single copy bacteria','Single copy both','miComplete bacteria','miComplete archaea']]
+df_gencomp.to_csv(outpath/(args.filename + "_genomic_completenes.tab"), sep="\t")
+
 
 # outfilename_comp = 'itol_mebs_comp.txt'
 outfilename_comp = outpath/(args.filename + "_itol_mebs_comp.txt")
@@ -378,7 +394,7 @@ plt.savefig(outpath/(args.filename + "_mebs_dotplot." + args.im_format),
 print("[END]   Done........................\n"
 	  "Please check the following files in folder '{}'  :\n".format(str(outpath)),
 	  "0. Original data without asteriks:", noast_fname, '\n',
-	  "1. Heatmap displaying the metabolic completeness of N,Fe,S and CH4 pathways:",
+	  "1. Heatmap displaying the metabolic completeness of N,Fe,S and CH4 pathways based on pfams:",
 	  args.filename + "comp_heatmap.png\n",
 	  "2. Barplot with normalized MEBS score values:", args.filename +
 	  "_barplot.png\n",
@@ -389,12 +405,17 @@ print("[END]   Done........................\n"
 	  "5. Completeness file with description of the columns:", args.filename +
 	  "_completenes.tab\n",
 	  "6. Mapping file to itol with normalized MEBS scores:", args.filename + "_itol_mebs.txt\n",
-	  "7. Mapping file to itol with metabolic completeness:",  args.filename +
+	  "7. Mapping file to itol with pfam metabolic completeness:",  args.filename +
 	  "_itol_mebs_comp.txt\n",
 	  "8. File to be used as the input of F_MEBS_cluster.py -s none option", args.filename +
 	  "_2_cluster_mebs.txt\n",
 	  ".............................\n",
+      "9. Genomic completeness based on single copy marker genes:", args.filename +
+      " _genomic_completenes.tab\n",
+      "10. Normalized mebs scores ", args.filename +
+       "_norm_mebs.tab\n",
 	  " If you have a tree file loaded in  itol, you can drag directly the _itol.txt files into your tree\n",
 	  "and customize the colors of the pathways and the scores as in the following example\n",
 	  "https://itol.embl.de/tree/97981518041461538630153\n",
+      "Feel free to email me if you have any questions valdeanda[at]utexas[dot]edu"
 	  )
