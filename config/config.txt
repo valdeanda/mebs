@@ -4,3 +4,4 @@ carbon	cycles/carbon/	cycles/carbon/pfam2kegg.tab	135	90	119	0.988	9.735	18.744	
 oxygen	cycles/oxygen/		50	53	55	0.983	5.098	7.288	8.155	8.247
 iron	cycles/iron/	cycles/iron/pfam2kegg.tab	36	34	112	0.863	7.412	9.571	10.241	10.322
 nitrogen	cycles/nitrogen/	cycles/nitrogen/pfam2kegg.tab	267	144	176	0.791	15.974	17.7	18.785	19.03
+markers	cycles/markers/	cycles/markers/pfam_mapping.tab	244	10	244	1	1	1	1	1
