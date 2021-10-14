@@ -1,0 +1,475 @@
+PFAM	KO	PATHWAY	PATHWAY NAME
+PF00137		1	Single Copy archaea
+PF00253		1	Single Copy archaea
+PF00327		1	Single Copy archaea
+PF00334		1	Single Copy archaea
+PF00670		1	Single Copy archaea
+PF00679		1	Single Copy archaea
+PF00709		1	Single Copy archaea
+PF00736		1	Single Copy archaea
+PF00749		1	Single Copy archaea
+PF00752		1	Single Copy archaea
+PF00827		1	Single Copy archaea
+PF00832		1	Single Copy archaea
+PF00833		1	Single Copy archaea
+PF00867		1	Single Copy archaea
+PF00900		1	Single Copy archaea
+PF00919		1	Single Copy archaea
+PF00935		1	Single Copy archaea
+PF01015		1	Single Copy archaea
+PF01035		1	Single Copy archaea
+PF01090		1	Single Copy archaea
+PF01092		1	Single Copy archaea
+PF01139		1	Single Copy archaea
+PF01157		1	Single Copy archaea
+PF01172		1	Single Copy archaea
+PF01174		1	Single Copy archaea
+PF01180		1	Single Copy archaea
+PF01192		1	Single Copy archaea
+PF01194		1	Single Copy archaea
+PF01198		1	Single Copy archaea
+PF01200		1	Single Copy archaea
+PF01201		1	Single Copy archaea
+PF01246		1	Single Copy archaea
+PF01253		1	Single Copy archaea
+PF01269		1	Single Copy archaea
+PF01280		1	Single Copy archaea
+PF01282		1	Single Copy archaea
+PF01287		1	Single Copy archaea
+PF01351		1	Single Copy archaea
+PF01496		1	Single Copy archaea
+PF01599		1	Single Copy archaea
+PF01655		1	Single Copy archaea
+PF01667		1	Single Copy archaea
+PF01725		1	Single Copy archaea
+PF01780		1	Single Copy archaea
+PF01798		1	Single Copy archaea
+PF01813		1	Single Copy archaea
+PF01849		1	Single Copy archaea
+PF01864		1	Single Copy archaea
+PF01866		1	Single Copy archaea
+PF01884		1	Single Copy archaea
+PF01896		1	Single Copy archaea
+PF01907		1	Single Copy archaea
+PF01912		1	Single Copy archaea
+PF01922		1	Single Copy archaea
+PF01941		1	Single Copy archaea
+PF01948		1	Single Copy archaea
+PF01949		1	Single Copy archaea
+PF01951		1	Single Copy archaea
+PF01967		1	Single Copy archaea
+PF01973		1	Single Copy archaea
+PF01981		1	Single Copy archaea
+PF01982		1	Single Copy archaea
+PF01984		1	Single Copy archaea
+PF01990		1	Single Copy archaea
+PF01991		1	Single Copy archaea
+PF02005		1	Single Copy archaea
+PF02006		1	Single Copy archaea
+PF02748		1	Single Copy archaea
+PF02834		1	Single Copy archaea
+PF02996		1	Single Copy archaea
+PF03439		1	Single Copy archaea
+PF03764		1	Single Copy archaea
+PF03853		1	Single Copy archaea
+PF03874		1	Single Copy archaea
+PF03876		1	Single Copy archaea
+PF03911		1	Single Copy archaea
+PF03950		1	Single Copy archaea
+PF04010		1	Single Copy archaea
+PF04019		1	Single Copy archaea
+PF04104		1	Single Copy archaea
+PF04127		1	Single Copy archaea
+PF04406		1	Single Copy archaea
+PF04919		1	Single Copy archaea
+PF05221		1	Single Copy archaea
+PF05670		1	Single Copy archaea
+PF05746		1	Single Copy archaea
+PF06026		1	Single Copy archaea
+PF06093		1	Single Copy archaea
+PF06463		1	Single Copy archaea
+PF07541		1	Single Copy archaea
+PF08068		1	Single Copy archaea
+PF08069		1	Single Copy archaea
+PF08071		1	Single Copy archaea
+PF08608		1	Single Copy archaea
+PF08704		1	Single Copy archaea
+PF09173		1	Single Copy archaea
+PF09239		1	Single Copy archaea
+PF09377		1	Single Copy archaea
+PF00035		2	Single Copy bacteria
+PF00154		2	Single Copy bacteria
+PF00163		2	Single Copy bacteria
+PF00338		2	Single Copy bacteria
+PF00453		2	Single Copy bacteria
+PF00542		2	Single Copy bacteria
+PF00584		2	Single Copy bacteria
+PF00627		2	Single Copy bacteria
+PF00707		2	Single Copy bacteria
+PF00712		2	Single Copy bacteria
+PF00763		2	Single Copy bacteria
+PF00825		2	Single Copy bacteria
+PF00828		2	Single Copy bacteria
+PF00829		2	Single Copy bacteria
+PF00830		2	Single Copy bacteria
+PF00886		2	Single Copy bacteria
+PF00889		2	Single Copy bacteria
+PF01016		2	Single Copy bacteria
+PF01018		2	Single Copy bacteria
+PF01025		2	Single Copy bacteria
+PF01084		2	Single Copy bacteria
+PF01121		2	Single Copy bacteria
+PF01176		2	Single Copy bacteria
+PF01193		2	Single Copy bacteria
+PF01195		2	Single Copy bacteria
+PF01196		2	Single Copy bacteria
+PF01245		2	Single Copy bacteria
+PF01250		2	Single Copy bacteria
+PF01252		2	Single Copy bacteria
+PF01281		2	Single Copy bacteria
+PF01330		2	Single Copy bacteria
+PF01409		2	Single Copy bacteria
+PF01416		2	Single Copy bacteria
+PF01632		2	Single Copy bacteria
+PF01649		2	Single Copy bacteria
+PF01668		2	Single Copy bacteria
+PF01687		2	Single Copy bacteria
+PF01715		2	Single Copy bacteria
+PF01746		2	Single Copy bacteria
+PF01765		2	Single Copy bacteria
+PF01782		2	Single Copy bacteria
+PF01783		2	Single Copy bacteria
+PF01795		2	Single Copy bacteria
+PF02033		2	Single Copy bacteria
+PF02130		2	Single Copy bacteria
+PF02132		2	Single Copy bacteria
+PF02224		2	Single Copy bacteria
+PF02367		2	Single Copy bacteria
+PF02403		2	Single Copy bacteria
+PF02410		2	Single Copy bacteria
+PF02527		2	Single Copy bacteria
+PF02767		2	Single Copy bacteria
+PF02768		2	Single Copy bacteria
+PF02772		2	Single Copy bacteria
+PF02773		2	Single Copy bacteria
+PF02873		2	Single Copy bacteria
+PF02882		2	Single Copy bacteria
+PF02912		2	Single Copy bacteria
+PF03118		2	Single Copy bacteria
+PF03147		2	Single Copy bacteria
+PF03461		2	Single Copy bacteria
+PF03485		2	Single Copy bacteria
+PF03602		2	Single Copy bacteria
+PF03652		2	Single Copy bacteria
+PF03726		2	Single Copy bacteria
+PF03772		2	Single Copy bacteria
+PF03840		2	Single Copy bacteria
+PF03948		2	Single Copy bacteria
+PF03952		2	Single Copy bacteria
+PF04760		2	Single Copy bacteria
+PF04998		2	Single Copy bacteria
+PF05198		2	Single Copy bacteria
+PF05491		2	Single Copy bacteria
+PF05697		2	Single Copy bacteria
+PF05698		2	Single Copy bacteria
+PF06071		2	Single Copy bacteria
+PF06421		2	Single Copy bacteria
+PF06574		2	Single Copy bacteria
+PF06689		2	Single Copy bacteria
+PF07499		2	Single Copy bacteria
+PF08275		2	Single Copy bacteria
+PF08459		2	Single Copy bacteria
+PF08529		2	Single Copy bacteria
+PF10385		2	Single Copy bacteria
+PF10458		2	Single Copy bacteria
+PF12344		2	Single Copy bacteria
+PF00113		3	Single Copy both
+PF00121		3	Single Copy both
+PF00162		3	Single Copy both
+PF00164		3	Single Copy both
+PF00177		3	Single Copy both
+PF00181		3	Single Copy both
+PF00189		3	Single Copy both
+PF00203		3	Single Copy both
+PF00237		3	Single Copy both
+PF00238		3	Single Copy both
+PF00252		3	Single Copy both
+PF00276		3	Single Copy both
+PF00281		3	Single Copy both
+PF00297		3	Single Copy both
+PF00298		3	Single Copy both
+PF00312		3	Single Copy both
+PF00318		3	Single Copy both
+PF00333		3	Single Copy both
+PF00344		3	Single Copy both
+PF00347		3	Single Copy both
+PF00366		3	Single Copy both
+PF00368		3	Single Copy both
+PF00380		3	Single Copy both
+PF00410		3	Single Copy both
+PF00411		3	Single Copy both
+PF00416		3	Single Copy both
+PF00466		3	Single Copy both
+PF00562		3	Single Copy both
+PF00572		3	Single Copy both
+PF00573		3	Single Copy both
+PF00623		3	Single Copy both
+PF00673		3	Single Copy both
+PF00687		3	Single Copy both
+PF00750		3	Single Copy both
+PF00831		3	Single Copy both
+PF00861		3	Single Copy both
+PF00958		3	Single Copy both
+PF01000		3	Single Copy both
+PF01509		3	Single Copy both
+PF02938		3	Single Copy both
+PF02978		3	Single Copy both
+PF03484		3	Single Copy both
+PF03719		3	Single Copy both
+PF03946		3	Single Copy both
+PF03947		3	Single Copy both
+PF04560		3	Single Copy both
+PF04561		3	Single Copy both
+PF04563		3	Single Copy both
+PF04565		3	Single Copy both
+PF04983		3	Single Copy both
+PF04997		3	Single Copy both
+PF05000		3	Single Copy both
+PF06418		3	Single Copy both
+PF11987		3	Single Copy both
+PF01121		4	MyComplete Bacteria
+PF03602		4	MyComplete Bacteria
+PF06418		4	MyComplete Bacteria
+PF02224		4	MyComplete Bacteria
+PF00712		4	MyComplete Bacteria
+PF00035		4	MyComplete Bacteria
+PF00889		4	MyComplete Bacteria
+PF01176		4	MyComplete Bacteria
+PF00113		4	MyComplete Bacteria
+PF06574		4	MyComplete Bacteria
+PF03147		4	MyComplete Bacteria
+PF02938		4	MyComplete Bacteria
+PF02527		4	MyComplete Bacteria
+PF00958		4	MyComplete Bacteria
+PF01025		4	MyComplete Bacteria
+PF01018		4	MyComplete Bacteria
+PF04760		4	MyComplete Bacteria
+PF00707		4	MyComplete Bacteria
+PF01715		4	MyComplete Bacteria
+PF06421		4	MyComplete Bacteria
+PF01795		4	MyComplete Bacteria
+PF02873		4	MyComplete Bacteria
+PF08529		4	MyComplete Bacteria
+PF02410		4	MyComplete Bacteria
+PF01195		4	MyComplete Bacteria
+PF01252		4	MyComplete Bacteria
+PF00162		4	MyComplete Bacteria
+PF03726		4	MyComplete Bacteria
+PF01416		4	MyComplete Bacteria
+PF02033		4	MyComplete Bacteria
+PF00154		4	MyComplete Bacteria
+PF02132		4	MyComplete Bacteria
+PF00825		4	MyComplete Bacteria
+PF00687		4	MyComplete Bacteria
+PF00466		4	MyComplete Bacteria
+PF03946		4	MyComplete Bacteria
+PF00542		4	MyComplete Bacteria
+PF00572		4	MyComplete Bacteria
+PF00238		4	MyComplete Bacteria
+PF00252		4	MyComplete Bacteria
+PF01196		4	MyComplete Bacteria
+PF00828		4	MyComplete Bacteria
+PF00861		4	MyComplete Bacteria
+PF01245		4	MyComplete Bacteria
+PF03947		4	MyComplete Bacteria
+PF00453		4	MyComplete Bacteria
+PF00829		4	MyComplete Bacteria
+PF00237		4	MyComplete Bacteria
+PF00276		4	MyComplete Bacteria
+PF01016		4	MyComplete Bacteria
+PF00830		4	MyComplete Bacteria
+PF00831		4	MyComplete Bacteria
+PF00297		4	MyComplete Bacteria
+PF01783		4	MyComplete Bacteria
+PF00573		4	MyComplete Bacteria
+PF00673		4	MyComplete Bacteria
+PF00347		4	MyComplete Bacteria
+PF03948		4	MyComplete Bacteria
+PF00338		4	MyComplete Bacteria
+PF00411		4	MyComplete Bacteria
+PF00164		4	MyComplete Bacteria
+PF00416		4	MyComplete Bacteria
+PF00312		4	MyComplete Bacteria
+PF00886		4	MyComplete Bacteria
+PF00366		4	MyComplete Bacteria
+PF01084		4	MyComplete Bacteria
+PF00203		4	MyComplete Bacteria
+PF00318		4	MyComplete Bacteria
+PF00189		4	MyComplete Bacteria
+PF00163		4	MyComplete Bacteria
+PF03719		4	MyComplete Bacteria
+PF01250		4	MyComplete Bacteria
+PF00177		4	MyComplete Bacteria
+PF00410		4	MyComplete Bacteria
+PF00380		4	MyComplete Bacteria
+PF01782		4	MyComplete Bacteria
+PF01193		4	MyComplete Bacteria
+PF04997		4	MyComplete Bacteria
+PF00562		4	MyComplete Bacteria
+PF01765		4	MyComplete Bacteria
+PF01330		4	MyComplete Bacteria
+PF05491		4	MyComplete Bacteria
+PF02773		4	MyComplete Bacteria
+PF00584		4	MyComplete Bacteria
+PF00344		4	MyComplete Bacteria
+PF02403		4	MyComplete Bacteria
+PF01668		4	MyComplete Bacteria
+PF02978		4	MyComplete Bacteria
+PF02882		4	MyComplete Bacteria
+PF00121		4	MyComplete Bacteria
+PF08275		4	MyComplete Bacteria
+PF03461		4	MyComplete Bacteria
+PF05698		4	MyComplete Bacteria
+PF01746		4	MyComplete Bacteria
+PF00750		4	MyComplete Bacteria
+PF01409		4	MyComplete Bacteria
+PF01509		4	MyComplete Bacteria
+PF02130		4	MyComplete Bacteria
+PF02367		4	MyComplete Bacteria
+PF03652		4	MyComplete Bacteria
+PF12344		4	MyComplete Bacteria
+PF08459		4	MyComplete Bacteria
+PF10458		4	MyComplete Bacteria
+PF06071		4	MyComplete Bacteria
+PF06689		4	MyComplete Bacteria
+PF00113		5	MyComplete Archaea
+PF00121		5	MyComplete Archaea
+PF00162		5	MyComplete Archaea
+PF00164		5	MyComplete Archaea
+PF00177		5	MyComplete Archaea
+PF00189		5	MyComplete Archaea
+PF00203		5	MyComplete Archaea
+PF00237		5	MyComplete Archaea
+PF00238		5	MyComplete Archaea
+PF00252		5	MyComplete Archaea
+PF00253		5	MyComplete Archaea
+PF00276		5	MyComplete Archaea
+PF00281		5	MyComplete Archaea
+PF00297		5	MyComplete Archaea
+PF00298		5	MyComplete Archaea
+PF00312		5	MyComplete Archaea
+PF00318		5	MyComplete Archaea
+PF00327		5	MyComplete Archaea
+PF00334		5	MyComplete Archaea
+PF00344		5	MyComplete Archaea
+PF00347		5	MyComplete Archaea
+PF00366		5	MyComplete Archaea
+PF00368		5	MyComplete Archaea
+PF00380		5	MyComplete Archaea
+PF00410		5	MyComplete Archaea
+PF00411		5	MyComplete Archaea
+PF00416		5	MyComplete Archaea
+PF00466		5	MyComplete Archaea
+PF00562		5	MyComplete Archaea
+PF00572		5	MyComplete Archaea
+PF00573		5	MyComplete Archaea
+PF00623		5	MyComplete Archaea
+PF00687		5	MyComplete Archaea
+PF00709		5	MyComplete Archaea
+PF00736		5	MyComplete Archaea
+PF00749		5	MyComplete Archaea
+PF00750		5	MyComplete Archaea
+PF00827		5	MyComplete Archaea
+PF00831		5	MyComplete Archaea
+PF00833		5	MyComplete Archaea
+PF00861		5	MyComplete Archaea
+PF00867		5	MyComplete Archaea
+PF00900		5	MyComplete Archaea
+PF00919		5	MyComplete Archaea
+PF00935		5	MyComplete Archaea
+PF00958		5	MyComplete Archaea
+PF01000		5	MyComplete Archaea
+PF01015		5	MyComplete Archaea
+PF01035		5	MyComplete Archaea
+PF01090		5	MyComplete Archaea
+PF01092		5	MyComplete Archaea
+PF01139		5	MyComplete Archaea
+PF01157		5	MyComplete Archaea
+PF01172		5	MyComplete Archaea
+PF01174		5	MyComplete Archaea
+PF01180		5	MyComplete Archaea
+PF01191		5	MyComplete Archaea
+PF01192		5	MyComplete Archaea
+PF01194		5	MyComplete Archaea
+PF01198		5	MyComplete Archaea
+PF01200		5	MyComplete Archaea
+PF01201		5	MyComplete Archaea
+PF01246		5	MyComplete Archaea
+PF01253		5	MyComplete Archaea
+PF01269		5	MyComplete Archaea
+PF01280		5	MyComplete Archaea
+PF01282		5	MyComplete Archaea
+PF01287		5	MyComplete Archaea
+PF01351		5	MyComplete Archaea
+PF01496		5	MyComplete Archaea
+PF01509		5	MyComplete Archaea
+PF01599		5	MyComplete Archaea
+PF01655		5	MyComplete Archaea
+PF01667		5	MyComplete Archaea
+PF01725		5	MyComplete Archaea
+PF01780		5	MyComplete Archaea
+PF01798		5	MyComplete Archaea
+PF01813		5	MyComplete Archaea
+PF01849		5	MyComplete Archaea
+PF01864		5	MyComplete Archaea
+PF01866		5	MyComplete Archaea
+PF01868		5	MyComplete Archaea
+PF01884		5	MyComplete Archaea
+PF01896		5	MyComplete Archaea
+PF01912		5	MyComplete Archaea
+PF01922		5	MyComplete Archaea
+PF01941		5	MyComplete Archaea
+PF01948		5	MyComplete Archaea
+PF01949		5	MyComplete Archaea
+PF01951		5	MyComplete Archaea
+PF01967		5	MyComplete Archaea
+PF01973		5	MyComplete Archaea
+PF01981		5	MyComplete Archaea
+PF01982		5	MyComplete Archaea
+PF01990		5	MyComplete Archaea
+PF02005		5	MyComplete Archaea
+PF02006		5	MyComplete Archaea
+PF02834		5	MyComplete Archaea
+PF02938		5	MyComplete Archaea
+PF02978		5	MyComplete Archaea
+PF02996		5	MyComplete Archaea
+PF03439		5	MyComplete Archaea
+PF03484		5	MyComplete Archaea
+PF03764		5	MyComplete Archaea
+PF03853		5	MyComplete Archaea
+PF03874		5	MyComplete Archaea
+PF03876		5	MyComplete Archaea
+PF03911		5	MyComplete Archaea
+PF03947		5	MyComplete Archaea
+PF04010		5	MyComplete Archaea
+PF04019		5	MyComplete Archaea
+PF04104		5	MyComplete Archaea
+PF04127		5	MyComplete Archaea
+PF04135		5	MyComplete Archaea
+PF04406		5	MyComplete Archaea
+PF04414		5	MyComplete Archaea
+PF04919		5	MyComplete Archaea
+PF04981		5	MyComplete Archaea
+PF05221		5	MyComplete Archaea
+PF05670		5	MyComplete Archaea
+PF06026		5	MyComplete Archaea
+PF06093		5	MyComplete Archaea
+PF06418		5	MyComplete Archaea
+PF06463		5	MyComplete Archaea
+PF07541		5	MyComplete Archaea
+PF08608		5	MyComplete Archaea
+PF08704		5	MyComplete Archaea
+PF09173		5	MyComplete Archaea
+PF09239		5	MyComplete Archaea
+PF09249		5	MyComplete Archaea
+PF11987		5	MyComplete Archaea
