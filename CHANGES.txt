@@ -1,0 +1,13 @@
+19092017: MEBS won The Bioinformatics Peer Prize II student category
+20102017: MEBS recieved honorable mention at the GigaScience Prize Track in China.https://twitter.com/val_deanda/status/924858018629668864
+23102017: MEBS paper is out in Gigascience!
+24052018: Single script mebs.pl  included
+22052018: Option -comp to compute metabolic completeness of pfams added in mebs.pl
+28092018: Metabolic completeness of methane cycle included
+061018: Metabolic completeness of sulfur cycle updated. Now it is specific for genomes. Do not match with the original publication.
+10192018: New script to cluster data with several projection method python3 scripts/F_MEBS_cluster.py
+18102018: Pfams for N and Fe pathways are included. Example of the scores in a phylogenetic tree https://itol.embl.de/tree/97981518041461538630153
+07032021: Added a new script to compute clustering analysis based on  presence abscence  matrix mebs_clust.py
+14102021: Added markers cycle to compute genomic completeness of MAGs and genomes
+14102021: Updates in the mebs_vis.py script to generate a single file for genomic compleness and another separated file for normalized scores
+
