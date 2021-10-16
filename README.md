@@ -4,9 +4,9 @@
 
 The development of  https://github.com/eead-csic-compbio/metagenome_Pfam_score   and any updates and new versions of MEBS will be posted on this new website.
 
-The code is regularly patched (see [CHANGES.txt](./CHANGES.txt)) regurarly. 
+The code is regularly patched see [CHANGES.txt](./CHANGES.txt) regurarly. 
 
-MEBS has been used in a variety of studies (see citing papers [here](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4642441397530015315)
+MEBS has been used in a variety of studies (see citing papers [here](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4642441397530015315))
 
 We kindly ask you to report errors or bugs in the program in the [issues section of the github](https://github.com/valdeanda/mebs/issues) and to acknowledge the use of the program in scientific publications.
 
