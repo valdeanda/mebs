@@ -20,9 +20,6 @@ Key literature references:
 
 3.Langwig MV, De Anda V, Dombrowski N, Seitz KW, Rambo IM, Greening C, Teske AP, Baker BJ. Large-scale protein level comparison of Deltaproteobacteria reveals cohesive metabolic groups. ISME J. 2021 Jul 30. doi: 10.1038/s41396-021-01057-y. Epub ahead of print. PMID: 34331018.
 
-
-
-
 System requirements and installation:
 ================================================================================
 This software has been tested in Linux and MacOSX systems. The software is composed of 3 main scripts (mebs.pl, mebs_vis.py and mebs_clust.py) written in perl, python3 and python3 respectively.
@@ -54,7 +51,6 @@ To install the above modules including python3
    $ sudo -H pip3 install --upgrade scipy     # Linux (Ubuntu, Debian..)
    $ sudo -H pip3 install --upgrade seaborn   # Linux (Ubuntu, Debian..)
 
-
 Conda option
 
 Istall conda or miniconda depending of your needs. See webpage for more info
@@ -65,5 +61,4 @@ Once conda is installed activate conda and use the yml file provided with mebs.
 conda activate
 conda env create -f mebs.yml
 conda activate mebs_env
-
 
