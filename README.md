@@ -4,6 +4,17 @@
 
 The development of  https://github.com/eead-csic-compbio/metagenome_Pfam_score   and any updates and new versions of MEBS will be posted on this new website.
 
+# Dependencies
+
+
+- hmmsearch 
+- python >= 3.6.2
+- python modules:
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+
 
 # `Basic usage`
 
@@ -70,14 +81,7 @@ See [Langwig-De Anda et al. 2021](https://www.nature.com/articles/s41396-021-010
 
 
 
-# Dependencies
 
-- python >= 3.6.2
-- python modules:
-  - numpy
-  - matplotlib
-  - pandas
-  - seaborn
 
 
 
