@@ -38,7 +38,7 @@ from subprocess import run
 # Script arguments and options #
 ################################
 epilog = """Example:
-$  python3 mebs_vis.py test_genomes.out """
+$  python3 mebs_vis.py gen_test.tsv """
 
 parser = argparse.ArgumentParser(description=__doc__, epilog=epilog,
 								 formatter_class=RawDescriptionHelpFormatter)
