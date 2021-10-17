@@ -1,6 +1,6 @@
 Authors
 ===============================================================================
-MEBS  is designed, created and maintained by Valerie De Anda at the University of Austin Texas, USA (https://cns.utexas.edu/component/cobalt/item/9-marine-science/3799-de-anda-valerie?Itemid=349) Bruno Contrearas Moreira at the Laboratory of Computational
+MEBS  is designed, created and maintained by Valerie De Anda at the University of Texas at Austin, USA (https://cns.utexas.edu/component/cobalt/item/9-marine-science/3799-de-anda-valerie?Itemid=349) Bruno Contrearas Moreira at the Laboratory of Computational
 Biology at Estacion Experimental de Aula Dei (EEAD/CSIC http://www.eead.csic.es/compbio)
 in Zaragoza, Spain, and Cesar Augusto Hernandez at the Cellular Physiology Institute of Universidad Nacional
 Autonoma de Mexico (http://www.ifc.unam.mx/busqueda.php).
