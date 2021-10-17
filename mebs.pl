@@ -52,12 +52,11 @@ if (-t STDIN && ($INP_help || $INP_folder eq '' || $INP_type eq '') && !$INP_cyc
 
    -fdr     Score cycles with False Discovery Rate @validFDR  (optional, default=$FDR)
 
-   -cycles  Show currently supported biogeochemical cycles/pathways
+   -cycles  Show currently supported cycles/pathways
    
    -comp    Compute the metabolic completeness of default cycles.         (optional) 
             Required option  for mebs_output.py                                 
 
-   -custom  Compute the metabolic completeness of user input pathways     (optional) 
 
 EODOC
 }
@@ -208,7 +207,7 @@ if($INP_FDR)
   }
 }
 
-###Option to use TGRFAM or Pfam 
+###To do  
 
 ##if custom is selected download current pfam database  
 #option would you like to dowload current Pfam database?
