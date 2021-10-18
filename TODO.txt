@@ -3,5 +3,4 @@
 -Add pfam option to mebs.pl
 -Add tsv files with detailed  description of pathways
 -Table output where the above pathway report is combined for all input files into one master file that can be easily looked through. So users  don’t have to sift through all the individual files for all the input.
-
--
+- Add redundancy formula and contamination to the genomics module 
