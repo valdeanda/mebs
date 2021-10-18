@@ -409,7 +409,6 @@ print("[END]   Done........................\n"
 	  "_itol_mebs_comp.txt\n",
 	  "8. File to be used as the input of F_MEBS_cluster.py -s none option", args.filename +
 	  "_2_cluster_mebs.txt\n",
-	  ".............................\n",
       "9. Genomic completeness based on single copy marker genes:", args.filename +
       " _genomic_completenes.tab\n",
       "10. Normalized mebs scores ", args.filename +
