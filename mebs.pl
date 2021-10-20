@@ -8,7 +8,7 @@ use FindBin '$Bin';
 # B Contreras-Moreira, V de Anda 2018
 # bcontreras@eead.csic.es , valdeanda@ciencias.unam.mx 
 
-my $VERSION = 'v1.0';
+my $VERSION = 'v1.2';
 my $DEBUG = 0;
 
 my $HMMSEARCHEXE = 'hmmsearch'; # please edit if not in path
