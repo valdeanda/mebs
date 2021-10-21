@@ -21,5 +21,5 @@ Installation instructions are summarized on [README.txt](./README.txt) and full 
  |version|Link|
  |-------|----|
  |MEBS v1.2|[manual](https://valdeanda.github.io/mebs/README-1.html)|
- |MEBS v1.1|[manual](xxx)|
+ |MEBS v1.1|[manual](http://eead-csic-compbio.github.io/metagenome_Pfam_score/READMEv1.html)|
  |MEBS v1.0|[manual-pdf](https://github.com/eead-csic-compbio/metagenome_Pfam_score/blob/master/manual.v1.pdf/)|
