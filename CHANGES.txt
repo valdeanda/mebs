@@ -10,4 +10,4 @@
 07032021: Added a new script to compute clustering analysis based on  presence abscence  matrix mebs_clust.py
 14102021: Added markers cycle to compute genomic completeness of MAGs and genomes
 14102021: Updates in the mebs_vis.py script to generate a single file for genomic compleness and another separated file for normalized scores
-
+07112021: Merge with Anthony Fullam branch Changed python shebang to take environment python
