@@ -32,4 +32,4 @@ Installation instructions are summarized on [README.txt](./README.txt) and full 
 |Introduction|11:46|https://www.youtube.com/watch?v=ezc7yFnnMI0|
 |Description|15:54|https://www.youtube.com/watch?v=wpCG7MvqQc8|
 |Functionality|18:46|https://www.youtube.com/watch?v=ufF2q23w7nU|
-|Hands-on|27:29|https://www.youtube.com/watch?v=8p37ktWWgGc&|
+|Hands-on|27:29|https://www.youtube.com/watch?v=8p37ktWWgGc|
