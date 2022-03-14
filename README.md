@@ -16,7 +16,7 @@ De Anda V, Zapata-Peñasco I, Poot-Hernandez AC, Eguiarte LE, Contreras-Moreira 
 
 # `Installation and instructions`
 
-Installation instructions are summarized on [README.txt](./README.txt) and full documentation is available in two        flavours:
+Installation instructions are summarized on [README.txt](./README.txt) and full documentation is available for each version:
 
  |version|Release|Link|
  |-------|-------|----|
