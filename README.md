@@ -23,3 +23,13 @@ Installation instructions are summarized on [README.txt](./README.txt) and full 
  |MEBS v1.2|October 2021|[manual](https://valdeanda.github.io/mebs/README-1.html)|
  |MEBS v1.1|October 2018|[manual](http://eead-csic-compbio.github.io/metagenome_Pfam_score/READMEv1.html)|
  |MEBS v1.0|October 2017|[manual-pdf](https://github.com/eead-csic-compbio/metagenome_Pfam_score/blob/master/manual.v1.pdf/)|
+
+# `Video workshop`
+
+|contents|minutes|URL|
+|--------|--------|---|
+|Basic usage|3:05|https://www.youtube.com/watch?v=j5WmsbTaro4|
+|Introduction|11:46|https://www.youtube.com/watch?v=ezc7yFnnMI0|
+|Description|15:54|https://www.youtube.com/watch?v=wpCG7MvqQc8|
+|Functionality|18:46|https://www.youtube.com/watch?v=ufF2q23w7nU|
+|Hands-on|27:29|https://www.youtube.com/watch?v=8p37ktWWgGc|
