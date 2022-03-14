@@ -28,7 +28,7 @@ Installation instructions are summarized on [README.txt](./README.txt) and full 
 
 |contents|minutes|URL|
 |--------|--------|---|
-|Basic usage|3:05|https://www.youtube.com/watch?v=j5WmsbTaro4|
+|Val's Bio|3:05|https://www.youtube.com/watch?v=j5WmsbTaro4|
 |Introduction|11:46|https://www.youtube.com/watch?v=ezc7yFnnMI0|
 |Description|15:54|https://www.youtube.com/watch?v=wpCG7MvqQc8|
 |Functionality|18:46|https://www.youtube.com/watch?v=ufF2q23w7nU|
