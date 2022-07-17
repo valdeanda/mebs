@@ -1,6 +1,7 @@
 name: mebs_env
 channels:
   - conda-forge
+  - bioconda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
@@ -8,6 +9,7 @@ dependencies:
   - certifi=2020.12.5=py39hf3d152e_0
   - cycler=0.10.0=py_2
   - freetype=2.10.4=h7ca028e_0
+  - hmmer=3.3.2=h87f3376_2
   - joblib=0.17.0=py_0
   - jpeg=9d=h36c2ea0_0
   - kiwisolver=1.3.1=py39h081fc7a_0
